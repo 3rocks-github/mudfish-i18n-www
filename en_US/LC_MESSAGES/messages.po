@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: mudfish\n"
 "Report-Msgid-Bugs-To: weongyo@gmail.com\n"
 "POT-Creation-Date: 2021-01-04 23:11+0900\n"
-"PO-Revision-Date: 2021-01-10 06:36+0000\n"
+"PO-Revision-Date: 2021-01-10 10:42+0000\n"
 "Last-Translator: Weblate Admin <weongyo@3rocks.net>\n"
 "Language-Team: English (United States) <https://weblate.mudfish.net/projects/"
 "mudfish/www/en_US/>\n"
@@ -70,7 +70,7 @@ msgid "로그인이 필요합니다."
 msgstr "You need to sign-in first."
 
 msgid "RTT 데이타가 없습니다."
-msgstr "No RTT data available"
+msgstr "No RTT data available."
 
 msgid "서버 위치를 찾지 못하였습니다."
 msgstr "Can't find the destination server information."
@@ -125,14 +125,14 @@ msgstr "Wrong Mudfish Credit information."
 
 #, python-format
 msgid "이미 등록된 E-MAIL '%(email)s' 주소입니다."
-msgstr "Already registered E-Mail '%(email)s' exists"
+msgstr "Already registered E-Mail '%(email)s' exists."
 
 #, python-format
 msgid "이미 등록된 사용자 ID '%(username)s' 입니다."
 msgstr "Already registered username '%(username)s' exists."
 
 msgid "내부 오류 입니다."
-msgstr "Internal Error"
+msgstr "Internal Error."
 
 msgid "[미꾸라지] 가입 인증 메일"
 msgstr "[Mudfish Networks] Account Activation"
