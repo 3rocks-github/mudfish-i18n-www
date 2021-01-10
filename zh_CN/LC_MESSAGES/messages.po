@@ -1,0 +1,3657 @@
+# Translations template for Mudfish Homepage.
+# Copyright (C) 2021 Mudfish Networks Inc.
+# This file is distributed under the same license as the Mudfish Homepage
+# project.
+# 
+# Translators:
+# JIMAN HAM <losviajeros@naver.com>, 2016,2019
+# weongyo <weongyo@gmail.com>, 2016-2020
+msgid ""
+msgstr ""
+"Project-Id-Version: mudfish\n"
+"Report-Msgid-Bugs-To: weongyo@gmail.com\n"
+"POT-Creation-Date: 2021-01-04 23:11+0900\n"
+"PO-Revision-Date: 2020-10-12 06:28+0000\n"
+"Last-Translator: weongyo <weongyo@gmail.com>\n"
+"Language-Team: Chinese (China) (http://www.transifex.com/mudfish/mudfish/language/zh_CN/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "대시보드"
+msgstr "控制面板"
+
+msgid "첫화면"
+msgstr "首页"
+
+msgid "개인정보 보호정책"
+msgstr "隐私政策"
+
+msgid "이용약관"
+msgstr "服务条款"
+
+msgid "다운로드"
+msgstr "下载"
+
+msgid "사람을 찾습니다!"
+msgstr "招聘信息"
+
+msgid "중계 서버 상태"
+msgstr "服务器状态"
+
+msgid "쇼핑"
+msgstr "商店"
+
+msgid "미꾸라지 게임 공유기"
+msgstr "MUDFISH路由器"
+
+msgid "로그인"
+msgstr "登录"
+
+msgid "미꾸라지: 가속 서비스"
+msgstr "MUDFISH: 网络加速服务"
+
+msgid "스트리밍"
+msgstr "串流服务"
+
+msgid "사이트"
+msgstr "网站"
+
+msgid "게임"
+msgstr "游戏"
+
+msgid "로그인이 필요합니다."
+msgstr "需要登录"
+
+msgid "RTT 데이타가 없습니다."
+msgstr "没有RTT数据"
+
+msgid "서버 위치를 찾지 못하였습니다."
+msgstr "无法找到服务器的资料"
+
+msgid "DB 오류가 발생했습니다."
+msgstr "DB错误"
+
+msgid "잘못된 양식입니다."
+msgstr "错误的信息"
+
+msgid "자동 선택"
+msgstr "自动选择"
+
+msgid "무료"
+msgstr "免费"
+
+msgid "종량제"
+msgstr "按流量付费"
+
+msgid "알수없음"
+msgstr "无法知道"
+
+#, python-format
+msgid "%(years)d 년"
+msgstr "%(years)d 年"
+
+#, python-format
+msgid "%(months)d 달"
+msgstr "%(months)d 月"
+
+#, python-format
+msgid "%(days)d 일"
+msgstr "%(days)d 日"
+
+#, python-format
+msgid "%(hours)d 시간"
+msgstr "%(hours)d 小时"
+
+#, python-format
+msgid "%(minutes)d 분"
+msgstr "%(minutes)d 分钟"
+
+#, python-format
+msgid "%(seconds)d 초"
+msgstr "%(seconds)d 秒"
+
+msgid "죽은 중계 서버"
+msgstr "断线服务器"
+
+msgid "크레딧 정보가 잘못 되었습니다."
+msgstr "错误的鳅币信息"
+
+#, python-format
+msgid "이미 등록된 E-MAIL '%(email)s' 주소입니다."
+msgstr "%(email)s邮箱已注册"
+
+#, python-format
+msgid "이미 등록된 사용자 ID '%(username)s' 입니다."
+msgstr "%(username)s用户名已注册"
+
+msgid "내부 오류 입니다."
+msgstr "内部错误"
+
+msgid "[미꾸라지] 가입 인증 메일"
+msgstr "[Mudfish]帐号激活"
+
+msgid "지원하지 않는 Method 입니다."
+msgstr "暂不支持这个途径"
+
+msgid ""
+"\n"
+"        계정을 활성화하기 위한 이메일 인증 메일을 발송하였습니다.  인증 완료시\n"
+"        테스트를 위한 작은 크레딧을 받으실 수 있습니다..\n"
+"    "
+msgstr "\n请查看你的电子邮件箱。当激活完成后，将送给你鳅币红包。"
+
+msgid "계정이 성공적으로 생성되었습니다."
+msgstr "你的帐户创建成功。"
+
+msgid ""
+"\n"
+"          계정을 활성화하기 위한 이메일 인증 메일을 발송하였습니다.\n"
+"          인증 완료시 테스트를 위한 작은 크레딧을 받으실 수 있습니다..\n"
+"        "
+msgstr "\n请查看您的电子邮件件箱。当激活完成后，将送给你鳅币红包。"
+
+msgid "확인되지 않는 Key 정보입니다."
+msgstr "未知的Key信息。"
+
+msgid ""
+"이메일 인증 되었습니다! 혹시 미꾸라지 프로그램은 설치하셨는지요?\n"
+"        아래에서 자신의 운영체제 맞는 배포판을 설치하시면 됩니다."
+msgstr "已成功激活你的账号。你是否安装过Mudfish？请查看下载页面并选择安装合适的安装包。"
+
+msgid "ID 혹은 패스워드가 잘못되었습니다."
+msgstr "错误的用户名或密码。"
+
+msgid "ID 혹은 Token 이 잘못되었습니다."
+msgstr "错误ID或令牌。"
+
+msgid "해당 E-Mail 주소 정보를 찾을 수 없습니다."
+msgstr "找不到电子邮件地址。"
+
+msgid "[미꾸라지] ID 찾기"
+msgstr "[Mudfish]用户名恢复。"
+
+msgid "등록하신 메일 주소로 ID 정보를 보내 드렸습니다."
+msgstr "向注册邮件发送用户名信息。"
+
+msgid ""
+"\n"
+"            현재 내부 문제로 인해 메일 발송이 지연되고 있습니다.  추후에 다시\n"
+"            시도 바랍니다."
+msgstr "\n由于内部错误邮件投递延迟。请一分钟后再次尝试。"
+
+msgid "해당 사용자 Key 가 존재하지 않습니다."
+msgstr "用户密钥不存在。"
+
+msgid "해당 사용자 ID 가 존재하지 않습니다."
+msgstr "没有存在的用户名。"
+
+msgid "[미꾸라지] 비밀번호 찾기 - 임시 비밀번호 발급"
+msgstr "[Mudfish]临时密码。"
+
+msgid "등록하신 메일 주소로 임시 비밀번호를 보내 드렸습니다."
+msgstr "向注册邮件发送临时密码。"
+
+msgid "[미꾸라지] 비밀번호 찾기 - 인증키 발급"
+msgstr "[Mudfish]查找密码-颁发验证密钥"
+
+msgid "등록하신 메일 주소로 인증키를 보내 드렸습니다."
+msgstr "我们将身份验证密钥发送到注册的电子邮件地址。"
+
+msgid "요금제가 갱신된 상태로, 다시 로그인이 필요합니다."
+msgstr "由于数据付费计划更改，需要重新登录。"
+
+msgid "패스워드가 일치하지 않습니다"
+msgstr "你输入的密码不匹配"
+
+msgid "현재 패스워드가 틀렸습니다."
+msgstr "错误的当前密码"
+
+msgid "패스워드가 변경되었습니다."
+msgstr "密码已被更改"
+
+msgid "목록 제한 기능이 업데이트 되었습니다."
+msgstr "已更新可用服务器名单"
+
+msgid "중계 서버 정보를 얻지 못하였습니다."
+msgstr "收不到服务器的信息"
+
+msgid "잘못된 접근입니다."
+msgstr "执行访问被拒绝"
+
+msgid "기록없음"
+msgstr "记录不存在"
+
+msgid "사용자를 찾지 못하였습니다."
+msgstr "无法找到用户资料"
+
+msgid "성공적으로 삭제되었습니다."
+msgstr "删除成功"
+
+msgid "잘못된 값입니다."
+msgstr "错误信息"
+
+msgid "허락되지 않는 확장자입니다."
+msgstr "不允许的扩展名"
+
+msgid "정보가 변경되었습니다."
+msgstr "信息已经改变了"
+
+msgid "변경된 정보가 없습니다."
+msgstr "没有任何改变信息"
+
+msgid "정액제"
+msgstr "订阅"
+
+msgid "언제든지 가능함"
+msgstr "任何时候都可以"
+
+msgid "아이템 정보를 조회할 수 없습니다."
+msgstr "无法发现物品信息"
+
+msgid ""
+"\n"
+"          내부 오류가 발생하였습니다.  지속적일 경우 포럼에 문제 보고 부탁드립니다.\n"
+"        "
+msgstr "\n内部错误。如果该错误持续发生，请与我们联系。"
+
+msgid "기준 통화(Currency)가 설정되어 있지 않습니다."
+msgstr "基础货币(Currency)未设置"
+
+msgid "잔여 크레딧이 부족합니다."
+msgstr "没有可用的鳅币"
+
+msgid "정액제 요금제 전용 아이템입니다.  구매 할 수 없습니다."
+msgstr "这物品限于订阅数据套餐使用。无法装备。"
+
+msgid "두 중계 서버가 같을 수 없습니다."
+msgstr "不能选择同一台服务器。"
+
+msgid "구매 완료하였습니다!"
+msgstr "成功装备。"
+
+msgid "설정 구성을 시작합니다."
+msgstr "启动自动配置。"
+
+msgid "프로그램을 재시작해주셔야 적용됩니다."
+msgstr "需要重启应用"
+
+msgid "중계 서버 정보를 찾을 수 없습니다."
+msgstr "收不到服务器的信息。"
+
+msgid "설정이 저장되었습니다."
+msgstr "设置已保存。"
+
+msgid "연결 안됨"
+msgstr "未连接"
+
+msgid "연결 하기"
+msgstr "已连接"
+
+msgid "연결됨"
+msgstr "已连接"
+
+msgid "완료"
+msgstr "已完成"
+
+msgid "아이템이 삭제되었습니다."
+msgstr "此物品已被删除"
+
+msgid "정액제 요금제 사용자가 아닙니다."
+msgstr "你的数据付费计划不是订阅方式。"
+
+msgid "사용자 아이템 설정을 조회할 수 없습니다."
+msgstr "无法咨询你的物品信息"
+
+msgid "아이템이 기간 연장되었습니다."
+msgstr "物品的到期日期已延长"
+
+msgid "더 이상 구매할 아이템이 없습니다."
+msgstr "无更多可用物品"
+
+msgid "지정하신 아이템을 찾을 수 없습니다."
+msgstr "无法找到你指定的物品"
+
+msgid "로그인 하셔야 합니다."
+msgstr "请登录"
+
+msgid "아이템이 성공적으로 업데이트되었습니다."
+msgstr "此物品已成功更新。"
+
+msgid "아이템이 성공적으로 추가되었습니다."
+msgstr "此物品已成功添加。"
+
+msgid "¥ 19"
+msgstr "¥19"
+
+msgid "¥ 29"
+msgstr "¥29"
+
+msgid "¥ 49"
+msgstr "¥49"
+
+msgid "¥ 99"
+msgstr "¥99"
+
+msgid "¥ 299"
+msgstr "¥299"
+
+msgid "¥ 499"
+msgstr "¥499"
+
+msgid "오류"
+msgstr "错误"
+
+msgid "990원"
+msgstr "₩990"
+
+msgid "2,990원"
+msgstr "₩2,990"
+
+msgid "4,990원"
+msgstr "₩4,990"
+
+msgid "9,990원"
+msgstr "₩9,990"
+
+msgid "29,990원"
+msgstr "₩29,990"
+
+msgid "49,990원"
+msgstr "₩49,990"
+
+msgid "99,990원"
+msgstr "₩99,990"
+
+msgid "죄송합니다. 당분간 중국 통화를 받지 않습니다."
+msgstr "道歉。暂时不收人民币付款。"
+
+msgid "[미꾸라지] 알리페이 결제요청이 접수되었습니다."
+msgstr "[Mudfish]已接受你的支付宝付款请求。"
+
+msgid "[미꾸라지] WeChat 결제요청이 접수되었습니다."
+msgstr "[Mudfish]已接受你的微信支付请求。"
+
+msgid "입금인 성명이 없습니다."
+msgstr "没有存款人的名字。"
+
+msgid "Alias 계정으로는 크래딧 구매를 할 수 없습니다.  Master 계정으로 접속하세요."
+msgstr "用别号不能充值鳅币。请你用主号再登录充值鳅币。"
+
+msgid "잘못된 기준 통화입니다."
+msgstr "错误的基础货币。"
+
+msgid "잘못된 통화입니다."
+msgstr "错误的货币。"
+
+msgid "환전이 성공적으로 수행되었습니다."
+msgstr "兑换成功。"
+
+msgid "처리 완료"
+msgstr "已完成。"
+
+msgid "환불 완료"
+msgstr "退款完成。"
+
+msgid "환불 처리중"
+msgstr "退款正在进行中"
+
+msgid "환불 요청하였습니다.  환불 처리까지 최대 1 ~ 3 영업일이 걸릴 수 있습니다."
+msgstr "退款请求已取得进展。 退款处理最多可能需要1至3个工作日。"
+
+msgid "Full VPN 모드의 중계 서버 설정이 잘못되었습니다."
+msgstr "在完整VPN功能上，错误选择服务器"
+
+msgid "프로그램을 재시작하셔야 적용됩니다."
+msgstr "需要重应用"
+
+msgid ""
+"\n"
+"1) 어떤 문제 때문에 문제점 보고를 하시려고 하는 건가요?\n"
+"\n"
+"\n"
+"\n"
+"2) 문제를 그대로 재현하려면 어떻게 해야 하나요?\n"
+"\n"
+msgstr "\n1）你遇到了什么问题？\n\n2）遇到的问题可以怎样重现？\n\n"
+
+msgid "설정이 초기화되었습니다."
+msgstr "设置已复位。"
+
+msgid "잘못된 MTU 값입니다."
+msgstr "错误的MTU值。"
+
+msgid ""
+"\n"
+"                  Full VPN 모드를 다시 세팅하세요. '설정 → 중계 서버' 메뉴의\n"
+"                  정책과 매치되지 않습니다.\n"
+"                "
+msgstr "\n请再设置完整VPN功能。不符合在于‘设置 → 服务器’上的政策。"
+
+msgid "상태: Queued"
+msgstr "状态：排队中"
+
+msgid "상태: Escalated"
+msgstr "状态：已报告"
+
+#, python-format
+msgid "<p>%(username)s 님 작성:</p>"
+msgstr "<p>%(username)s wrote:</p>"
+
+msgid "존재하지 않는 글입니다."
+msgstr "本主题不存在。"
+
+msgid "권한이 없습니다."
+msgstr "您没有许可。"
+
+msgid "제목 없음"
+msgstr "无主题"
+
+msgid "내용을 입력해 주세요."
+msgstr "请填写内容。"
+
+#, python-format
+msgid "[미꾸라지] 포럼 새 댓글: %(title)s"
+msgstr "[Mudfish] 论坛新评论: %(title)s"
+
+msgid "포럼 새 댓글"
+msgstr "新评论"
+
+msgid "다음 글에 대한 새로운 글이 달렸습니다."
+msgstr "新评论已发布："
+
+msgid "댓글 내용이 없습니다."
+msgstr "没发现内容。"
+
+msgid "아카이브된 글입니다."
+msgstr "主题已存档。"
+
+msgid "당신은 누구신가요?"
+msgstr "你是谁？"
+
+msgid "댓글을 찾을 수 없습니다."
+msgstr "找不到评论。"
+
+msgid "댓글 수정이 실패하였습니다."
+msgstr "修改评论失败。"
+
+#, python-format
+msgid "먼저 질문하신 순으로 답변을 드리고 있습니다.  답변까지 약 %(hours)s 시간 정도를 기다리셔야 합니다."
+msgstr "答案将以先到先得的方式提供。 你必须等待大约 %(hours)s 时才能得到答案。"
+
+msgid "주제글이 등록되었습니다."
+msgstr "此帖已被注册。"
+
+msgid "글을 찾을 수 없습니다."
+msgstr "找不到主题。"
+
+msgid "글 삭제가 허락되지 않습니다.."
+msgstr "不允许删除。"
+
+msgid "미꾸라지 포럼"
+msgstr "Mudfish论坛"
+
+msgid "결과를 찾을 수 없습니다."
+msgstr "没有发现结果。"
+
+msgid "저장되었습니다."
+msgstr "它已被保存。"
+
+msgid "현재 미꾸라지 프로그램이 실행중이 아닙니다."
+msgstr "正在未执行mudfish应用。"
+
+msgid "연결을 먼저하시기 바랍니다."
+msgstr "请先连接。"
+
+msgid "DB 오류가 발생했습니다"
+msgstr "发生DB错误。"
+
+msgid "지정한 파일을 찾을 수 없습니다 - 미꾸라지"
+msgstr "找不到指定的文件 - Mudfish"
+
+msgid "내부 오류가 발생하였습니다 - 미꾸라지"
+msgstr "发生内部错误 - Mudfish"
+
+msgid "로그아웃 되었습니다."
+msgstr "成功登出。"
+
+msgid "허용되지 않은 문자가 사용되었습니다."
+msgstr "使用了无效字符。"
+
+msgid "허용되지 않은 E메일 도메인입니다."
+msgstr "不允许的电子邮件域名。"
+
+msgid "사용자 ID"
+msgstr "用户名"
+
+msgid "E 메일"
+msgstr "电子邮件"
+
+msgid "패스워드"
+msgstr "密码"
+
+msgid "현재 패스워드"
+msgstr "当前密码"
+
+msgid "새 패스워드"
+msgstr "新密码"
+
+msgid "새 패스워드(다시 입력)"
+msgstr "新密码（重新输入一遍）"
+
+msgid "언어"
+msgstr "语言"
+
+msgid "요금제"
+msgstr "数据套餐"
+
+msgid "사용함"
+msgstr "开"
+
+msgid "사용 안함"
+msgstr "关"
+
+msgid "전문가 모드"
+msgstr "专家模式"
+
+msgid "아바타"
+msgstr "头像"
+
+msgid "기록함"
+msgstr "记录"
+
+msgid "기록 하지 않음"
+msgstr "不记录"
+
+msgid "접속 기록 여부"
+msgstr "连接记录"
+
+#, python-format
+msgid "알 수 없는 도메인입니다. (%(rt)s)"
+msgstr "未知域名。(%(rt)s)"
+
+#, python-format
+msgid "CIDR 형식이 아닙니다. (%(rt)s)"
+msgstr "错误的CIDR格式。(%(rt)s)"
+
+#, python-format
+msgid "IP 포맷이 잘못 되었습니다. (%(rt)s)"
+msgstr "IP格式不正确。(%(rt)s)"
+
+#, python-format
+msgid "Subnet 문법이 틀렸습니다. (%(rt)s)"
+msgstr "子网句法错误。(%(rt)s)"
+
+#, python-format
+msgid "라우팅 경로 문법이 틀렸습니다. (%(rt)s)"
+msgstr "路由路径句法错误。(%(rt)s)"
+
+msgid "동영상"
+msgstr "连续播送"
+
+msgid "카테고리 ID"
+msgstr "分类ID"
+
+msgid "이름"
+msgstr "名字"
+
+msgid "아이콘"
+msgstr "图标"
+
+msgid "설명"
+msgstr "简介"
+
+msgid "라우팅 경로"
+msgstr "路由路径"
+
+msgid "RTT 위치"
+msgstr "RTT位置"
+
+msgid "RTT IP"
+msgstr "RTT IP"
+
+msgid "제목"
+msgstr "主题"
+
+msgid "크레딧 구매하기"
+msgstr "充值鳅币"
+
+msgid "다른 ID로 변경?"
+msgstr "更改为其他ID？"
+
+msgid "상품명"
+msgstr "产品名称"
+
+msgid "미꾸라지 크레딧"
+msgstr "鳅币"
+
+msgid "결제 통화"
+msgstr "支付货币"
+
+msgid "AUD - 호주 달러"
+msgstr "AUD  - 澳大利亚元"
+
+msgid "CNY - 중국 위안"
+msgstr "CNY  - 人民币"
+
+msgid "JPY - 일본 엔"
+msgstr "JPY  - 日元"
+
+msgid "KRW - 대한민국 원"
+msgstr "KRW  - 韩元"
+
+msgid "USD - 미국 달러"
+msgstr "USD  - 美元"
+
+msgid "결제 수단"
+msgstr "支付方法"
+
+msgid "결제 가격"
+msgstr "支付价格"
+
+msgid "$ 2.99"
+msgstr "$ 2.99"
+
+msgid "$ 4.99"
+msgstr "$ 4.99"
+
+msgid "$ 9.99"
+msgstr "$ 9.99"
+
+msgid "$ 29.99"
+msgstr "$ 29.99"
+
+msgid "$ 49.99"
+msgstr "$ 49.99"
+
+msgid "$ 99.99"
+msgstr "$ 99.99"
+
+msgid "구매 요청"
+msgstr "充值"
+
+msgid "Alipay (支付宝)"
+msgstr "Alipay (支付宝)"
+
+msgid "WeChat (微信)"
+msgstr "WeChat (微信支付)"
+
+msgid "결제 계정 별명"
+msgstr "支付宝昵称"
+
+msgid "Nickname (昵称)"
+msgstr "Nickname (昵称)"
+
+msgid "결제 확인을 위해 Nickname (昵称) 을 정확히 입력해주세요."
+msgstr "为了确认你的付款，请正确地输入支付宝的昵称 (Nickname) 。"
+
+msgid "연락 E메일"
+msgstr "联系电子邮件"
+
+msgid "결제 처리 / 문제 해결을 위한 연락처로 사용됩니다."
+msgstr "出现任何问题后可用此联系方式。"
+
+msgid "알리페이 계좌이체"
+msgstr "支付宝付款"
+
+msgid "접수되었습니다."
+msgstr "你的请求被接受。"
+
+msgid "아래의 QR 코드로 선택하신 금액을 입금해 주시면 됩니다."
+msgstr "请扫描下面的二维码进行支付。"
+
+msgid ""
+"\n"
+"      계좌 이체 발생 후 크레딧 충전까지 <b>최소 1 시간</b>,\n"
+"      <b>최대 24 시간</b>이 소요될 수\n"
+"      있는 점과\n"
+"      영업 시간 (한국 기준시 9AM ~ 6PM, 월-금)\n"
+"      내에만 처리를 해드리는 점\n"
+"      양해 바랍니다.\n"
+"      "
+msgstr "\n请注意，支付后，账款至少需要1小时(最多24小时)处理时间，并且只在营业时间处理 (周一 — 周五 9 AM - 6 PM)。"
+
+msgid "WeChat 계좌이체"
+msgstr "WeChat(微信支付)"
+
+msgid ""
+"아래의 QR 코드를 통해 친구 추가를 하신 후, 입력하신 입금액을\n"
+"보내주세요."
+msgstr "扫二维码加好友后，把付款的金额转账给我们。"
+
+msgid "¥ 999"
+msgstr "¥ 999"
+
+msgid "¥ 2,999"
+msgstr "¥ 2,999"
+
+msgid "¥ 4,999"
+msgstr "¥ 4,999"
+
+msgid "¥ 9,999"
+msgstr "¥ 9,999"
+
+msgid "카카오페이"
+msgstr "Kakaopay"
+
+msgid "Toss (토스)"
+msgstr "Toss"
+
+msgid "휴대폰"
+msgstr "手机支付(仅限于韩国)"
+
+msgid "신용카드"
+msgstr "信用卡"
+
+msgid "실시간 계좌이체"
+msgstr "实时银行转账(仅限于韩国)"
+
+msgid "직접 계좌이체"
+msgstr "自行转账(仅限于韩国)"
+
+msgid "비트코인"
+msgstr "比特币"
+
+msgid "2,990 원"
+msgstr "₩ 2,990"
+
+msgid "4,990 원"
+msgstr "₩ 4,990"
+
+msgid "9,990 원"
+msgstr "₩ 9,990"
+
+msgid "29,990 원"
+msgstr "₩ 29,990"
+
+msgid "49,990 원"
+msgstr "₩ 49,990"
+
+msgid "99,990 원"
+msgstr "₩ 99,990"
+
+msgid "입금인"
+msgstr "付款人的名字"
+
+msgid "성명"
+msgstr "名字"
+
+msgid "자신의 성명 (은행 계좌 예금주) 을 입력하시면 됩니다."
+msgstr "请输入你银行账户的名字。"
+
+msgid "입금인 성명을 적어 주세요."
+msgstr "请输入付款人的名字。"
+
+msgid "크레딧 환전"
+msgstr "鳅币兑换"
+
+msgid "다음과 같이 크레딧을 환전하고자 합니다."
+msgstr "鳅币兑换如下："
+
+msgid "<b>환전 전:</b>"
+msgstr "<b>总换之前:</b>"
+
+msgid "<b>환전 후:</b>"
+msgstr "<b>总换之后:</b>"
+
+msgid "정말로 환전하시겠습니까?"
+msgstr "你想要兑换吗？"
+
+msgid "네. 환전하겠습니다."
+msgstr "是。我想兑换。"
+
+msgid "크레딧 구매 내역"
+msgstr "付款记录"
+
+msgid "처음 오셨나요?"
+msgstr "第一次使用Mudfish？"
+
+msgid ""
+"\n"
+"    이곳은 미꾸라지 프로그램의 대쉬 보드로써 아이템 구매 / 프로그램 설정 /\n"
+"    계정 관리를 할 수 있는 곳입니다.  아래와 같은 쉬운 방법으로 사용하실 수\n"
+"    있습니다.\n"
+"    "
+msgstr "\n此处是Mudfish控制面板，可以管理帐号并装备物品。以下已是一个简单指导，协助你装备第一件物品。"
+
+msgid ""
+"\n"
+"\t'<span class='fa fa-gift'></span> 아이템 &rarr; 아이템 구매' 를\n"
+"\t클릭하셔서 미꾸라지를 통해 사용하실 아이템을 구매합니다.  만약 크레딧이\n"
+"\t부족하다면 충전 후 구매 가능합니다.\n"
+"\t"
+msgstr "\n按'<span class='fa fa-gift'></span> 物品 → 装备物品'，可以装备适当的物品。如果不够鳅币，先去充值才装备。\n\t"
+
+msgid ""
+"\n"
+"\t'<span class='glyphicon glyphicon-download-alt'></span> 다운로드'\n"
+"\t링크를 클릭하셔서 자신의 운영체제 맞는 배포판을 설치합니다.\n"
+"\t"
+msgstr "\n按 '<span class='glyphicon glyphicon-download-alt'></span> 下载'，可以安装最新的mudfish应用。"
+
+msgid ""
+"\n"
+"\t미꾸라지를 실행하신 후 로그인하시면 해당 아이템을 이용하기\n"
+"\t위한 환경이 자동으로 구성됩니다.\n"
+"\t"
+msgstr "\n当您通过Mudfish启动程序登录时，所有的设置均为自动。"
+
+msgid ""
+"\n"
+"    자세한 부분은\n"
+"    <a href='https://docs.mudfish.net/ko/docs/mudfish-launcher/intro/'\n"
+"       class='alert-link'>대쉬보드 사용법</a>\n"
+"    문서를 참고하시길 권해드립니다.\n"
+"    "
+msgstr "\n具体的内容，请参考在于<a href='https://docs.mudfish.net/ko/docs/mudfish-launcher/intro/'\n       class='alert-link'>How to use Dashboard</a>英文版文件。 "
+
+msgid "장착한 아이템"
+msgstr "已装备物品"
+
+msgid "최단 경로 확인"
+msgstr "检查最短路径"
+
+msgid "실시간 RTT"
+msgstr "实时RTT"
+
+msgid "실시간 트래픽"
+msgstr "实时流量"
+
+msgid "실시간 트래픽 사용량"
+msgstr "实时流量使用"
+
+msgid "실시간 크레딧 사용량"
+msgstr "实时鳅币使用"
+
+msgid ""
+"\n"
+"  Full VPN 모드 기능을 위해 사용중인 중계 서버가 죽어 있습니다.\n"
+"  '설정 - 프로그램' 메뉴에 들어가셔서 Full VPN 모드 설정을\n"
+"  다시 하시기 바랍니다.\n"
+"  "
+msgstr "\n在完整VPN功能上，你选择的服务器是断线状态。请在‘设置 - 程序’上再选择别的服务器。"
+
+msgid ""
+"\n"
+"  Full VPN 모드를 사용 안함으로 지금 변경하시겠습니까?\n"
+"  "
+msgstr "\n愿意关闭完整VPN模式吗？"
+
+msgid "Full VPN 기능"
+msgstr "完整VPN功能"
+
+msgid "네"
+msgstr "是"
+
+msgid "아니요"
+msgstr "否"
+
+msgid ""
+"\n"
+"  Full VPN 모드 기능을 위해 사용중인 공개 무료 서버가 죽어 있습니다.\n"
+"  '설정 - 프로그램' 메뉴에 들어가셔서 Full VPN 모드 설정을\n"
+"  다시 하시기 바랍니다.\n"
+"  "
+msgstr "\n在完整VPN模式上免费服务器现在断线状态。请在‘设置 - 程序’上再选择别的免费服务器。"
+
+msgid "상태"
+msgstr "状态"
+
+msgid "하위 계정"
+msgstr "别号"
+
+msgid "계정 타입"
+msgstr "帐户类型"
+
+msgid "FastConnect 모드"
+msgstr "FastConnect模式(仅限于TCP)"
+
+msgid "Per-Eaddr 모드"
+msgstr "Per-Eaddr 模式"
+
+msgid "Full VPN 모드"
+msgstr "完整VPN模式"
+
+msgid "연결 여부"
+msgstr "连接状态"
+
+msgid "프로세스"
+msgstr "处理"
+
+msgid "설정 구성"
+msgstr "配置"
+
+msgid "작동중"
+msgstr "运行中"
+
+msgid "패킷 덤프"
+msgstr "数据包转储"
+
+msgid ""
+"\n"
+"  크레딧 충전 내용을 적용하기 위해서는 다시 로그인을 하셔야 합니다.\n"
+"  지금 로그아웃 하시겠습니까?\n"
+"  "
+msgstr "\n为了更新付款信息，请再次登录。 你想要登出吗？"
+
+msgid "주의"
+msgstr "警告"
+
+msgid "변경 내역이 적용되지 아직 않았습니다."
+msgstr "还没反映出更新信息。"
+
+msgid "알아두세요!"
+msgstr "通知!"
+
+msgid ""
+"\n"
+"    현재 브라우저를 통해 미꾸라지 홈페이지에 직접 접속중입니다.\n"
+"    프로그램(VPN) 동작을 위해서는 미꾸라지 Launcher 를 통해 접속하시기\n"
+"    바랍니다.\n"
+"    "
+msgstr "\n现在你还没开Mudfish应用。为了开启VPN和加速功能，请打开Mudfish Launcher应用。"
+
+msgid ""
+"\n"
+"\t현재 미꾸라지 안드로이드 앱을 통해 접속중입니다.\n"
+"\t이 대쉬보드에서의 설정은 PC / 공유기용으로 앱에는 적용되지 않습니다.\n"
+"\t"
+msgstr "\n正在通过安卓应用上Mudfish服务。在控制面板上的一些设置无法使用。"
+
+msgid "안녕하세요."
+msgstr "你好。"
+
+msgid "공유기"
+msgstr "Router"
+
+#, python-format
+msgid "현재 %(username)s 계정으로 로그인하였습니다."
+msgstr "正在你的帐户是%(username)s。"
+
+msgid "주요 링크"
+msgstr "主要链接"
+
+msgid "크레딧"
+msgstr "鳅币"
+
+msgid "구매하기"
+msgstr "充值"
+
+msgid "구매 내역"
+msgstr "充值记录"
+
+msgid "계정"
+msgstr "帐户"
+
+msgid "개인정보 수정"
+msgstr "编辑个人资料"
+
+msgid "비밀번호 변경"
+msgstr "更改密码"
+
+msgid "하위 계정 관리"
+msgstr "管理别号"
+
+msgid "지원"
+msgstr "支持"
+
+msgid "1:1 문의"
+msgstr "Private Support"
+
+msgid "내가 쓴 글"
+msgstr "我的评论"
+
+msgid "아이템 구매"
+msgstr "购买物品"
+
+msgid "아이템은 <strong>한달</strong> 동안 유효합니다."
+msgstr "此物品有限于<strong>1 个月</strong>。"
+
+msgid ""
+"\n"
+"\t    이 차감됩니다.\n"
+"\t    "
+msgstr "\n将会被扣掉。\n\t    "
+
+msgid "주의하세요!"
+msgstr "请注意！"
+
+msgid ""
+"\n"
+"    이 아이템의 경우 CDN (Content Delivery Network) 관련 라우팅 정보를\n"
+"    포함하고 있습니다.  미꾸라지가 켜져 있는 상태에서 파일 다운로드나\n"
+"    스트리밍을 할 경우 의도치 않게 크레딧이 많이 차감될 수 있습니다.\n"
+"    "
+msgstr "\n此物品的路由表里包含CDN(Content Delivery Network)有关信息，下载大容量数据或串流视频时也许耗费流量和你的鳅币。"
+
+msgid "자동 갱신"
+msgstr "自动刷新"
+
+msgid ""
+"\n"
+"\t시간을 절약하고 귀찮은 과정을 건너뛸 수 있습니다.\n"
+"\t남은 잔여일이 3일 미만이 되면, 아이템 유효 기간이 자동으로\n"
+"\t갱신되며 크레딧이 차감됩니다.\n"
+"\t"
+msgstr "\n为了节省你的时间和步骤。当剩余天数少于3天时，物品会自动刷新也自动扣掉鳅币。"
+
+msgid "서버 위치"
+msgstr "服务器位置"
+
+msgid ""
+"\n"
+"\t\t  이 아이템이 지원하는 게임 / 사이트 / 스트리밍 서버 위치를\n"
+"\t\t  가르킵니다.\n"
+"\t\t  "
+msgstr "\n显示了物品支持的游戏/网站/串流视频的目标位置。"
+
+msgid ""
+"\n"
+"\t\t  최적의 RTT 및 중계 서버 정보를 받기 위해서는 아래의 위치 중\n"
+"\t\t  접속하는 서버 위치를 선택해 주세요.\n"
+"\t\t  "
+msgstr "\n指定目标服务器，以获得详细RTT信息。"
+
+msgid "목적지 위치"
+msgstr "目标服务器(游戏/网站/串流服务器)"
+
+msgid "선택"
+msgstr "选择"
+
+msgid "사설 서버"
+msgstr "私人服务器"
+
+msgid "공식 서버"
+msgstr "官方服务器"
+
+msgid "중계 서버"
+msgstr "Mudfish服务器"
+
+msgid ""
+"\n"
+"\t사용할 중계 서버를 선택하십시오.\n"
+"\t"
+msgstr "\n选择Mudfish服务器。"
+
+msgid "기본 모드"
+msgstr "基本模式"
+
+msgid "하나의 중계 서버를 경유하여 트래픽이 전달됩니다."
+msgstr "流量会通过1个Mudfish服务器传送。"
+
+msgid "고급 모드"
+msgstr "高级模式"
+
+msgid "두개의 중계 서버들을 경유하여 트래픽이 전달됩니다."
+msgstr "流量会通过2个Mudfish服务器传送。"
+
+msgid "정말로 구매하시겠습니까?"
+msgstr "您想购买并装备吗？"
+
+msgid "아이템 구매하기"
+msgstr "购买物品"
+
+msgid "아이템"
+msgstr "物品"
+
+msgid "설정"
+msgstr "设置"
+
+msgid ""
+"\n"
+"\t이 아이템이 지원하는 게임 / 사이트 / 스트리밍 서버 위치를\n"
+"\t가르킵니다.\n"
+"\t"
+msgstr "\n本物品支持的游戏/网站/串流视频的目标服务器名单。"
+
+msgid ""
+"\n"
+"\t최적의 RTT 및 중계 서버 정보를 받기 위해서는 아래의 위치 중\n"
+"\t접속하는 서버 위치를 선택해 주세요.\n"
+"\t"
+msgstr "\n为获得最佳RTT或服务器信息，请指定一个你正在游戏的目标位置。"
+
+msgid "안내"
+msgstr "信息"
+
+msgid "선택하신 중계 서버로 변경되었습니다."
+msgstr "已更改为选定的服务器。"
+
+msgid "오늘의 추천 경로"
+msgstr "今天的路由"
+
+msgid ""
+"\n"
+"\t  계산된 최적의 미꾸라지 중계 서버 이용 경로들이며,\n"
+"\t  예상 RTT 평균과 편차 정보입니다.\n"
+"\t  "
+msgstr "\n已使用Mudfish服务器和预计RTT平均值和标准值计算了路由路径。"
+
+msgid ""
+"\n"
+"          전체 목록을 보실려면 <a href='/admin/user/rtt_map'>여기</a>에서\n"
+"          확인하세요.\n"
+"\t  "
+msgstr "\n想要查看完整名单，请按<a href='/admin/user/rtt_map'>这里</a>。"
+
+msgid "목적지"
+msgstr "目的地"
+
+msgid "계산 시각"
+msgstr "已计算"
+
+msgid "전"
+msgstr "之前"
+
+msgid "FastConnect 모드가 켜져있습니다. 이 경우, 중계 서버 고급 모드가 지원되지 않습니다."
+msgstr "打开FastConnect功能，不支持高级模式。"
+
+msgid "사용 여부"
+msgstr "是否装备"
+
+msgid ""
+"\n"
+"\t아이템 사용 여부를 선택합니다.\n"
+"\t"
+msgstr "\n选择是否装备物品。"
+
+msgid "설정하기"
+msgstr "保存"
+
+msgid "기타 옵션"
+msgstr "选项"
+
+msgid "기간 연장"
+msgstr "延长到期"
+
+msgid "아이템 삭제"
+msgstr "删除物品"
+
+msgid "정말 기간 연장 하겠습니까?"
+msgstr "您要延长到期吗？"
+
+msgid "주의 사항"
+msgstr "警告"
+
+msgid "남은 시간"
+msgstr "剩余时间"
+
+#, python-format
+msgid "%(days)d 일 남음"
+msgstr "%(days)d 天剩余"
+
+#, python-format
+msgid "%(hours)d 시간 남음"
+msgstr "%(hours)d 小时剩余"
+
+msgid "남은 시간에 31 일이 추가됩니다."
+msgstr "另外31天将延长。"
+
+msgid "닫기"
+msgstr "关闭"
+
+msgid "정말 삭제하시겠습니까?"
+msgstr "你确定要删除吗？"
+
+msgid "남은 기간은 크레딧으로 환불되지 않습니다."
+msgstr "不可退还剩余鳅币。"
+
+msgid "삭제된 아이템은 복구할 수 없습니다.  재구매하셔야 합니다."
+msgstr "删除后不可恢复。 你应该买新的物品。"
+
+msgid ""
+"\n"
+"  접속하시는 서버 위치를 선택해 주세요.  RTT 및 중계 서버 계산에 사용됩니다.\n"
+"  "
+msgstr "\n指定一个目标位置。它将用于计算最佳RTT或服务器的信息。"
+
+msgid "RTT 상황"
+msgstr "RTT状态"
+
+msgid "목적지 서버 위치"
+msgstr "目标服务器"
+
+msgid "아래에서 목적지를 선택해 주세요."
+msgstr "选择下面的目标。"
+
+msgid "내부 오류"
+msgstr "内部错误"
+
+msgid "최단 경로"
+msgstr "最短路径"
+
+msgid "RTT 기반으로 검색된 추천 최단 경로들입니다."
+msgstr "以下是根据RTT(往返时间)平均值计算出的最短路径。"
+
+msgid "추천 경로"
+msgstr "推荐路径"
+
+msgid "예상 RTT 평균값"
+msgstr "预计RTT平均值。"
+
+msgid "기본 모드 사용보다 나은 추천 최단 경로를 찾을 수 없습니다."
+msgstr "无法找到比基本模式更好的更佳路由路径。"
+
+msgid "예상 RTT 표준편차"
+msgstr "预计RTT标准偏差。"
+
+msgid "RTT 서버"
+msgstr "RTT服务器"
+
+msgid "사용자 <-> 중계 서버 구간"
+msgstr "用户端 <-> mudfish服务器"
+
+msgid "중계 서버 <-> 게임서버 구간"
+msgstr "mudfish服务器 <-> 目标服务器（游戏/网站）"
+
+msgid "전체 구간"
+msgstr "一体"
+
+msgid "중계 서버 목록"
+msgstr "Mudfish服务器列表"
+
+msgid "RTT"
+msgstr "RTT"
+
+msgid "시스템 부하를 가르킵니다. CPU Steal 퍼센트/IO Wait 퍼센트/네트웍 카드 오류수"
+msgstr "系统负载。CPU Steal等待 %% / IO等待%% / NIC错误"
+
+msgid "시스템 부하"
+msgstr "系统负载"
+
+msgid "지난 5 분간 이 중계 서버가 처리한 트래픽량을 가르킵니다.  단위는 MBytes 입니다."
+msgstr "最后5分钟流量。单位是兆字节。"
+
+msgid "트래픽양"
+msgstr "流量"
+
+msgid "패킷로스"
+msgstr "丢包"
+
+msgid ""
+"각 항목에 대한 점수(Score)은 '사용자 컴퓨\n"
+"터 &#8594; 미꾸라지 중계 서버 &#8594; Backend 서버'까지의 RTT (Round Trip Time) 의 평균 + 표준편차의 합을 나타냅니다."
+msgstr "该得分是从用户桌面至目标服务器的RTT(往返时间)平均值+标准值的总和。"
+
+msgid "평가점수"
+msgstr "得分"
+
+msgid "RTT 그래프"
+msgstr "RTT图"
+
+msgid "계산중입니다."
+msgstr "正在计算中"
+
+msgid "활성화됨"
+msgstr "已启用"
+
+msgid "비활성화됨"
+msgstr "已禁用"
+
+msgid "선택된 중계 서버"
+msgstr "已选择Mudfish服务器"
+
+msgid "가격"
+msgstr "价格"
+
+msgid "정액제 전용"
+msgstr "仅订阅数据套餐"
+
+msgid "구입 가능한 아이템이 없습니다."
+msgstr "无可用物品。"
+
+msgid "아이템 관리"
+msgstr "管理物品"
+
+msgid "구매하신 아이템이 없습니다."
+msgstr "未购买物品"
+
+msgid "아이템 수정"
+msgstr "修改物品"
+
+msgid "아이템 추가"
+msgstr "添加物品"
+
+msgid "카테고리"
+msgstr "分类"
+
+msgid "아이템 이름"
+msgstr "物品名称"
+
+msgid ""
+"\n"
+"\t    해당 아이템에 대한 적당한 아이콘을 지정해 주시면 됩니다. 이 부분은\n"
+"\t    선택 사항이며 미지정시 기본 아이콘이 보이게 됩니다.\n"
+"\t    "
+msgstr "\n选择你想要使用的物品。这是可选的，若您不选择将使用默认图标。"
+
+msgid "목적지 정보를 입력하시면 됩니다."
+msgstr "输入目的地信息。"
+
+msgid "필수 사항입니다."
+msgstr "必须填写"
+
+msgid "RTT 체크"
+msgstr "RTT测试"
+
+msgid ""
+"\n"
+"\t    (<b>선택사항</b>)\n"
+"\t    RTT (Round Trip Time, 핑) 체크를 위한 정보를 입력할 수\n"
+"\t    있으며, 입력시 해당 서버와의 연결 상태를 중계 서버 별로 확인 할 수\n"
+"\t    있습니다.  현재는 ICMP 프로토콜만 지원합니다.\n"
+"\t    "
+msgstr "\n(<b>Optional</b>)\n在你选择的物品上，可以查看RTT测试的结果。目前仅限于ICMP方式测试。"
+
+msgid "Asia (South Korea)"
+msgstr "亚洲（韩国）"
+
+msgid "IPv4 주소"
+msgstr "IPv4地址"
+
+msgid "수정하기"
+msgstr "修改"
+
+msgid "추가하기"
+msgstr "添加"
+
+msgid "개인 아이템"
+msgstr "自作物品"
+
+#, python-format
+msgid ""
+"\n"
+"      이 아이템은 %(username)s 님이 제작한 아이템입니다.\n"
+"      아래의 메뉴를 이용하여 수정 / 삭제를 하실 수 있습니다.\n"
+"      "
+msgstr "\n这个物品是由您创建的，%(username)s 。因此，您可以在以下链接控制你的物品。"
+
+msgid "로컬 컴퓨터"
+msgstr "本地电脑"
+
+msgid "설정 저장"
+msgstr "保存"
+
+msgid "적용할 장치"
+msgstr "申请装置"
+
+msgid ""
+"\n"
+"\tPer-Eaddr 모드를 이용하여 특정 Ethernet Address (Mac Address) 를\n"
+"\t가진 컴퓨터만 미꾸라지를 적용할 수 있습니다.\n"
+"\n"
+"\t만약 아무것도 지정하지 않는다면 공유기에 접속한 모든 컴퓨터 / 장치에\n"
+"\t미꾸라지가 적용됩니다.\n"
+"\t"
+msgstr "\nUsing Per-Eaddr mode, only the computer with a specific Ethernet Address (Mac Address) can apply the mudfish.\n\nIf nothing is specified, the mudfish will be applied to all computers / devices connected to the router."
+
+msgid ""
+"\n"
+"\t1 줄 당 1 개의 Ethernet Address (Mac Address) 를 입력하시기 바랍니다.\n"
+"\t"
+msgstr "\nEnter one Ethernet Address (Mac Address) per line."
+
+msgid ""
+"\n"
+"  변경하신 설정을 적용하기 위해서는 다시 로그인을 하셔야 합니다.\n"
+"  지금 로그아웃 하시겠습니까?\n"
+"  "
+msgstr "\n要反应出你的设置，需要重新登录。现在马上登出吗？"
+
+msgid "로그 아웃 확인"
+msgstr "登出确认"
+
+msgid "설정이 적용되지 아직 않았습니다."
+msgstr "你的设置在Mudfish应用上还没反映出来。"
+
+msgid "입력한 Mac Address 가 올바르지 않습니다:"
+msgstr "您输入的Mac Address不正确："
+
+msgid "오류가 발생하였습니다:"
+msgstr "发生错误："
+
+msgid "Per-Eaddr 모드가 업데이트되었습니다.  반드시 미꾸라지를 재시작하셔야 적용됩니다."
+msgstr "Per-Eaddr模式已更新。您必须重新启Mudfish才能生效。"
+
+msgid "목록 제한"
+msgstr "管理服务器名单"
+
+msgid ""
+"\n"
+"      목록 정책에 적용할 중계 서버를 지정합니다.\n"
+"      중계 서버 목록은 지정한 정책에 따라 보여지게 됩니다.\n"
+"      "
+msgstr "\n能指定可显示的服务器的列表。"
+
+msgid "국가 코드"
+msgstr "国家代码"
+
+msgid "중계 서버를 선택해 주세요."
+msgstr "请选择mudfish服务器。"
+
+msgid "고급 모드 결과 포함"
+msgstr "包括高级模式的结果"
+
+msgid ""
+"\n"
+"      중계 서버 모드 중 '고급 모드' 를 사용한 추천 경로 결과를 포함할지를\n"
+"      결정합니다.  기본값은 Off 입니다.\n"
+"      "
+msgstr "\n是否包括高级模式的结果，默认关闭。"
+
+msgid "목록 정책"
+msgstr "可显示服务器的列表"
+
+msgid ""
+"\n"
+"      중계 서버 목록을 Whitelist 정책으로 지정할지 Blacklist 정책으로\n"
+"      지정할지를 결정합니다.  기본값은 Whitelist 정책입니다.\n"
+"      "
+msgstr "\n可以选择白名单或者黑名单的方式设置可显示服务器的列表。默认是白名单模式。"
+
+msgid "잘못된 설정"
+msgstr "错误的设置"
+
+msgid "Full VPN 모드의 중계 서버는 1 개만 설정하셔야 합니다."
+msgstr "在完整VPN模式上，只能选择一台服务器。"
+
+msgid "프로그램"
+msgstr "程序"
+
+msgid "기본 설정"
+msgstr "一般"
+
+msgid "미꾸라지 중계 서버"
+msgstr "Mudfish服务器"
+
+msgid "공개 무료 서버"
+msgstr "免费服务器"
+
+msgid "Full VPN - XP 모드"
+msgstr "完整VPN  -  XP模式"
+
+msgid ""
+"\n"
+"      몇몇 Windows XP 버전의 경우, Full VPN 설정시 제대로 라우팅\n"
+"      테이블이 설정되지 않는 문제점이 존재하는데, 이 옵션을 활성화시\n"
+"      강제 라우팅 테이블 설정을 수행 합니다. Windows XP 사용자만\n"
+"      해당합니다.\n"
+"      "
+msgstr "\n对于一些Windows XP用户，此选项可启用路由表调整，以解决一个路由表没有设置正确的问题。"
+
+msgid "설정 초기화"
+msgstr "重启"
+
+msgid ""
+"\n"
+"  컴퓨터에서 발생되는 모든 트래픽을 공개 무료 서버를 통해 전달합니다.\n"
+"  만약 이 기능을 사용하실려면 아래의 이용 가능한 공개 무료 서버 중 하나를\n"
+"  선택해 주세요.\n"
+"  "
+msgstr "\n所有数据都由免费服务器处理。请你选择在名单上可用的免费服务器。"
+
+msgid "경고"
+msgstr "警告"
+
+msgid ""
+"\n"
+"  이 공개 무료 서버들은 미꾸라지 네트웍스에서 제공되는 공식 서버가 아니기\n"
+"  때문에 이 서버들을 사용함으로 인해 발생되는 이슈는 미꾸라지 네트웍스에서\n"
+"  책임지지 않습니다.\n"
+"  "
+msgstr "\n这些公开免费服务器不是由我们来提供的，因此我们不保证你使用这些服务器所遇到的问题。"
+
+msgid ""
+"\n"
+"      컴퓨터에서 발생되는 모든 트래픽을 미꾸라지 중계 서버로 전달합니다.\n"
+"      만약 이 기능을 사용하실려면 아래의 이용 가능한 중계 서버를\n"
+"      선택해 주세요.\n"
+"      "
+msgstr "\n重新定向所有从桌面到Mudfish服务器的流量。请选择下方的Mudfish服务器之一来使用。"
+
+msgid "연결 프로토콜"
+msgstr "连接协议"
+
+msgid ""
+"\n"
+"      미꾸라지가 중계 서버와 통신에 사용할 프로토콜을 지정합니다.\n"
+"      "
+msgstr "\n指定用于与Mudfish服务器通信的协议。"
+
+msgid "FEC 기반"
+msgstr "在于FEC基础"
+
+msgid "RTT 검사 방법"
+msgstr "RTT检查方法"
+
+msgid ""
+"\n"
+"      미꾸라지가 중계 서버까지의 RTT (Round Trip Time) 을 측정하기 위해\n"
+"      사용할 프로토콜을 지정합니다.\n"
+"      "
+msgstr "\n指定用于测量客户端与Mudfish服务器之间RTT (往返时间)的协议。"
+
+msgid "MTU 설정"
+msgstr "MTU"
+
+msgid ""
+"\n"
+"      프로그램이 사용할 MTU (Maximum Transmission Unit) 크기를\n"
+"      지정합니다. 기본값은 1400 bytes 입니다.\n"
+"      "
+msgstr "\n指定程序使用的MTU（最大传输单元）值。默认值是1400个字节。"
+
+msgid ""
+"\n"
+"      미꾸라지가 트래픽을 처리할 때 Router 방식 대신 Proxy 방식으로\n"
+"      처리하게 합니다.\n"
+"      "
+msgstr "\n流量通过代理方式处理，不通过路由器处理。"
+
+msgid "연결 프로토콜이 TCP인 아이템에만 도움을 줍니다."
+msgstr "此设置仅限于TCP方式的服务才有帮助。"
+
+msgid "문제점 보고서 제출중입니다... 최대 2 분까지 걸릴 수 있습니다."
+msgstr "正在报告问题......这需要一段时间，最长2分钟。"
+
+msgid "성공적으로 제출 되었습니다. 감사합니다."
+msgstr "成功报告。谢谢。"
+
+msgid "문제점 보고"
+msgstr "报告问题"
+
+msgid "제목을 입력해 주세요."
+msgstr "请输入题目"
+
+msgid "내용"
+msgstr "描述遇到问题的具体内容"
+
+msgid ""
+"\n"
+"            자세한 상황과 재현 방법을 적어 주시면 문제 해결에 큰 도움이 됩니다.\n"
+"            "
+msgstr "\n如果能包含问题发生方式/时间详情将会很有帮助。"
+
+msgid "문제점 보고하기"
+msgstr "报告问题"
+
+msgid "혹시 아래의 질문에 답변이 있을 수 있습니다."
+msgstr "请查看以下链接。"
+
+msgid "연결 상태"
+msgstr "连接状态"
+
+msgid "호스트이름"
+msgstr "主机名"
+
+msgid "내부 주소"
+msgstr "专用IP"
+
+msgid "Uptime"
+msgstr "正常运行时间"
+
+msgid "Heartbeat"
+msgstr "心跳"
+
+msgid "가격 정책"
+msgstr "价格政策"
+
+msgid "국내 트래픽 (1 GBytes 당 가격)"
+msgstr "国内流量（每1GB价格）"
+
+msgid "원 (KRW)"
+msgstr "韩元（KRW）"
+
+msgid "국제 트래픽 (1 GBytes 당 가격)"
+msgstr "国际流量（每1GB价格）"
+
+msgid "CPU 사용률"
+msgstr "CPU使用率"
+
+msgid "시스템 부하률"
+msgstr "系统负载"
+
+msgid "네트워크 사용"
+msgstr "网络活动"
+
+msgid "네트워크 장치 에러 정보"
+msgstr "网络错误"
+
+msgid "정기 점검 안내"
+msgstr "维护公告"
+
+msgid ""
+"\n"
+"      서비스 안정화를 위한 정기 점검을 하려고 합니다. 이로 인해 점검 기간\n"
+"      동안 미꾸라지 이용에 문제가 있을 수 있음을 알려드립니다.\n"
+"      "
+msgstr "\n我们将进行维修。"
+
+msgid "대상: 모든 미꾸라지 중계 서버들"
+msgstr "目标：所有Mudfish服务器"
+
+msgid "일시"
+msgstr "日期"
+
+msgid "일"
+msgstr "天"
+
+msgid "시"
+msgstr "小时"
+
+msgid "분"
+msgstr "分钟"
+
+msgid "초"
+msgstr "秒"
+
+msgid "후에 점검이 시작됩니다."
+msgstr "距定期维护时间。"
+
+msgid ""
+"\n"
+"      점검을 시작하게 되면 미꾸라지 중계 서버를 경유한 기존 게임 연결이\n"
+"      끊어질 수 있으며 로그인, 홈페이지 접속에 문제가 있을 수 있습니다.\n"
+"      "
+msgstr "\n定期维护期间大部分服务将不可访问，无法登录Mudfish服务，您的连接将被强制中断。"
+
+msgid "점검중"
+msgstr "处于PM（定期维护）"
+
+msgid "미꾸라지가 성공적으로 실행되었습니다.  화면을 갱신하겠습니까?"
+msgstr "成功执行Mudfish应用。想要更新主页吗?"
+
+msgid "미꾸라지가 이미 실행중입니다. 화면을 갱신하겠습니까?"
+msgstr "Mudfish应用已正常执行。 想要更新主页吗?"
+
+msgid "실행 상태"
+msgstr "应用状态"
+
+msgid "화면 갱신을 하셔야 세부 정보가 표시됩니다."
+msgstr "需要更新页面才反映出新的数据。"
+
+msgid "미꾸라지 실행이 실패하였습니다."
+msgstr "Mudfish应用执行失败。"
+
+msgid "로그아웃 후 다시 로그인하겠습니까?"
+msgstr "登出后重新登录吗？"
+
+msgid "미꾸라지 실행이 계속 실패할 경우 미꾸라지 포럼에 문의바랍니다."
+msgstr "如果继续失败，请联系到Mudfish论坛。"
+
+msgid "미꾸라지가 성공적으로 종료하였습니다. 화면을 갱신하겠습니까?"
+msgstr "Mudfish应用结束成功。需要更新页面吗？"
+
+msgid "화면 갱신은 언제든지 하셔야 됩니다."
+msgstr "随时需要更新页面。"
+
+msgid "미꾸라지 종료가 실패하였습니다."
+msgstr "Mudfish应用结束失败。"
+
+msgid "현재 미꾸라지 프로그램이 실행중입니다."
+msgstr "正在运行Mudfish应用。"
+
+msgid "연결끊기"
+msgstr "断开"
+
+msgid "연결하기"
+msgstr "连接"
+
+msgid ""
+"\n"
+"\t미꾸라지 포럼이 Discourse 기반으로 새롭게 옮겼습니다.  미꾸라지\n"
+"\t서비스 관련 기술 지원은 미꾸라지 포럼을 통해서 지원해 드리니\n"
+"\t많은 이용 바랍니다.\n"
+"\t"
+msgstr "\nMudfish Forums are newly moved to one Discourse based. Please use it for technical related supports of Mudfish Services."
+
+msgid "새 미꾸라지 포럼"
+msgstr "New Mudfish Forums"
+
+msgid ""
+"\n"
+"\t'1:1 지원' 의 경우 개인적인 문의 (예를 들어, 크레딧 환불)\n"
+"\t를 할 경우 이용해 주시기 바랍니다.\n"
+"\t"
+msgstr "\n'Private Support' can be used to get a help for the private things such as the mudfish credits related."
+
+msgid ""
+"\n"
+"\t  마스터 (Master) 계정의 미꾸라지 크레딧을 공유하는 하위 미꾸라지 계정을\n"
+"\t  생성할 수 있습니다.\n"
+"\t  "
+msgstr "\n你可以创建个别号，这个别号能共享主号(Master)的鳅币。"
+
+msgid "계정 ID"
+msgstr "用户名"
+
+msgid "접속 IP"
+msgstr "连接 IP"
+
+msgid "접속 시간"
+msgstr "连接时间"
+
+msgid "생성 시간"
+msgstr "创建别号时间"
+
+msgid "생성된 하위 계정이 없습니다."
+msgstr "没有任何别号"
+
+msgid "계정 삭제"
+msgstr "删除别号"
+
+msgid "계정 추가"
+msgstr "创建别号"
+
+msgid "하위 계정 추가"
+msgstr "创建别号"
+
+msgid ""
+"\n"
+"\t  패스워드는 최소 6자 이상이여야 합니다.\n"
+"\t  "
+msgstr "\n使用至少6个字符的密码"
+
+msgid "하위 계정 생성"
+msgstr "创建别号"
+
+#, python-format
+msgid "%(username)s 님의 패스워드를 변경합니다."
+msgstr "正在更改%(username)s 的密码"
+
+msgid ""
+"\n"
+"\t  <strong>절대</strong> 평소에 쓰시는 혹은 금융 업무를 위한 패스워드를\n"
+"\t  <em>사용하지 마십시오</em>.\n"
+"\t  "
+msgstr "\n密码区分大小写。"
+
+msgid "변경하기"
+msgstr "修改"
+
+msgid "요금제 변경"
+msgstr "变更套餐"
+
+msgid ""
+"\n"
+"\t  요금제 변경을 시도하고 있습니다.  요금제는 한달에 오직 한번만 변경할 수\n"
+"\t  있기 때문에 신중하게 결정하시기 바랍니다.\n"
+"\t  "
+msgstr "\n您正在尝试更改您的计划。您每个月只能更改一次计划，所以要小心。"
+
+msgid "현재 요금제"
+msgstr "目前计划"
+
+msgid "변경할 요금제"
+msgstr "变更计划"
+
+msgid ""
+"\n"
+"\t      정액제에서 종량제로 요금제를 변경하실 경우, 기존 장착중인 아이템이 소멸됩니다.\n"
+"\t      "
+msgstr "\nIf you change your plan from Subscription to PPT (Pay Per Traffic), your existing items will be lost."
+
+msgid "내 사진"
+msgstr "我的照片"
+
+msgid "사용한 트래픽 만큼 차감"
+msgstr "按流量算费用"
+
+msgid "아이템 가격만 차감"
+msgstr "按物品价格算费用"
+
+msgid "속도 제한"
+msgstr "速度极限"
+
+msgid "무제한"
+msgstr "无限"
+
+msgid "1. 최소 1 개 이상의 유료 아이템 장착 필수"
+msgstr "1. 必须至少装备一个物品"
+
+msgid ""
+"\n"
+"\t    요금제는 한달에 오직 한번만 변경할 수 있습니다.\n"
+"\t    "
+msgstr "\n数据套餐每月最多可更换一次。"
+
+#, python-format
+msgid ""
+"\n"
+"\t      다음 변경 가능한 시점: %(dataplan_changable)s\n"
+"\t      "
+msgstr "\n下次可用时间：%(dataplan_changable)s 数据套餐更换"
+
+msgid ""
+"\n"
+"\t    중계 서버 이용의 접속 기록 여부를 설정합니다.\n"
+"\t    "
+msgstr "\n如果启用将记录mudfish服务器上的连接活动。"
+
+msgid ""
+"\n"
+"\t    활성화시 좀 더 전문적인 옵션들이 대쉬보드에 보이도록 합니다.\n"
+"\t    "
+msgstr "\n显示更详细的功能。"
+
+msgid "위험"
+msgstr "风险"
+
+msgid ""
+"\n"
+"\t      미꾸라지 계정을 삭제하기 위해서는 다음의 버튼을 클릭하시면 나오는\n"
+"\t      사이트에서 처리 가능합니다.\n"
+"\t      "
+msgstr "\n为了删除Mudfish帐户，请你去看看以下的网址。"
+
+msgid "계정 탈퇴하기"
+msgstr "删除帐户"
+
+msgid "최근 RTT 계산 정보"
+msgstr "计算出的最新RTT信息"
+
+msgid ""
+"\n"
+"아이템 별 최적의 미꾸라지 중계 서버 이용 경로입니다.  아래의 경로 이용시\n"
+"예상되는 RTT 평균과 편차를 정보를 확인할 수 있습니다.\n"
+msgstr "\n本信息是使用Mudfish服务器的可用的最短路由路径。您可以检查预计RTT平均值和标准值信息。\n"
+
+msgid "수동으로 RTT 정보를 갱신하려면 아래의 버튼을 클릭해 주세요."
+msgstr "请点击下方按钮来手动更新信息。"
+
+msgid "업데이트"
+msgstr "更新"
+
+msgid ""
+"\n"
+"    업데이트가 요청되었으며 갱신까지 최대 1 ~ 2 분까지 걸릴 수 있습니다.\n"
+"    "
+msgstr "\n更新请求已发送。请注意，它将占用1〜2分钟。"
+
+msgid "무료 서버 목록"
+msgstr "公开免费服务器"
+
+msgid ""
+"\n"
+"      미꾸라지 Core 의 내부 명령을 이용하여, Core 프로그램을 제어할 수 있습니다.\n"
+"      <b>help</b> 명령을 입력하시면 이용 가능한 명령어들 목록을 볼 수 있습니다.\n"
+"      "
+msgstr "\n使用CLI命令，你能够控制Mudfish应用的具体信息。想要观看可用的命令，打 <b>help</b> 命令就行。"
+
+msgid "명령어"
+msgstr "命令"
+
+msgid "패킷 덤프 중입니다."
+msgstr "转储文件包正在运行。"
+
+msgid "내부 오류가 발생하였습니다."
+msgstr "内部错误"
+
+msgid "정지"
+msgstr "停止"
+
+msgid "업로드가 완료되었습니다."
+msgstr "上传完毕。"
+
+msgid "미꾸라지를 통해 전달되는 패킷을 파일로 덤프하는 기능입니다."
+msgstr "您可以让Mudfish处理转储数据包。"
+
+msgid "파일 크기"
+msgstr "文件大小"
+
+msgid "시작"
+msgstr "开始"
+
+msgid "중지"
+msgstr "停止"
+
+msgid "전송하기"
+msgstr "上传"
+
+msgid "파일 업로드"
+msgstr "上传文件"
+
+msgid "한줄 설명"
+msgstr "简短介绍"
+
+msgid "패킷 덤프의 내용을 간략하게 설명해 주세요."
+msgstr "清洁是这个文件包的用途。"
+
+msgid ""
+"\n"
+"      <a href='https://en.wikipedia.org/wiki/MTR_(software)' target='_blank'>Matt's traceroute</a>\n"
+"      기능을 이용하여 입력하신 'IP / 호스트이름'을 대상으로 테스트를 실시합니다.\n"
+"      이 기능을 통해 어떤 Hop (라우터 구간)에서 Packet loss 가 발생되는지 혹은\n"
+"      지연 시간등의 정보를 확인할 수 있습니다.\n"
+"      "
+msgstr "\n使用<a href='https://en.wikipedia.org/wiki/MTR_(software)' target='_blank'>Matt's traceroute</a>应用输入‘IP / 主机名’的形式指定目的地，可以查看丢包率和网络状态。\n通过这个功能，我们会了解到底什么地点有丢包或延迟。"
+
+msgid "IP / 호스트이름"
+msgstr "IP / 主机名"
+
+msgid "관리"
+msgstr "管理"
+
+msgid "실행중인 테스트가 없습니다."
+msgstr "没有正在进行测试。"
+
+msgid "삭제"
+msgstr "删除"
+
+msgid "결과"
+msgstr "结果"
+
+msgid "Hop"
+msgstr "跳"
+
+msgid "패킷 로스"
+msgstr "丢包"
+
+msgid "요청수"
+msgstr "请求次数"
+
+msgid "응답수"
+msgstr "响应次数"
+
+msgid "주소"
+msgstr "地址"
+
+msgid "현재"
+msgstr "现在"
+
+msgid "최고"
+msgstr "最高"
+
+msgid "최저"
+msgstr "最低"
+
+msgid "저장하기"
+msgstr "保存"
+
+msgid "미꾸라지 실행을 위해서는 다시 로그인이 필요해 보입니다.  지금 로그아웃 하시겠습니까?"
+msgstr "为了执行Mudfish应用，需要重新登录。现在重新登录吗？"
+
+msgid "연결하기를 위해서는 재로그인이 필요합니다."
+msgstr "为了正常连接，需要重新登录。"
+
+msgid "접속 기록"
+msgstr "访问记录"
+
+msgid ""
+"\n"
+"      접속 기록은 1 MBytes 이상 전송된 출발지/목적지에 대해서만 보여집니다.\n"
+"      "
+msgstr "\n这些访问记录是一个列表，记录了所有至少超过1M的流量使用。"
+
+msgid ""
+"\n"
+"\t현재 접속 기록 여부가 '기록 안함'으로 설정되어 있기 때문에, 접속 기록이\n"
+"\t제대로 보이지 않을 수 있습니다. 설정을 변경하실려면,\n"
+"\t'설정 -> 계정 -> 개인정보 수정' 메뉴에서 하실 수 있습니다.\n"
+"\t"
+msgstr "\n你已经设置‘不需要访问记录’，无法看到任何信息。想要修改这个设置，去‘设置 -> 帐户 -> 编辑个人资料’。"
+
+msgid "날짜"
+msgstr "日期"
+
+msgid "출발지"
+msgstr "出发点"
+
+msgid "국내 In/Out"
+msgstr "国内 进/出"
+
+msgid "국제 In/Out"
+msgstr "国外 进/出"
+
+msgid "내 컴퓨터"
+msgstr "我的电脑"
+
+msgid "내부 오류가 발생했습니다. 잠시 후 다시 시도해 보세요."
+msgstr "内部错误。请稍后尝试。"
+
+msgid "자체 진단"
+msgstr "自我诊断"
+
+msgid ""
+"\n"
+"      아래의 목록을 살펴보셔서 <span class='fa fa-fw fa-times'></span>\n"
+"      마크가 있는지 확인 바랍니다.  해당 마크가 있다면 각 항목에 대한 '도움말'을\n"
+"      참고 바랍니다.\n"
+"      "
+msgstr "\n在下面列表上看到这<span class='fa fa-fw fa-times'></span>符号，请你去看看每个项目的‘帮助’内容。"
+
+msgid "진단 항목"
+msgstr "检查列表"
+
+msgid "Core 준비 여부"
+msgstr "Core进程是否准备"
+
+msgid "도움말"
+msgstr "帮助"
+
+msgid "중계 서버 자동 선택 아이템"
+msgstr "自动选择服务器的物品。"
+
+msgid "죽은 중계 서버가 세팅된 아이템"
+msgstr "mudfish服务器已停止的物品。"
+
+msgid "중앙 서버 테스트: 웹 페이지"
+msgstr "主服务器测试：首页"
+
+msgid "중앙 서버 테스트: 인증 서버"
+msgstr "主服务器测试：认证守护进程"
+
+msgid "중앙 서버 테스트: RTT 서버"
+msgstr "主服务器测试：RTT守护进程"
+
+msgid "방화벽 테스트: KR Asia (S. Korea - KT2 IDC) TCP Port"
+msgstr "防火墙测试：KR亚洲（韩国 -  KT2 IDC）TCP端口"
+
+msgid "방화벽 테스트: KR Asia (S. Korea - KT2 IDC) UDP Port"
+msgstr "防火墙测试：KR亚洲（韩国 -  KT2 IDC）UDP端口"
+
+msgid "내부망 테스트: KR Asia (S. Korea - KT2 IDC)"
+msgstr "专用网络测试：KR亚洲（韩国 -  KT2 IDC）"
+
+msgid "메모리"
+msgstr "内存"
+
+msgid "프로세스 종료"
+msgstr "终止进程"
+
+msgid ""
+"\n"
+"      현재 접속 기록 여부가 '기록 안함'으로 설정되어 있기 때문에, 그래프가\n"
+"      제대로 보이지 않을 수 있습니다. 설정을 변경하실려면,\n"
+"      '설정 -> 계정 -> 개인정보 수정' 메뉴에서 하실 수 있습니다.\n"
+"    "
+msgstr "\n你已经设置‘不需要访问记录’，无法看到任何图形。想要修改这个设置，去‘设置 -> 帐户 -> 编辑个人资料’。"
+
+msgid "지난 사용 트래픽 - 유료 중계 서버"
+msgstr "先前流量使用 - 付费服务器"
+
+msgid "국내 트래픽 (MB)"
+msgstr "国内流量（MB）"
+
+msgid "국제 트래픽 (MB)"
+msgstr "国际流量（MB）"
+
+msgid "지난 사용 트래픽 - 무료 중계 서버"
+msgstr "之前流量使用 - 免费服务器"
+
+#, python-format
+msgid ""
+"국내 트래픽 (1GBytes 당 가격): ₩ %(commercial_node_price_domestic)s "
+"(%(commercial_node_currency)s)"
+msgstr "国内流量（每1GB的价格）：₩%(commercial_node_price_domestic)s (%(commercial_node_currency)s)"
+
+#, python-format
+msgid ""
+"국제 트래픽 (1GBytes 당 가격): ₩ %(commercial_node_price_international)s "
+"(%(commercial_node_currency)s)"
+msgstr "国际流量（每1GB的价格）：₩ %(commercial_node_price_international)s (%(commercial_node_currency)s)"
+
+msgid "중계 서버 이름"
+msgstr "服务器名称"
+
+msgid "RTT 평균"
+msgstr "RTT平均值"
+
+msgid "RTT 표준편차"
+msgstr "RTT标准偏差"
+
+msgid "테스트 중계 서버"
+msgstr "测试服务器"
+
+msgid "테스트 성공"
+msgstr "测试成功"
+
+msgid "테스트 실패"
+msgstr "测试失败"
+
+msgid "프로세스 상태"
+msgstr "进程状态"
+
+msgid "프로그램 버전"
+msgstr "程序版本"
+
+msgid "링크"
+msgstr "链接"
+
+msgid "로딩중입니다."
+msgstr "加载中。"
+
+msgid "RTT 업데이트"
+msgstr "更新RTT"
+
+msgid ""
+"\n"
+"    업데이트 되었습니다. 하지만\n"
+"    현재 <strong><span id='forceRTTUpdateMinCnt1'></span></strong> 개의 RTT\n"
+"    정보만 결과값에 적용되었기 때문에 정확하지 않을 수 있습니다.\n"
+"    RTT 정보가 많을 수록 정확도가 올라갑니다.\n"
+"    "
+msgstr "\n已经更新好了。不过\n只有<strong><span id='forceRTTUpdateMinCnt1'></span></strong> 个RTT数值被更新了。RTT数值越多越提高测试结果的正确度。"
+
+msgid "새로고침"
+msgstr "刷新"
+
+msgid ""
+"\n"
+"    업데이트 되었습니다.\n"
+"    <strong><span id='forceRTTUpdateMinCnt2'></span></strong> 개의 RTT\n"
+"    정보가 수집되었습니다.\n"
+"    "
+msgstr "\n已经更新好了。收集了<strong><span id='forceRTTUpdateMinCnt2'></span></strong>个RTT数值。"
+
+msgid ""
+"\n"
+"    이미 업데이트 요청이 처리되었습니다.  잠시 후에 다시 시도해 보시기\n"
+"    바랍니다.\n"
+"    "
+msgstr "\n更新请求已经处理好了，稍后再试试看。"
+
+msgid ""
+"\n"
+"  변경하신 설정을 적용하기 위해서는 연결 종료 후 다시 연결하셔야 합니다.\n"
+"  다시 연결 하시겠습니까?\n"
+"  "
+msgstr "\n为了在应用上反映出你的设置，需要重新连接。现在重新连接吗？"
+
+msgid "연결 확인"
+msgstr "连接确认"
+
+msgid "미꾸라지 Core 를 종료 중입니다."
+msgstr "正在结束Mudfish Core应用。"
+
+msgid "잠시 후 미꾸라지 Core 를 시작합니다."
+msgstr "稍候开始Mudfish Core应用。"
+
+msgid "새 버전 안내"
+msgstr "新版本！"
+
+#, python-format
+msgid ""
+"\n"
+"    새 미꾸라지 배포판(<strong>v%(current_verstr)s</strong>)이\n"
+"    나왔습니다.\n"
+"    "
+msgstr "\n新版本 (<strong>v%(current_verstr)s</strong>) 发布。"
+
+#, python-format
+msgid ""
+"\n"
+"    최신 기능 및 버그 수정을 위해서 꼭 업데이트해주시기 바랍니다.  다운로드는\n"
+"    <a href='https://mudfish.net/download'>여기</a>\n"
+"    에서 받으실 수 있으며 현재 사용하고 계신 버전은 v%(user_verstr)s 입니다.\n"
+"    "
+msgstr "\n为了避开遇到问题和尝试新功能，最好建议你更新新版本。在<a href='https://mudfish.net/download'>这里</a>可以下载新版本。目前你使用的版本是 v%(user_verstr)s。"
+
+msgid ""
+"\n"
+"    자세한 변경 사항은\n"
+"    <a href='https://docs.mudfish.net/en/docs/mudfish-cloud-vpn/release-notes/'>릴리즈 노트</a>를\n"
+"    참고 바랍니다.\n"
+"    "
+msgstr "\n具体的更新资料，请参考在于<a href='https://docs.mudfish.net/en/docs/mudfish-cloud-vpn/release-notes/'>更新信息</a>。"
+
+msgid "현재 설정 구성중입니다...  잠시만 기다려 주십시오."
+msgstr "正在进行自动设置...请稍候。"
+
+msgid ""
+"\n"
+"    진행이 너무 오래 걸리면\n"
+"    <a class='alert-link' href='/admin/status/diag'>자체 진단</a>을 해보십시오.\n"
+"    "
+msgstr "\n如果进行速度太慢，请<a class='alert-link' href='/admin/status/diag'>自我检查</a>。"
+
+msgid "모든 설정 구성이 완료되었습니다!"
+msgstr "齐全了。马上使用Mudfish。"
+
+msgid "크레딧 상태"
+msgstr "鳅币状态"
+
+msgid "남은 크레딧"
+msgstr "鳅币"
+
+msgid "남은 트래픽 용량"
+msgstr "剩余流量"
+
+msgid "마지막 결제일"
+msgstr "最后支付"
+
+msgid "현재 마이너스 크레딧 상태입니다."
+msgstr "不够鳅币"
+
+msgid "잔여 크레딧이 없습니다."
+msgstr "无鳅币"
+
+msgid "아이템 구매를 위해서는 우선 크레딧 구매를 하셔야 합니다."
+msgstr "请先充值鳅币，再试试购买物品。"
+
+msgid "혹시 환불 / 결제 취소를 원하시나요?"
+msgstr "想退款吗？"
+
+#, python-format
+msgid ""
+"\n"
+"    미꾸라지는 <strong>7일</strong>의 <strong>무조건 환불 정책</strong>으로\n"
+"    운영됩니다.  결제하신 후 1 주 이내에\n"
+"    연락주시면 묻지도 따지지도 않고 100%% 환불해 드립니다.\n"
+"    "
+msgstr "\n在使用Mudfish应用上不太满意，我们特意保证100%%退款，只有<strong>1 个星期</strong>以内申请退款，<strong>没有任何疑问</strong>接受退款。"
+
+msgid "확인되는 거래내역이 없습니다."
+msgstr "没有支付记录。"
+
+msgid "지불 방법"
+msgstr "付款方式"
+
+msgid "금액"
+msgstr "金额"
+
+msgid "구매 날짜"
+msgstr "支付日期（KST）"
+
+msgid "직접 계좌 이체"
+msgstr "直接银行转账"
+
+msgid "환불 요청"
+msgstr "退款请求"
+
+msgid "다날 (Danal) 결제"
+msgstr "Danal(仅限于韩国)付款"
+
+msgid "환불 요청 취소"
+msgstr "取消退款请求"
+
+msgid "Paypal 결제"
+msgstr "Paypal"
+
+msgid "구글 플레이 결제"
+msgstr "Google Play Store"
+
+msgid "비트코인 결제"
+msgstr "比特币"
+
+msgid "Toss (토스) 결제"
+msgstr "Toss Payment"
+
+msgid "Alipay 결제"
+msgstr "支付宝付款"
+
+msgid "iPhone 결제"
+msgstr "ApplePay"
+
+msgid "Paymentwall"
+msgstr "Paymentwall"
+
+msgid "환불을 원하시는 분은 미꾸라지 포럼에 요청글을 남겨주시기 바랍니다."
+msgstr "需要申请退款，请联系到论坛。"
+
+msgid "환불 요청을 취소하시겠습니까?"
+msgstr "您确定要取消退款申请吗？"
+
+msgid "환불 요청을 계속 진행하시겠습니까?"
+msgstr "愿意申请退款吗？"
+
+msgid "새 개발자 버전 안내"
+msgstr "新的开发测试版本发布！"
+
+#, python-format
+msgid ""
+"\n"
+"    새로운 개발자 배포판(<strong>v%(dev_verstr)s</strong>)이\n"
+"    나왔습니다.\n"
+"    "
+msgstr "\n新的开发测试版本(<strong>v%(dev_verstr)s</strong>) 发布。"
+
+msgid ""
+"\n"
+"    새 기능 및 버그 패치들을 미리 테스트 할 수 있는 버전이지만\n"
+"    개발자 배포판이기 때문에 공식 배포판 보다 안정성이 떨어질 수 있으며,\n"
+"    새로운 버그가 있을 수 있습니다.\n"
+"    다운로드는 <a href='https://mudfish.net/download_dev'>여기</a>\n"
+"    에서 받으실 수 있습니다.\n"
+"    "
+msgstr "\n这个版本是针对开发者或测试功能特别制作的，因此也许遇到问题或能尝试新功能。请在<a href='https://mudfish.net/download_dev'>这里</a>下载。"
+
+msgid "미꾸라지"
+msgstr "MUDFISH"
+
+msgid "환불 정책"
+msgstr "退款政策"
+
+msgid "미꾸라지 네트웍스"
+msgstr "Mudfish Networks"
+
+msgid "무엇을 도와드릴까요?"
+msgstr "联系我们"
+
+msgid "회사 연락을 원하신다면 아래의 이메일로 연락바랍니다.  기술 지원에 대한 전화 상담은 하지 않습니다."
+msgstr "如果想要联系我们，写个邮件发给我们。我们目前没有提供热线电话服务。"
+
+msgid "대표: 한미정"
+msgstr "CEO: Mijung Han"
+
+msgid "대표번호: (02) 2659-0823"
+msgstr "代表号码: +82-2-2659-0823"
+
+msgid "팩스: (02) 2659-0824"
+msgstr "Fax: +82-2-2659-0824"
+
+msgid "이메일"
+msgstr "电子邮件"
+
+msgid "사업자등록번호"
+msgstr "Business License"
+
+msgid "주소: 서울 강서구 마곡중앙로 165 (마곡동, 안강프라이빗타워) 8층 803호"
+msgstr "Address: 8F #803, 165, Magokjungang-ro, Gangseo-gu, Seoul, 07788, South Korea"
+
+msgid "문의하기"
+msgstr "联系我们"
+
+msgid "기타"
+msgstr "其他"
+
+msgid "소마구 홈페이지"
+msgstr "Somagu Homepage"
+
+msgid "미꾸라지 네트웍스 (주)"
+msgstr "Mudfish Networks Inc."
+
+msgid "홈"
+msgstr "主页"
+
+msgid "포럼 목록"
+msgstr "列表论坛"
+
+msgid "포럼"
+msgstr "论坛"
+
+msgid "문서"
+msgstr "文件"
+
+msgid "도구들"
+msgstr "这些工具"
+
+msgid "나의 IP는?"
+msgstr "我的IP是多少？"
+
+msgid "이미지 업로드"
+msgstr "上传图片"
+
+msgid "Ping 테스트"
+msgstr "Ping测试"
+
+msgid "대쉬보드"
+msgstr "控制面板"
+
+msgid "사용자"
+msgstr "用户"
+
+msgid "로그아웃"
+msgstr "登出"
+
+msgid "트래픽"
+msgstr "流量"
+
+msgid "고급"
+msgstr "高级"
+
+msgid "문제점 보고서"
+msgstr "问题报告"
+
+msgid ""
+"\n"
+"  아직 변경하신 내용이 적용되지 않았습니다.\n"
+"  지금 설정 구성을 시작하겠습니까?\n"
+"  "
+msgstr "\n你的设置还没反映出来。现在马上反映出来吗？"
+
+msgid "설정 구성 확인"
+msgstr "设置项目"
+
+msgid "유료 아이템"
+msgstr "付费物品"
+
+msgid ""
+"정액제 요금제의 경우 최소 1 개의 유료 아이템 장착을 해야 프로그램이 제대로 동작을 합니다.  아이템 구매 페이지로 이동하시겠습니까?"
+msgstr "订阅套餐需要装备至少1个物品。现在去装备物品吗？"
+
+msgid "현재 죽어 있는 중계 서버를 사용하고 있습니다.  아이템 설정에 들어가셔서 중계 서버 설정을 변경하세요."
+msgstr "现在你使用断线的服务器。可以去物品设置，更改别的服务器。"
+
+msgid "장착한 아이템이 없습니다."
+msgstr "未装备物品"
+
+msgid "알려드립니다!"
+msgstr "请注意！"
+
+msgid ""
+"\n"
+"  사용자 &harr; 미꾸라지 중계 서버간 정보를 찾을 수 없습니다.  그렇기 때문에 결과가\n"
+"  정확하지 않을 수 있습니다.\n"
+"  미꾸라지 Launcher 를 통해 확인하시면 좀 더 정확한 정보를 얻을 수 있습니다.\n"
+"  "
+msgstr "\n用户和Mudfish服务器之间的RTT信息无法找到，所以结果是不正确的。要了解详情，请通过Mudfish启动程序访问菜单。"
+
+#, python-format
+msgid "<b>%(tdiff)s</b> 전에 수집된 사용자 정보를 바탕으로 계산된 결과입니다."
+msgstr "这RTT数值是在<b>%(tdiff)s</b>前所收集的。"
+
+msgid ""
+"\n"
+"  사용자 &harr; 공개 무료 서버간 정보를 찾을 수 없습니다.  그렇기 때문에 결과가\n"
+"  정확하지 않을 수 있습니다.\n"
+"  미꾸라지 Launcher 를 통해 확인하시면 좀 더 정확한 정보를 얻을 수 있습니다.\n"
+"  "
+msgstr "\n无法找到用户和公开免费服务器之间RTT数值。通过Mudfish应用可以测试更正确的结果。"
+
+msgid "안내!"
+msgstr "信息！"
+
+msgid ""
+"\n"
+"  크레딧 없거나 혹은 Full VPN 을 사용할 권한이 없습니다.\n"
+"  "
+msgstr "\n没有鳅币或者不允许使用完整VPN功能。"
+
+msgid "WAN 최적화를 통한 게임 / 동영상 가속 VPN, 윈도우 / 맥 / 리눅스 지원"
+msgstr "使用WAN优化技术加速Windows / Mac / Linux系统上的游戏/串流视频。"
+
+msgid "게임 가속, 미꾸라지, 동영상 가속, VPN"
+msgstr "游戏加速器, 串流视频加速器, VPN, Mudfish, Mudfish VPN"
+
+msgid "네이버 스포츠"
+msgstr "Naver Sports"
+
+msgid "해외에서 HD 급으로 네이버 스포츠를 시청 할 수 있습니다."
+msgstr "你在国外可以观看Naver Sports的视频。"
+
+msgid "아이온"
+msgstr "Aion"
+
+msgid "길드워 1 & 2"
+msgstr "Guild Wars 1 & 2"
+
+msgid "아키에이지"
+msgstr "ArcheAge"
+
+msgid "오디션"
+msgstr "Audition"
+
+msgid "아발론 온라인"
+msgstr "Avalon Online"
+
+msgid "배틀필드 3"
+msgstr "Battlefield 3"
+
+msgid "배틀필드 온라인"
+msgstr "Battlefield Online"
+
+msgid "블레이드 & 소울"
+msgstr "Blade & Soul"
+
+msgid "카오스 온라인"
+msgstr "Chaos Online"
+
+msgid "카운터 스트라이크: 글로벌 오펜시브"
+msgstr "Counterstrike: Global Offensive"
+
+msgid "사이퍼즈"
+msgstr "Cyphers"
+
+msgid "다크 에이지 오브 카멜롯"
+msgstr "Dark Age of Camelot"
+
+msgid "DC 유니버스 온라인"
+msgstr "DC Universe Online"
+
+msgid "리프트"
+msgstr "Rift"
+
+msgid "디아블로 3"
+msgstr "Diablo 3"
+
+msgid "DK 온라인"
+msgstr "DK Online"
+
+msgid "도타 2"
+msgstr "Dota 2"
+
+msgid "드래곤 네스트"
+msgstr "Dragon Nest"
+
+msgid "던전 앤 파이터"
+msgstr "Dungeon Fighter"
+
+msgid "던전 스트라이커"
+msgstr "Dungeon Striker"
+
+msgid "던전 앤 드래곤 온라인"
+msgstr "Dungeons & Dragons Online"
+
+msgid "이브 온라인"
+msgstr "EVE Online"
+
+msgid "에버퀘스트 II"
+msgstr "EverQuest II"
+
+msgid "피파 온라인 3"
+msgstr "FIFA Online 3"
+
+msgid "파이어폴"
+msgstr "Firefall"
+
+msgid "프리스타일 2"
+msgstr "FreeStyle 2: Street Basketball"
+
+msgid "프리스타일 풋볼"
+msgstr "Freestyle Football"
+
+msgid "겟앰프드"
+msgstr "GetAmped"
+
+msgid "겟앰프드 2"
+msgstr "GetAmped 2"
+
+msgid "마계촌 온라인"
+msgstr "Ghosts'n Goblins Online"
+
+msgid "그라나도 에스파다"
+msgstr "Granado Espada"
+
+msgid "그랑에이지"
+msgstr "GranAge"
+
+msgid "호큰"
+msgstr "Hawken"
+
+msgid "히어로즈 오브 뉴어스"
+msgstr "Heroes of Newerth"
+
+msgid "작룡문"
+msgstr "JanRyuMon"
+
+msgid "리그 오브 레전드"
+msgstr "League of Legends"
+
+msgid "레프트 4 데드"
+msgstr "Left 4 Dead"
+
+msgid "레프트 4 데드 2"
+msgstr "Left 4 Dead 2"
+
+msgid "에다전설"
+msgstr "Legend of Edda"
+
+msgid "리니지"
+msgstr "Lineage"
+
+msgid "리니지 II"
+msgstr "Lineage II"
+
+msgid "로스트사가"
+msgstr "Lost Saga"
+
+msgid "마비노기"
+msgstr "Mabinogi"
+
+msgid "마비노기 영웅전"
+msgstr "Mabinogi: Heroes"
+
+msgid "메이플스토리"
+msgstr "Maple Story"
+
+msgid "마블 히어로즈"
+msgstr "Marvel Heroes"
+
+msgid "멕워리어: 온라인"
+msgstr "MechWarrior Online"
+
+msgid "몬스터헌터 프론티어 Z"
+msgstr "Monster Hunter Frontier Z"
+
+msgid "마운트 & 블레이드: 워밴드 - 나폴레옹 전쟁"
+msgstr "Mount & Blade: Warband - Napoleonic Wars"
+
+msgid "네이비필드"
+msgstr "NavyField"
+
+msgid "페이퍼맨"
+msgstr "PaperMan"
+
+msgid "판타지 스타 온라인 2"
+msgstr "Phantasy Star Online 2"
+
+msgid "퀘이크 라이브"
+msgstr "Quake Live"
+
+msgid "R2 온라인"
+msgstr "R2 Online"
+
+msgid "라그나로크 온라인"
+msgstr "Ragnarok Online"
+
+msgid "레드 오케스트라 2"
+msgstr "Red Orchestra 2"
+
+msgid "스타 워즈: 구공화국"
+msgstr "Star Wars: The Old Republic"
+
+msgid "스타크래프트 II"
+msgstr "StarCraft II"
+
+msgid "슈퍼 스트리트 파이터 IV - Arcade Edition"
+msgstr "Super Street Fighter IV - Arcade Edition"
+
+msgid "테일즈위버"
+msgstr "Tales Weaver"
+
+msgid "팀 포트리스 2"
+msgstr "Team Fortress 2"
+
+msgid "테라"
+msgstr "TERA"
+
+msgid "반지의 제왕 온라인"
+msgstr "The Lord of the Rings Online"
+
+msgid "시크릿 월드"
+msgstr "The Secret World"
+
+msgid "울티마 온라인"
+msgstr "Ultima Online"
+
+msgid "워 썬더"
+msgstr "War Thunder"
+
+msgid "울펜슈타인: 에너미 테리토리"
+msgstr "Wolfenstein: Enemy Territory"
+
+msgid "월드 오브 탱크"
+msgstr "World of Tank"
+
+msgid "월드 오브 워플레인"
+msgstr "World of Warplanes"
+
+msgid "월드 오브 워크래프트"
+msgstr "World Of Warcraft"
+
+msgid "파이널 판타지 XIV: A Realm Reborn"
+msgstr "Final Fantasy XIV: A Realm Reborn"
+
+msgid "디아블로 2"
+msgstr "Diablo 2"
+
+msgid "나의 IP 는?"
+msgstr "我的IP有多少？"
+
+msgid "미꾸라지 적용 여부를 확인하기 위한 도구입니다. 자세한 방법은 '적용 여부 확인하기' 문서를 참고하세요."
+msgstr "使用这工具能检查Mudfish 应用的正常运行。你在文件栏目下查看具体的资料。"
+
+msgid "버블파이터"
+msgstr "Bubble Fighter"
+
+msgid "드래곤 퀘스트 10"
+msgstr "Dragon Quest X"
+
+msgid "배틀필드 4"
+msgstr "Battlefield 4"
+
+msgid "맥스 페인 3"
+msgstr "Max Payne 3"
+
+msgid "아스타"
+msgstr "ASTA: The War of Tears and Winds"
+
+msgid "다크폴"
+msgstr "Darkfall: Unholy Wars"
+
+msgid "MVP 베이스볼 온라인"
+msgstr "MVP Baseball Online"
+
+msgid "서든어택"
+msgstr "Sudden Attack"
+
+msgid "피파 14"
+msgstr "FIFA 14"
+
+msgid "하운즈: 리로드"
+msgstr "Hounds"
+
+msgid "구음진경"
+msgstr "Age of Wushu"
+
+msgid "트라이브스: 어쎈드"
+msgstr "Tribes Ascend"
+
+msgid "워게임: 레드 드래곤"
+msgstr "Wargame Red Dragon"
+
+msgid "환상신역"
+msgstr "Innocent World"
+
+msgid "삼국지 무쌍전"
+msgstr "Heroes of Three Kingdoms"
+
+msgid "라테일"
+msgstr "LaTale"
+
+msgid "서바리움"
+msgstr "Survarium"
+
+msgid "SD건담 캡슐파이터 온라인"
+msgstr "SD Gundam Capsule Fighter Online"
+
+msgid "에밀 크로니클 온라인"
+msgstr "Emil Chronicle Online"
+
+msgid "다음 스포츠"
+msgstr "Daum Sports"
+
+msgid "해외에서 HD 급으로 다음 스포츠를 시청할 수 있습니다."
+msgstr "Watch the streaming of Daum Sports at overseas."
+
+msgid "와일드스타"
+msgstr "Wildstar"
+
+msgid "플래닛사이드 2"
+msgstr "PlanetSide 2"
+
+msgid "디파이언스"
+msgstr "Defiance"
+
+msgid "코즈믹 브레이크"
+msgstr "CosmicBreak"
+
+msgid "에이지 오브 코난"
+msgstr "Age of Conan"
+
+msgid "팡야"
+msgstr "PangYa"
+
+msgid "아프리카TV"
+msgstr "AfreecaTV"
+
+msgid "피파 15"
+msgstr "FIFA 15"
+
+msgid "최강의군단"
+msgstr "HeroWarz"
+
+msgid "미니일레븐"
+msgstr "Mini11"
+
+msgid "네이비필드 2"
+msgstr "NavyField 2"
+
+msgid "이카루스"
+msgstr "Icarus"
+
+msgid "검은사막"
+msgstr "Black Desert"
+
+msgid "거상"
+msgstr "Gersang"
+
+msgid "바람의 나라"
+msgstr "Nexus: The Kingdom of the Winds"
+
+msgid "히어로즈 오브 더 스톰"
+msgstr "Heroes of the Storm"
+
+msgid "이터널시티3"
+msgstr "Eternal City 3"
+
+msgid "파이널 판타지 XI"
+msgstr "Final Fantasy XI"
+
+msgid "하스스톤"
+msgstr "Hearthstone: Heroes of Warcraft"
+
+msgid "벅스"
+msgstr "Bugs"
+
+msgid "워페이스"
+msgstr "Warface"
+
+msgid "대항해시대 온라인"
+msgstr "Uncharted Waters Online"
+
+msgid "월드 오브 워쉽"
+msgstr "World of Warships"
+
+msgid "스페셜포스2"
+msgstr "Special Force 2"
+
+msgid "메이플스토리2"
+msgstr "Maple Story 2"
+
+msgid "티빙"
+msgstr "Tving"
+
+msgid "카카오톡"
+msgstr "KakaoTalk"
+
+msgid "클로저스"
+msgstr "CLOSERS"
+
+msgid "애스커 온라인"
+msgstr "Asker Online"
+
+msgid "드래곤사가"
+msgstr "Dragonica"
+
+msgid "인벤"
+msgstr "Inven"
+
+msgid "페이스북"
+msgstr "Facebook"
+
+msgid "피파 16"
+msgstr "FIFA 16"
+
+msgid "아이템매니아"
+msgstr "Itemmania"
+
+msgid "아르피엘"
+msgstr "Arpiel"
+
+msgid "트리 오브 세이비어"
+msgstr "Tree of Savior"
+
+msgid "컬쳐랜드"
+msgstr "Cultureland"
+
+msgid "SD건담 넥스트 에볼루션"
+msgstr "SD Gundam Next Evolution"
+
+msgid "리그 오브 레전드 (일본)"
+msgstr "League of Legends (Japan Only)"
+
+msgid "드래곤즈 도그마 온라인"
+msgstr "Dragon's Dogma Online (New)"
+
+msgid "크레이지레이싱 카트라이더"
+msgstr "Crazyracing Kartrider"
+
+msgid "피파 온라인 2"
+msgstr "FIFA Online 2"
+
+msgid "네이버 메일"
+msgstr "Naver Mail"
+
+msgid "해피머니"
+msgstr "Happymoney"
+
+msgid "창세기전 4"
+msgstr "The War of Genesis 4"
+
+msgid "서든어택2"
+msgstr "Sudden Attack 2"
+
+msgid "배틀필드 1"
+msgstr "Battlefield 1"
+
+msgid "타르타로스: 리버스"
+msgstr "Tartaros: Rebirth"
+
+msgid "剑网3"
+msgstr "JX Online 3"
+
+msgid "게임조선"
+msgstr "Game Chosun"
+
+msgid "피파 17"
+msgstr "FIFA 17"
+
+msgid "포인트 블랭크"
+msgstr "Point Blank"
+
+msgid "텍사스 홀덤"
+msgstr "Texas Holdem"
+
+msgid "그랑블루 판타지"
+msgstr "Granblue Fantasy"
+
+msgid "다크 에덴"
+msgstr "DarkEden"
+
+msgid "无尽战区"
+msgstr "无尽战区"
+
+msgid "Plants vs. Zombies™ Garden Warfare 2"
+msgstr "Plants vs. Zombies™ Garden Warfare 2"
+
+msgid "테일즈런너"
+msgstr "Tales Runner"
+
+msgid "리그 오브 레전드 (중국)"
+msgstr "League of Legends (China)"
+
+msgid "어둠의 전설"
+msgstr "Legend of Darkness"
+
+msgid "블랙스쿼드"
+msgstr "Black Squad"
+
+msgid "完美世界国际版"
+msgstr "完美世界国际版"
+
+msgid "스페셜포스"
+msgstr "Special Force"
+
+msgid "리니지M"
+msgstr "Lineage M"
+
+msgid "다크어벤저3"
+msgstr "Dark Avenger 3"
+
+msgid "少女前线"
+msgstr "少女前线"
+
+msgid "아틀란티카"
+msgstr "Atlantica"
+
+msgid "街頭籃球"
+msgstr "街頭籃球"
+
+msgid "스타크래프트: 리마스터"
+msgstr "StarCraft: Remastered"
+
+msgid "이터널시티1"
+msgstr "Eternal City 1"
+
+msgid "피파 18"
+msgstr "FIFA 18"
+
+msgid "씰 온라인"
+msgstr "Seal Online"
+
+msgid "천애명월도"
+msgstr "天爱明月刀"
+
+msgid "듀랑고"
+msgstr "Durango"
+
+msgid "검은사막M"
+msgstr "Black Desert Mobile"
+
+msgid "배틀필드 하드라인"
+msgstr "Battlefield Hardline"
+
+msgid "리니지 2: 레볼루션"
+msgstr "Lineage 2: Revolution"
+
+msgid "피파 온라인 4"
+msgstr "FIFA Online 4"
+
+msgid "프리스타일2: 플라잉덩크"
+msgstr "Freestyle 2: Flying Dunk"
+
+msgid "라그나로크M"
+msgstr "Ragnarok M"
+
+msgid "배틀필드 V"
+msgstr "Battlefield V"
+
+msgid "피파 19"
+msgstr "FIFA 19"
+
+msgid "에버퀘스트 I"
+msgstr "EverQuest I"
+
+msgid "프리스타일 1"
+msgstr "FreeStyle 1"
+
+msgid "라프텔"
+msgstr "Laftel"
+
+msgid "왓챠"
+msgstr "Watcha"
+
+msgid "무도유협"
+msgstr "武道游戏"
+
+msgid "Dark Souls Ⅱ: Scholar of the First Sin"
+msgstr "Dark Souls Ⅱ: Scholar of the First Sin"
+
+msgid "피파 20"
+msgstr "FIFA 20"
+
+msgid "열혈강호 온라인"
+msgstr "热血江湖 Online"
+
+msgid "리니지2M"
+msgstr "血统2M"
+
+msgid "古劍奇譚網路版"
+msgstr "古剑奇谭网路版"
+
+msgid "아스가르드"
+msgstr ""
+
+msgid "라그하임"
+msgstr "拉格海姆"
+
+msgid "프로야구 스피리츠 2019"
+msgstr "职业棒球精神2019"
+
+msgid "그랑블루 판타지 Versus"
+msgstr "Granblue Fantasy Versus"
+
+msgid "피파 21"
+msgstr "FIFA 21"
+
+msgid "안녕하세요.  미꾸라지팀입니다."
+msgstr "你好。我们是Mudfish Networks。"
+
+msgid "알리페이 결제 요청이 아래의 정보로 접수되었음을 알려드립니다."
+msgstr "成功受到支付宝付款请求。"
+
+msgid "요청 날짜"
+msgstr "请求日期"
+
+msgid "요청 IP"
+msgstr "请求IP"
+
+msgid "입금인 별명"
+msgstr "昵称"
+
+msgid "입금액"
+msgstr "金额"
+
+msgid "이체하실 때 사용하실 QR 코드는 아래의 링크를 클릭해 주세요."
+msgstr "请点击下方URL链接查看您应该扫描支付的二维码。"
+
+msgid ""
+"\n"
+"이체 발생 후 크레딧 충전까지 최대 24 시간이 소요될 수 있는 점과\n"
+"영업 시간 (한국 표준시 9AM ~ 6PM, 월-금) 내에만 처리를 해드리는 점\n"
+"양해 바랍니다.\n"
+msgstr "\n请注意，支付后，账款至少需要1小时最多24小时处理时间，并且只在营业时间处理 (周一至 周五上午9:00 - 下午6:00)。\n"
+
+msgid "감사합니다."
+msgstr "谢谢。"
+
+msgid "미꾸라지팀"
+msgstr "Mudfish Networks"
+
+msgid "WeChat 결제 요청이 아래의 정보로 접수되었음을 알려드립니다."
+msgstr "成功受到微信支付请求。"
+
+#, python-format
+msgid ""
+"\n"
+"안녕하세요. 미꾸라지팀입니다.\n"
+"\n"
+"등록하신 미꾸라지 ID 정보는 다음과 같습니다.\n"
+"\n"
+"발급 사유:\tID 찾기 이용\n"
+"발급 일자:\t%(date)s\n"
+"발급 요청 IP:\t%(remote_addr)s\n"
+"미꾸라지 ID:\t%(username)s\n"
+"\n"
+"미꾸라지를 이용하여 주셔서 감사합니다.\n"
+"\n"
+"----\n"
+"미꾸라지팀\n"
+msgstr "\n你好。这里是Mudfish Networks。请检查下列Mudfish用户名信息  签发原因： 忘记用户名。日期：%(date)s\n请求IP%(remote_addr)s\n用户名：%(username)s\n\n感谢您使用Mudfish。\n----\nMudfish Networks\n"
+
+#, python-format
+msgid ""
+"\n"
+"안녕하세요 미꾸라지팀입니다.\n"
+"\n"
+"아래는 등록하신 %(username)s 사용자 ID에 대한 패스워드 인증키입니다.\n"
+"패스워드 찾기를 마무리하기 위해서는 아래의 링크를 방문해 주시기\n"
+"바랍니다.\n"
+"\n"
+"발급 사유:\t비밀번호 찾기 이용\n"
+"발급 일자:\t%(date)s\n"
+"발급 요청 IP:\t%(remote_addr)s\n"
+"찾기 링크:\thttps://mudfish.net/reset_pwd?key=%(tmpkey)s\n"
+"\n"
+"미꾸라지를 이용하여 주셔서 감사합니다.\n"
+"\n"
+"----\n"
+"미꾸라지팀\n"
+msgstr "\n您好，这是泥ach队。\n\n以下是已注册的%(username)s用户ID的密码验证密钥。\n请访问下面的链接以完成密码的查找。\n\n发布原因：用于密码检索\n发布日期：%(date)s\n发行请求IP：%(remote_addr)s\n搜索链接：https://mudfish.net/reset_pwd?key=%(tmpkey)s\n\n感谢您使用Mudfish。\n----\nMudfish team\n"
+
+#, python-format
+msgid ""
+"\n"
+"안녕하세요 미꾸라지팀입니다.\n"
+"\n"
+"등록하신 %(username)s 사용자 ID에 대한 임시 패스워드를 발급해 드립니다.\n"
+"아래의 패스워드를 로그인 즉시 원하시는 패스워드로 변경하시기를 권합니다.\n"
+"\n"
+"발급 사유:\t비밀번호 찾기 이용\n"
+"발급 일자:\t%(date)s\n"
+"발급 요청 IP:\t%(remote_addr)s\n"
+"임시 비밀번호:\t%(tmppwd)s\n"
+"\n"
+"미꾸라지를 이용하여 주셔서 감사합니다.\n"
+"\n"
+"----\n"
+"미꾸라지팀\n"
+msgstr "\n您好，这里是Mudfish Networks。本邮件是为了告知您的%(username)s 帐号的临时密码。请在登录后立即修改密码  签发原因：忘记密码  日期%(date)s\n\n请求IP：%(remote_addr)s\n临时密码：%(tmppwd)s\n感谢您使用Mudfish。\n\n----Mudfish Networks\n"
+
+#, python-format
+msgid ""
+"\n"
+"안녕하세요 미꾸라지팀입니다.\n"
+"\n"
+"이 메일은 가입하신 %(username)s 사용자 ID 의 활성화를 위한 안내 메일\n"
+"입니다.  24 시간내에 아래의 링크를 클릭해 주시거나 접속해 주셔야 요청하신 ID 가\n"
+"활성화 됩니다.  인증 완료가 되면 테스트를 위한 매우 작은 크레딧이 자동\n"
+"충전됩니다.\n"
+"\n"
+"요청 일자: %(date)s\n"
+"요청 IP: %(remote_addr)s\n"
+"\n"
+"확인 링크:\n"
+"\n"
+"https://mudfish.net/signup_confirm?key=%(key)s\n"
+"\n"
+"혹시 미꾸라지 클라이언트 프로그램은 설치하셨는지요? 본격적인 사용을 위해서는\n"
+"아래의 링크에서 미꾸라지를 받으셔서 설치해 주세요.  Windows, Mac OS X 그리고 Linux\n"
+"를 위한 설치판이 있습니다.\n"
+"\n"
+"다운로드:\n"
+"\n"
+"https://mudfish.net/download\n"
+"\n"
+"----\n"
+"미꾸라지팀\n"
+msgstr "\n您好，这里是Mudfish Networks。本邮件是为了激活您的%(username)s 帐号。若要激活您的帐号，请在24小时内点击下方链接。当帐号激活后，小额Mudfish积分会添加至您的帐号供测试使用。\n\n日期：%(date)s\n请求IP：%(remote_addr)s\n\n确认链接：\n\nhttps://mudfish.net/signup_confirm?key=%(key)s\n\n对了您安装过Mudfish应用程序吗？请访问下方下载链接获得安装包。现在，我们支持Windows, Mac OS X和Linux。\n\n下载：\n\nhttps://mudfish.net/download\n\n----\nMudfish Networks\n"
+
+msgid "(포럼 관리자)"
+msgstr "(论坛管理人员)"
+
+msgid "등록하기"
+msgstr "提交"
+
+msgid "취소"
+msgstr "取消"
+
+msgid "댓글 수정"
+msgstr "修改评论"
+
+msgid "삭제하기"
+msgstr "删除"
+
+msgid "설문 조사"
+msgstr "调查"
+
+msgid "피드백 감사합니다."
+msgstr "感谢你的反馈。"
+
+msgid "관리자의 답변에 만족하시나요?"
+msgstr "你满意管理人员的答应吗？"
+
+msgid "예"
+msgstr "是"
+
+msgid "비밀글로 저장됨"
+msgstr "设置专用模式"
+
+msgid "댓글 작성"
+msgstr "写一个评论"
+
+msgid "댓글을 입력해 주세요."
+msgstr "请输入评论。"
+
+msgid "더 이상 글이 없습니다"
+msgstr "没有更多内容。"
+
+msgid "아카이브 됨"
+msgstr "已存档"
+
+msgid "문제 해결 안됨"
+msgstr "未解决问题"
+
+msgid "비밀글"
+msgstr "专用模式"
+
+#, python-format
+msgid "%(n_comments)s 개의 이전 답글 보기"
+msgstr "显示预览%(n_comments)s 评论。"
+
+msgid "글 수정"
+msgstr "修改主题"
+
+msgid "주소 복사"
+msgstr "复制网址"
+
+msgid "복사되었습니다."
+msgstr "成功复制"
+
+msgid "이 토픽만 보기"
+msgstr "仅显示此主题"
+
+msgid "글쓰기"
+msgstr "写"
+
+msgid "문제가 있으신가요?"
+msgstr "有问题？请在这里提问！"
+
+msgid "전체 보기"
+msgstr "查看全部"
+
+msgid "헉!!!!!!"
+msgstr "唉哟 !!!!!"
+
+msgid "지정하신 파일을 찾지 못하였습니다. OTL....."
+msgstr "找不到指定的文件。 OTL ....."
+
+msgid ""
+"\n"
+"    <a href='mailto:support@loxch.com'>support@loxch.com</a> 으로 알려주시면\n"
+"    미꾸라지 2 주 체험권 혹은 현재 계정 기간 연장을 해드립니다.\n"
+"    "
+msgstr "\n如果你发现Mudfish应用的Bug并重现问题，请写信给我们<a href='mailto:support@loxch.com'>support@loxch.com</a>。我们赠送给你免费体验卷。"
+
+msgid "이런!!!!!!"
+msgstr "额滴神啊！！！！！"
+
+msgid "미꾸라지가 미쳐 날뛰나 봅니다......"
+msgstr "现在已进入不可控的疯狂模式。"
+
+msgid ""
+"\n"
+"    자세한 재현 방법과 함께\n"
+"    <a href='mailto:support@loxch.com'>support@loxch.com</a> 으로 알려주시면\n"
+"    미꾸라지 1달 체험권 혹은 현재 계정 기간 연장을 해드리겠습니다!\n"
+"    이용에 불편을 드려 정말 죄송합니다.\n"
+"    "
+msgstr "\n如果你发现应用BUG并重现问题，请写信给我们<a href='mailto:support@loxch.com'>us</a>。我们将赠送给你免费体验卷。谢谢。"
+
+msgid "시행일: 2016년 1월 19일"
+msgstr "生效日期：2016年1月19日"
+
+msgid "이용 약관"
+msgstr "服务条款"
+
+msgid "시행일: 2013년 3월 22일"
+msgstr "生效日期：2013年3月22日"
+
+msgid "모바일"
+msgstr "手机"
+
+msgid "Android"
+msgstr "安卓版"
+
+msgid "직접 APK 다운로드"
+msgstr "直接下载APK"
+
+msgid "iPhone"
+msgstr "iPhone"
+
+#, python-format
+msgid "최신 버전은 <strong>v%(CURRENT_VERSTR)s</strong> 입니다."
+msgstr "最新版本是<strong>v%(CURRENT_VERSTR)s</strong>。"
+
+msgid ""
+"\n"
+"    이전 버전은\n"
+"    <a href='/releases/'>여기</a>에서 다운로드\n"
+"    가능합니다.\n"
+"    "
+msgstr "\n上个版本在 <a href='/releases/'>这里</a>。"
+
+msgid "DNS Client"
+msgstr "DNS客户端"
+
+msgid "Windows"
+msgstr "Windows"
+
+msgid "브라우저 확장 기능"
+msgstr "浏览器扩展"
+
+msgid "Chrome Extension"
+msgstr "Chrome扩展"
+
+msgid "Firefox Extension"
+msgstr "Firefox扩展"
+
+msgid "Microsoft Edge"
+msgstr "Microsoft Edge"
+
+msgid "PC 용"
+msgstr "PC版本"
+
+msgid "다운로드 (개발자용)"
+msgstr "下载（不稳定）"
+
+#, python-format
+msgid "최신 개발자 버전은 <strong>v%(DEV_VERSTR)s</strong> 입니다."
+msgstr "最新开发版本是<strong>v%(DEV_VERSTR)s</strong>。"
+
+msgid "64 bit 다운로드"
+msgstr "64位下载"
+
+msgid "32 bit 다운로드"
+msgstr "32位下载"
+
+msgid "Ubuntu 12.4 LTS 이상 지원"
+msgstr "最高版本为Ubuntu 14.04 LTS"
+
+msgid "다운로드 중입니다!"
+msgstr "正在下载！"
+
+#, python-format
+msgid ""
+"\n"
+"    미꾸라지를 다운로드 해주셔서 감사합니다!<br/>\n"
+"    만약 5 초내에 자동으로 다운로드가 시작되지 않는다면\n"
+"    <a href='https://mudfish.net/releases/%(filename)s'>여기</a>를\n"
+"    클릭하셔서 수동으로 진행하시면 됩니다.\n"
+"    "
+msgstr "\n谢谢你下载Mudfish应用!<br/>\n如果在5秒之内没有开始自动下载，请在<a href='https://mudfish.net/releases/%(filename)s'>这里</a> 可以下载。"
+
+msgid "미꾸라지 사용이 처음이신가요?"
+msgstr "这是您第一次使用Mudfish吗？"
+
+msgid ""
+"\n"
+"\t    사용법과 전반적인 이해에 대한 문서들은\n"
+"\t    <a href='https://docs.mudfish.net'>여기</a>에서 확인하실 수 있으며 가장 먼저\n"
+"\t    아래의 문서를 읽어 보시길 추천합니다."
+msgstr "\n请查看<a href='https://docs.mudfish.net'>文件</a>能够了解Mudfish应用程序的用法。不过目前只有英文和韩文版本的文件。"
+
+msgid "무작정 따라하기"
+msgstr "快速开始"
+
+msgid "설치 방법"
+msgstr "安装方法"
+
+msgid "언제든지 물어보세요."
+msgstr "随时向我们提问。"
+
+msgid ""
+"\n"
+"\t    <a href='/forums'>포럼</a> 혹은\n"
+"\t    <a href='mailto:support@loxch.com'>E 메일</a>을\n"
+"\t    통해 지원(support)을 해드리고 있습니다.  설치 혹은 사용에 문의가\n"
+"\t    있다면 언제든지 글을 남겨 주세요.\n"
+"\t    "
+msgstr "\n通过<a href='/forums'>论坛</a> 或者 <a href='mailto:support@loxch.com'>邮件</a>提供给大家技术询问(Technical Support)。\n\t    "
+
+msgid "기술 지원에 대한 전화 상담은 하지 않습니다."
+msgstr "没有支持热线电话服务。"
+
+msgid "ID 찾기"
+msgstr "忘记用户名"
+
+msgid "E메일 주소"
+msgstr "电子邮件"
+
+msgid ""
+"\n"
+"      가입에 사용하셨던 E 메일 주소를 입력하여 주십시오. 등록시\n"
+"      입력하셨던 E-메일 주소로 ID 정보를 보내드립니다.\n"
+"      "
+msgstr "\n请输入注册时填写的电子邮件地址。将发送信息邮件。"
+
+msgid "요청하기"
+msgstr "提交"
+
+msgid "비밀번호 찾기"
+msgstr "忘记密码"
+
+msgid ""
+"\n"
+"      가입에 사용하셨던 사용자 ID 을 입력하여 주십시오.\n"
+"      등록시 입력하셨던 E-메일 주소로 <strong>임시 패스워드</strong>를 보내드립니다.\n"
+"      (만약 사용자 ID 가 기억나지 않으신다면\n"
+"      <a href='mailto:support@loxch.com'>support@loxch.com</a> 로 연락바랍니다.)\n"
+"      "
+msgstr "\n请输入注册帐户时指定的用户名。我们将发给你临时密码。注册时输入的邮件里能找到<strong>临时密码</strong>。(如果忘记用户名，请写信给这邮件<a href='mailto:support@loxch.com'>support@loxch.com</a>。)\n      "
+
+msgid "인터넷 가속 서비스"
+msgstr "网络加速服务"
+
+msgid "게임 / 동영상"
+msgstr "用于游戏/串流视频"
+
+msgid ""
+"\n"
+"\t  Protocol (TCP 혹은 UDP, SCTP) Acceleration\n"
+"\t  기술이 접목된 프로그램으로써 WAN 최적화를 통해 사용자와\n"
+"\t  목적 서버간의 연결을 가속시켜 좀 더 안정적이고 빠른 응답 속도를\n"
+"\t  보장해 드립니다.\n"
+"\t  "
+msgstr "\n使用各种WAN优化技术来加速您的网络体验，保证您的TCP或UDP连接更强大更快速。"
+
+msgid "사용할 패스워드"
+msgstr "创建密码"
+
+msgid ""
+"\n"
+"      \t  패스워드는 최소 6자 이상이여야 합니다.\n"
+"      \t  "
+msgstr "\n使用至少6个字符的密码"
+
+msgid "계정 생성하기"
+msgstr "注册Mudfish帐户"
+
+msgid ""
+"\n"
+"      \t    <strong>계정 생성</strong>시\n"
+"      \t    <a href='/agreement/tos'>이용약관</a>과\n"
+"      \t    <a href='/agreement/privacy_policy'>개인정보 보호정책</a>\n"
+"      \t    에 동의함을 뜻합니다.\n"
+"      \t    "
+msgstr "\n按<strong>注册帐户</strong>，你同意我们的<a href='/agreement/tos'>服务条款</a>和<a href='/agreement/privacy_policy'>隐私政策</a>。"
+
+msgid "왜 미꾸라지일까요?"
+msgstr "为什么许多人喜欢Mudfish应用？"
+
+msgid "일반 VPN"
+msgstr "普通VPN"
+
+msgid "게임 Lag 및 RTT 감소, 연결 지속 강화 효과"
+msgstr "减少网速延迟，加强网速稳定性"
+
+msgid "WAN 최적화 기술"
+msgstr "WAN优化技术"
+
+msgid "전세계 전용 서버수"
+msgstr "可用服务器数目"
+
+msgid "무료 공개 서버수"
+msgstr "公开免费服务器数目"
+
+msgid "방화벽 우회 기능"
+msgstr "翻墙功能"
+
+msgid "Server Chain 기능"
+msgstr "服务器链功能"
+
+msgid "Multi Path 모드"
+msgstr "多路径模式"
+
+msgid "Full VPN 모드 지원"
+msgstr "完整VPN支持"
+
+msgid "게임 트래픽만 전송 기능"
+msgstr "仅许可游戏流量"
+
+msgid "웹 브라우저 및 SOCKS proxy 지원"
+msgstr "Web和SOCKS代理支持"
+
+msgid "AppLocale 지원 여부"
+msgstr "AppLocale支持"
+
+msgid "모바일 환경 지원"
+msgstr "移动支持"
+
+msgid "Mac OS X / Linux 지원"
+msgstr "MAC OS X / Linux支持"
+
+msgid "Chrome 브라우저 지원"
+msgstr "Chrome浏览器"
+
+msgid "Firefox 브라우저 지원"
+msgstr "火狐浏览器"
+
+msgid "최소 서비스 가격"
+msgstr "最低价格"
+
+msgid "$0.01 USD / 달"
+msgstr "$ 0.01美元/月"
+
+msgid "$9.99 USD / 달"
+msgstr "$ 9.99美元/月"
+
+msgid "$2.99 USD / 달"
+msgstr "$ 2.99美元/月"
+
+msgid "Basic 요금제로는 이용 불가능하며 Advanced 요금제만 가능합니다."
+msgstr "仅高级套餐可用，非基本套餐。"
+
+msgid "사업자 마다 다를 수 있습니다."
+msgstr "根据提供商有所不同。"
+
+msgid ""
+"\n"
+"  \t종량제의 경우 트래픽 사용량에 따라 가격은 달라질 수 있으며, 정액제의 최소\n"
+"  \t서비스 가격은 '$0.99 USD / 달' 입니다.\n"
+"  \t"
+msgstr "\n如果您正在使用“按流量支付”数据套餐，根据您的用量价格会有差异，订阅数据套餐的最低包月价格是$0.99。"
+
+msgid "완전 무료 공개 서버입니다.  별도의 크레딧이 필요 없고, 속도 제한 또한 없습니다."
+msgstr "它是完全免费公开服务器。不需要鳅币，没有速度限制。"
+
+msgid ""
+"\n"
+"\t\t설정 구성 완료 후 한번 선택된 중계 서버는 중간에 변경되지\n"
+"\t\t않습니다.\n"
+"\t\t"
+msgstr "\n一旦安装配置完成，所选的中继服务器将不会在中间更改。"
+
+msgid ""
+"\n"
+"\t\t두개의 중계 서버들을 경유하여 트래픽이 전달되지만, 첫번째\n"
+"\t\t중계 서버의 선택이 Ping 상태에 따라 자동으로 변경됩니다.\n"
+"\t\t"
+msgstr "\n流量通过两个中继服务器，但是第一个中继服务器的选择会根据ping状态自动更改。"
+
+msgid "지원하는 게임 및 사이트"
+msgstr "支持的游戏/网站"
+
+msgid ""
+"\n"
+"    현재 다음과 같은 게임 및 사이트들이 미꾸라지를 통해 공식 지원되고 있습니다.\n"
+"    "
+msgstr "\nMudfish正式支持以下游戏和网站。"
+
+msgid ""
+"\n"
+"\t\t    이 아이템이 지원하는 게임 / 사이트 / 스트리밍 서버 위치를\n"
+"\t\t    가르킵니다.\n"
+"\t\t    "
+msgstr "\n显示了物品支持的游戏/网站/串流视频的目标位置。"
+
+msgid ""
+"\n"
+"\t      미꾸라지 사용시 해당 목적지까지 예상되는 핑을 계산해\n"
+"\t      보겠습니까?\n"
+"\t      "
+msgstr "\n您要计算到该目的地的预期ping吗？"
+
+msgid "예상 핑 계산"
+msgstr "估计Ping计算"
+
+msgid "1 단계: 사용자 ↔ 중계 서버 핑 계산"
+msgstr "步骤1：计算用户↔中继服务器Ping"
+
+msgid "예상 핑 계산하기"
+msgstr "计算预期的ping"
+
+msgid ""
+"\n"
+"\t\t약 30 초 정도 기다리신 후 다시 시도해 보시기 바랍니다.\n"
+"\t\t"
+msgstr "\n请等待大约30秒钟，然后重试。"
+
+msgid "2 단계: 사용자 ↔ 목적지 핑 계산"
+msgstr "步骤2：计算用户↔目标ping"
+
+msgid "(완료됨)"
+msgstr "（已完成）"
+
+msgid "위치"
+msgstr "位置"
+
+msgid "핑"
+msgstr "Ping"
+
+msgid "현재 RTT"
+msgstr "当前的RTT"
+
+msgid "RTT 테스트"
+msgstr "RTT测试"
+
+msgid ""
+"\n"
+"\t\t현재 '사용자 ↔ 미꾸라지 중계 서버' 간 RTT (핑)을 계산 중입니다.  잠시만 기다려\n"
+"\t\t주시기 바랍니다.\n"
+"\t\t"
+msgstr "\n当前，正在计算“用户↔中继服务器”之间的RTT（ping）。 请稍等片刻。"
+
+msgid ""
+"\n"
+"\t\t계산이 완료되었습니다.  다음 단계로 이동해 주세요.\n"
+"\t\t"
+msgstr "\n计算完成。请转到下一步。"
+
+msgid ""
+"\n"
+"      중계 서버 이름을 클릭하시면 자세한 서버 정보를 확인하실 수 있습니다.\n"
+"      "
+msgstr "\n请点击服务器名称来查看详细信息。"
+
+msgid ""
+"\n"
+"\t      미꾸라지의 모든 기능을 공유기에도 적용해 보세요.\n"
+"\t      "
+msgstr "\n在路由器上能使用Mudfish应用功能。"
+
+msgid ""
+"\n"
+"    미꾸라지 게임 공유기를 사용하시면 편리하게 미꾸라지 서비스를\n"
+"    이용하실 수 있습니다.\n"
+"    "
+msgstr "\n在Mudfish Game 路由器上，能使用Mudfish应用功能。"
+
+msgid "로그인하기"
+msgstr "登录"
+
+msgid "로그인 기억하기"
+msgstr "记住我"
+
+msgid "계정 생성"
+msgstr "免费注册"
+
+msgid ""
+"\n"
+"          패스워드는 최소 6자 이상이여야 합니다.\n"
+"          "
+msgstr "\n使用至少6个字符的密码"
+
+msgid ""
+"\n"
+"            <strong>계정 생성</strong>시\n"
+"            <a href='/agreement/tos'>이용약관</a>과\n"
+"            <a href='/agreement/privacy_policy'>개인정보 보호정책</a>\n"
+"            에 동의함을 뜻합니다.\n"
+"            "
+msgstr "\n按<strong>注册帐户</strong>，你同意我们的<a href='/agreement/tos'>服务条款</a>和<a href='/agreement/privacy_policy'>隐私政策</a>。"

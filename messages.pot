@@ -1,0 +1,3660 @@
+# Translations template for Mudfish Homepage.
+# Copyright (C) 2020 Mudfish Networks Inc.
+# This file is distributed under the same license as the Mudfish Homepage
+# project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Mudfish Homepage 1.0\n"
+"Report-Msgid-Bugs-To: weongyo@gmail.com\n"
+"POT-Creation-Date: 2020-10-12 15:24+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+msgid "대시보드"
+msgstr ""
+
+msgid "첫화면"
+msgstr ""
+
+msgid "개인정보 보호정책"
+msgstr ""
+
+msgid "이용약관"
+msgstr ""
+
+msgid "다운로드"
+msgstr ""
+
+msgid "사람을 찾습니다!"
+msgstr ""
+
+msgid "중계 서버 상태"
+msgstr ""
+
+msgid "쇼핑"
+msgstr ""
+
+msgid "미꾸라지 게임 공유기"
+msgstr ""
+
+msgid "로그인"
+msgstr ""
+
+msgid "미꾸라지: 가속 서비스"
+msgstr ""
+
+msgid "스트리밍"
+msgstr ""
+
+msgid "사이트"
+msgstr ""
+
+msgid "게임"
+msgstr ""
+
+msgid "로그인이 필요합니다."
+msgstr ""
+
+msgid "RTT 데이타가 없습니다."
+msgstr ""
+
+msgid "서버 위치를 찾지 못하였습니다."
+msgstr ""
+
+msgid "DB 오류가 발생했습니다."
+msgstr ""
+
+msgid "잘못된 양식입니다."
+msgstr ""
+
+msgid "자동 선택"
+msgstr ""
+
+msgid "무료"
+msgstr ""
+
+msgid "종량제"
+msgstr ""
+
+msgid "알수없음"
+msgstr ""
+
+#, python-format
+msgid "%(years)d 년"
+msgstr ""
+
+#, python-format
+msgid "%(months)d 달"
+msgstr ""
+
+#, python-format
+msgid "%(days)d 일"
+msgstr ""
+
+#, python-format
+msgid "%(hours)d 시간"
+msgstr ""
+
+#, python-format
+msgid "%(minutes)d 분"
+msgstr ""
+
+#, python-format
+msgid "%(seconds)d 초"
+msgstr ""
+
+msgid "죽은 중계 서버"
+msgstr ""
+
+msgid "크레딧 정보가 잘못 되었습니다."
+msgstr ""
+
+#, python-format
+msgid "이미 등록된 E-MAIL '%(email)s' 주소입니다."
+msgstr ""
+
+#, python-format
+msgid "이미 등록된 사용자 ID '%(username)s' 입니다."
+msgstr ""
+
+msgid "내부 오류 입니다."
+msgstr ""
+
+msgid "[미꾸라지] 가입 인증 메일"
+msgstr ""
+
+msgid "지원하지 않는 Method 입니다."
+msgstr ""
+
+msgid ""
+"\n"
+"        계정을 활성화하기 위한 이메일 인증 메일을 발송하였습니다.  인증 완료시\n"
+"        테스트를 위한 작은 크레딧을 받으실 수 있습니다..\n"
+"    "
+msgstr ""
+
+msgid "계정이 성공적으로 생성되었습니다."
+msgstr ""
+
+msgid ""
+"\n"
+"          계정을 활성화하기 위한 이메일 인증 메일을 발송하였습니다.\n"
+"          인증 완료시 테스트를 위한 작은 크레딧을 받으실 수 있습니다..\n"
+"        "
+msgstr ""
+
+msgid "확인되지 않는 Key 정보입니다."
+msgstr ""
+
+msgid ""
+"이메일 인증 되었습니다! 혹시 미꾸라지 프로그램은 설치하셨는지요?\n"
+"        아래에서 자신의 운영체제 맞는 배포판을 설치하시면 됩니다."
+msgstr ""
+
+msgid "ID 혹은 패스워드가 잘못되었습니다."
+msgstr ""
+
+msgid "ID 혹은 Token 이 잘못되었습니다."
+msgstr ""
+
+msgid "해당 E-Mail 주소 정보를 찾을 수 없습니다."
+msgstr ""
+
+msgid "[미꾸라지] ID 찾기"
+msgstr ""
+
+msgid "등록하신 메일 주소로 ID 정보를 보내 드렸습니다."
+msgstr ""
+
+msgid ""
+"\n"
+"            현재 내부 문제로 인해 메일 발송이 지연되고 있습니다.  추후에 다시\n"
+"            시도 바랍니다."
+msgstr ""
+
+msgid "해당 사용자 Key 가 존재하지 않습니다."
+msgstr ""
+
+msgid "해당 사용자 ID 가 존재하지 않습니다."
+msgstr ""
+
+msgid "[미꾸라지] 비밀번호 찾기 - 임시 비밀번호 발급"
+msgstr ""
+
+msgid "등록하신 메일 주소로 임시 비밀번호를 보내 드렸습니다."
+msgstr ""
+
+msgid "[미꾸라지] 비밀번호 찾기 - 인증키 발급"
+msgstr ""
+
+msgid "등록하신 메일 주소로 인증키를 보내 드렸습니다."
+msgstr ""
+
+msgid "요금제가 갱신된 상태로, 다시 로그인이 필요합니다."
+msgstr ""
+
+msgid "패스워드가 일치하지 않습니다"
+msgstr ""
+
+msgid "현재 패스워드가 틀렸습니다."
+msgstr ""
+
+msgid "패스워드가 변경되었습니다."
+msgstr ""
+
+msgid "목록 제한 기능이 업데이트 되었습니다."
+msgstr ""
+
+msgid "중계 서버 정보를 얻지 못하였습니다."
+msgstr ""
+
+msgid "잘못된 접근입니다."
+msgstr ""
+
+msgid "기록없음"
+msgstr ""
+
+msgid "사용자를 찾지 못하였습니다."
+msgstr ""
+
+msgid "성공적으로 삭제되었습니다."
+msgstr ""
+
+msgid "잘못된 값입니다."
+msgstr ""
+
+msgid "허락되지 않는 확장자입니다."
+msgstr ""
+
+msgid "정보가 변경되었습니다."
+msgstr ""
+
+msgid "변경된 정보가 없습니다."
+msgstr ""
+
+msgid "정액제"
+msgstr ""
+
+msgid "언제든지 가능함"
+msgstr ""
+
+msgid "아이템 정보를 조회할 수 없습니다."
+msgstr ""
+
+msgid ""
+"\n"
+"          내부 오류가 발생하였습니다.  지속적일 경우 포럼에 문제 보고 부탁드립니다.\n"
+"        "
+msgstr ""
+
+msgid "기준 통화(Currency)가 설정되어 있지 않습니다."
+msgstr ""
+
+msgid "잔여 크레딧이 부족합니다."
+msgstr ""
+
+msgid "정액제 요금제 전용 아이템입니다.  구매 할 수 없습니다."
+msgstr ""
+
+msgid "두 중계 서버가 같을 수 없습니다."
+msgstr ""
+
+msgid "구매 완료하였습니다!"
+msgstr ""
+
+msgid "설정 구성을 시작합니다."
+msgstr ""
+
+msgid "프로그램을 재시작해주셔야 적용됩니다."
+msgstr ""
+
+msgid "중계 서버 정보를 찾을 수 없습니다."
+msgstr ""
+
+msgid "설정이 저장되었습니다."
+msgstr ""
+
+msgid "연결 안됨"
+msgstr ""
+
+msgid "연결 하기"
+msgstr ""
+
+msgid "연결됨"
+msgstr ""
+
+msgid "완료"
+msgstr ""
+
+msgid "아이템이 삭제되었습니다."
+msgstr ""
+
+msgid "정액제 요금제 사용자가 아닙니다."
+msgstr ""
+
+msgid "사용자 아이템 설정을 조회할 수 없습니다."
+msgstr ""
+
+msgid "아이템이 기간 연장되었습니다."
+msgstr ""
+
+msgid "더 이상 구매할 아이템이 없습니다."
+msgstr ""
+
+msgid "지정하신 아이템을 찾을 수 없습니다."
+msgstr ""
+
+msgid "로그인 하셔야 합니다."
+msgstr ""
+
+msgid "아이템이 성공적으로 업데이트되었습니다."
+msgstr ""
+
+msgid "아이템이 성공적으로 추가되었습니다."
+msgstr ""
+
+msgid "¥ 19"
+msgstr ""
+
+msgid "¥ 29"
+msgstr ""
+
+msgid "¥ 49"
+msgstr ""
+
+msgid "¥ 99"
+msgstr ""
+
+msgid "¥ 299"
+msgstr ""
+
+msgid "¥ 499"
+msgstr ""
+
+msgid "오류"
+msgstr ""
+
+msgid "990원"
+msgstr ""
+
+msgid "2,990원"
+msgstr ""
+
+msgid "4,990원"
+msgstr ""
+
+msgid "9,990원"
+msgstr ""
+
+msgid "29,990원"
+msgstr ""
+
+msgid "49,990원"
+msgstr ""
+
+msgid "99,990원"
+msgstr ""
+
+msgid "죄송합니다. 당분간 중국 통화를 받지 않습니다."
+msgstr ""
+
+msgid "[미꾸라지] 알리페이 결제요청이 접수되었습니다."
+msgstr ""
+
+msgid "[미꾸라지] WeChat 결제요청이 접수되었습니다."
+msgstr ""
+
+msgid "입금인 성명이 없습니다."
+msgstr ""
+
+msgid "Alias 계정으로는 크래딧 구매를 할 수 없습니다.  Master 계정으로 접속하세요."
+msgstr ""
+
+msgid "잘못된 기준 통화입니다."
+msgstr ""
+
+msgid "잘못된 통화입니다."
+msgstr ""
+
+msgid "환전이 성공적으로 수행되었습니다."
+msgstr ""
+
+msgid "처리 완료"
+msgstr ""
+
+msgid "환불 완료"
+msgstr ""
+
+msgid "환불 처리중"
+msgstr ""
+
+msgid "환불 요청하였습니다.  환불 처리까지 최대 1 ~ 3 영업일이 걸릴 수 있습니다."
+msgstr ""
+
+msgid "Full VPN 모드의 중계 서버 설정이 잘못되었습니다."
+msgstr ""
+
+msgid "프로그램을 재시작하셔야 적용됩니다."
+msgstr ""
+
+msgid ""
+"\n"
+"1) 어떤 문제 때문에 문제점 보고를 하시려고 하는 건가요?\n"
+"\n"
+"\n"
+"\n"
+"2) 문제를 그대로 재현하려면 어떻게 해야 하나요?\n"
+"\n"
+msgstr ""
+
+msgid "설정이 초기화되었습니다."
+msgstr ""
+
+msgid "잘못된 MTU 값입니다."
+msgstr ""
+
+msgid ""
+"\n"
+"                  Full VPN 모드를 다시 세팅하세요. '설정 → 중계 서버' 메뉴의\n"
+"                  정책과 매치되지 않습니다.\n"
+"                "
+msgstr ""
+
+msgid "상태: Queued"
+msgstr ""
+
+msgid "상태: Escalated"
+msgstr ""
+
+#, python-format
+msgid "<p>%(username)s 님 작성:</p>"
+msgstr ""
+
+msgid "존재하지 않는 글입니다."
+msgstr ""
+
+msgid "권한이 없습니다."
+msgstr ""
+
+msgid "제목 없음"
+msgstr ""
+
+msgid "내용을 입력해 주세요."
+msgstr ""
+
+#, python-format
+msgid "[미꾸라지] 포럼 새 댓글: %(title)s"
+msgstr ""
+
+msgid "포럼 새 댓글"
+msgstr ""
+
+msgid "다음 글에 대한 새로운 글이 달렸습니다."
+msgstr ""
+
+msgid "댓글 내용이 없습니다."
+msgstr ""
+
+msgid "아카이브된 글입니다."
+msgstr ""
+
+msgid "당신은 누구신가요?"
+msgstr ""
+
+msgid "댓글을 찾을 수 없습니다."
+msgstr ""
+
+msgid "댓글 수정이 실패하였습니다."
+msgstr ""
+
+#, python-format
+msgid "먼저 질문하신 순으로 답변을 드리고 있습니다.  답변까지 약 %(hours)s 시간 정도를 기다리셔야 합니다."
+msgstr ""
+
+msgid "주제글이 등록되었습니다."
+msgstr ""
+
+msgid "글을 찾을 수 없습니다."
+msgstr ""
+
+msgid "글 삭제가 허락되지 않습니다.."
+msgstr ""
+
+msgid "미꾸라지 포럼"
+msgstr ""
+
+msgid "결과를 찾을 수 없습니다."
+msgstr ""
+
+msgid "저장되었습니다."
+msgstr ""
+
+msgid "현재 미꾸라지 프로그램이 실행중이 아닙니다."
+msgstr ""
+
+msgid "연결을 먼저하시기 바랍니다."
+msgstr ""
+
+msgid "DB 오류가 발생했습니다"
+msgstr ""
+
+msgid "지정한 파일을 찾을 수 없습니다 - 미꾸라지"
+msgstr ""
+
+msgid "내부 오류가 발생하였습니다 - 미꾸라지"
+msgstr ""
+
+msgid "로그아웃 되었습니다."
+msgstr ""
+
+msgid "허용되지 않은 문자가 사용되었습니다."
+msgstr ""
+
+msgid "허용되지 않은 E메일 도메인입니다."
+msgstr ""
+
+msgid "사용자 ID"
+msgstr ""
+
+msgid "E 메일"
+msgstr ""
+
+msgid "패스워드"
+msgstr ""
+
+msgid "현재 패스워드"
+msgstr ""
+
+msgid "새 패스워드"
+msgstr ""
+
+msgid "새 패스워드(다시 입력)"
+msgstr ""
+
+msgid "언어"
+msgstr ""
+
+msgid "요금제"
+msgstr ""
+
+msgid "사용함"
+msgstr ""
+
+msgid "사용 안함"
+msgstr ""
+
+msgid "전문가 모드"
+msgstr ""
+
+msgid "아바타"
+msgstr ""
+
+msgid "기록함"
+msgstr ""
+
+msgid "기록 하지 않음"
+msgstr ""
+
+msgid "접속 기록 여부"
+msgstr ""
+
+#, python-format
+msgid "알 수 없는 도메인입니다. (%(rt)s)"
+msgstr ""
+
+#, python-format
+msgid "CIDR 형식이 아닙니다. (%(rt)s)"
+msgstr ""
+
+#, python-format
+msgid "IP 포맷이 잘못 되었습니다. (%(rt)s)"
+msgstr ""
+
+#, python-format
+msgid "Subnet 문법이 틀렸습니다. (%(rt)s)"
+msgstr ""
+
+#, python-format
+msgid "라우팅 경로 문법이 틀렸습니다. (%(rt)s)"
+msgstr ""
+
+msgid "동영상"
+msgstr ""
+
+msgid "카테고리 ID"
+msgstr ""
+
+msgid "이름"
+msgstr ""
+
+msgid "아이콘"
+msgstr ""
+
+msgid "설명"
+msgstr ""
+
+msgid "라우팅 경로"
+msgstr ""
+
+msgid "RTT 위치"
+msgstr ""
+
+msgid "RTT IP"
+msgstr ""
+
+msgid "제목"
+msgstr ""
+
+msgid "크레딧 구매하기"
+msgstr ""
+
+msgid "다른 ID로 변경?"
+msgstr ""
+
+msgid "상품명"
+msgstr ""
+
+msgid "미꾸라지 크레딧"
+msgstr ""
+
+msgid "결제 통화"
+msgstr ""
+
+msgid "AUD - 호주 달러"
+msgstr ""
+
+msgid "CNY - 중국 위안"
+msgstr ""
+
+msgid "JPY - 일본 엔"
+msgstr ""
+
+msgid "KRW - 대한민국 원"
+msgstr ""
+
+msgid "USD - 미국 달러"
+msgstr ""
+
+msgid "결제 수단"
+msgstr ""
+
+msgid "결제 가격"
+msgstr ""
+
+msgid "$ 2.99"
+msgstr ""
+
+msgid "$ 4.99"
+msgstr ""
+
+msgid "$ 9.99"
+msgstr ""
+
+msgid "$ 29.99"
+msgstr ""
+
+msgid "$ 49.99"
+msgstr ""
+
+msgid "$ 99.99"
+msgstr ""
+
+msgid "구매 요청"
+msgstr ""
+
+msgid "Alipay (支付宝)"
+msgstr ""
+
+msgid "WeChat (微信)"
+msgstr ""
+
+msgid "결제 계정 별명"
+msgstr ""
+
+msgid "Nickname (昵称)"
+msgstr ""
+
+msgid "결제 확인을 위해 Nickname (昵称) 을 정확히 입력해주세요."
+msgstr ""
+
+msgid "연락 E메일"
+msgstr ""
+
+msgid "결제 처리 / 문제 해결을 위한 연락처로 사용됩니다."
+msgstr ""
+
+msgid "알리페이 계좌이체"
+msgstr ""
+
+msgid "접수되었습니다."
+msgstr ""
+
+msgid "아래의 QR 코드로 선택하신 금액을 입금해 주시면 됩니다."
+msgstr ""
+
+msgid ""
+"\n"
+"      계좌 이체 발생 후 크레딧 충전까지 <b>최소 1 시간</b>,\n"
+"      <b>최대 24 시간</b>이 소요될 수\n"
+"      있는 점과\n"
+"      영업 시간 (한국 기준시 9AM ~ 6PM, 월-금)\n"
+"      내에만 처리를 해드리는 점\n"
+"      양해 바랍니다.\n"
+"      "
+msgstr ""
+
+msgid "WeChat 계좌이체"
+msgstr ""
+
+msgid ""
+"아래의 QR 코드를 통해 친구 추가를 하신 후, 입력하신 입금액을\n"
+"보내주세요."
+msgstr ""
+
+msgid "¥ 999"
+msgstr ""
+
+msgid "¥ 2,999"
+msgstr ""
+
+msgid "¥ 4,999"
+msgstr ""
+
+msgid "¥ 9,999"
+msgstr ""
+
+msgid "카카오페이"
+msgstr ""
+
+msgid "Toss (토스)"
+msgstr ""
+
+msgid "휴대폰"
+msgstr ""
+
+msgid "신용카드"
+msgstr ""
+
+msgid "실시간 계좌이체"
+msgstr ""
+
+msgid "직접 계좌이체"
+msgstr ""
+
+msgid "비트코인"
+msgstr ""
+
+msgid "2,990 원"
+msgstr ""
+
+msgid "4,990 원"
+msgstr ""
+
+msgid "9,990 원"
+msgstr ""
+
+msgid "29,990 원"
+msgstr ""
+
+msgid "49,990 원"
+msgstr ""
+
+msgid "99,990 원"
+msgstr ""
+
+msgid "입금인"
+msgstr ""
+
+msgid "성명"
+msgstr ""
+
+msgid "자신의 성명 (은행 계좌 예금주) 을 입력하시면 됩니다."
+msgstr ""
+
+msgid "입금인 성명을 적어 주세요."
+msgstr ""
+
+msgid "크레딧 환전"
+msgstr ""
+
+msgid "다음과 같이 크레딧을 환전하고자 합니다."
+msgstr ""
+
+msgid "<b>환전 전:</b>"
+msgstr ""
+
+msgid "<b>환전 후:</b>"
+msgstr ""
+
+msgid "정말로 환전하시겠습니까?"
+msgstr ""
+
+msgid "네. 환전하겠습니다."
+msgstr ""
+
+msgid "크레딧 구매 내역"
+msgstr ""
+
+msgid "처음 오셨나요?"
+msgstr ""
+
+msgid ""
+"\n"
+"    이곳은 미꾸라지 프로그램의 대쉬 보드로써 아이템 구매 / 프로그램 설정 /\n"
+"    계정 관리를 할 수 있는 곳입니다.  아래와 같은 쉬운 방법으로 사용하실 수\n"
+"    있습니다.\n"
+"    "
+msgstr ""
+
+msgid ""
+"\n"
+"\t'<span class='fa fa-gift'></span> 아이템 &rarr; 아이템 구매' 를\n"
+"\t클릭하셔서 미꾸라지를 통해 사용하실 아이템을 구매합니다.  만약 크레딧이\n"
+"\t부족하다면 충전 후 구매 가능합니다.\n"
+"\t"
+msgstr ""
+
+msgid ""
+"\n"
+"\t'<span class='glyphicon glyphicon-download-alt'></span> 다운로드'\n"
+"\t링크를 클릭하셔서 자신의 운영체제 맞는 배포판을 설치합니다.\n"
+"\t"
+msgstr ""
+
+msgid ""
+"\n"
+"\t미꾸라지를 실행하신 후 로그인하시면 해당 아이템을 이용하기\n"
+"\t위한 환경이 자동으로 구성됩니다.\n"
+"\t"
+msgstr ""
+
+msgid ""
+"\n"
+"    자세한 부분은\n"
+"    <a href='https://docs.mudfish.net/ko/docs/mudfish-launcher/intro/'\n"
+"       class='alert-link'>대쉬보드 사용법</a>\n"
+"    문서를 참고하시길 권해드립니다.\n"
+"    "
+msgstr ""
+
+msgid "장착한 아이템"
+msgstr ""
+
+msgid "최단 경로 확인"
+msgstr ""
+
+msgid "실시간 RTT"
+msgstr ""
+
+msgid "실시간 트래픽"
+msgstr ""
+
+msgid "실시간 트래픽 사용량"
+msgstr ""
+
+msgid "실시간 크레딧 사용량"
+msgstr ""
+
+msgid ""
+"\n"
+"  Full VPN 모드 기능을 위해 사용중인 중계 서버가 죽어 있습니다.\n"
+"  '설정 - 프로그램' 메뉴에 들어가셔서 Full VPN 모드 설정을\n"
+"  다시 하시기 바랍니다.\n"
+"  "
+msgstr ""
+
+msgid ""
+"\n"
+"  Full VPN 모드를 사용 안함으로 지금 변경하시겠습니까?\n"
+"  "
+msgstr ""
+
+msgid "Full VPN 기능"
+msgstr ""
+
+msgid "네"
+msgstr ""
+
+msgid "아니요"
+msgstr ""
+
+msgid ""
+"\n"
+"  Full VPN 모드 기능을 위해 사용중인 공개 무료 서버가 죽어 있습니다.\n"
+"  '설정 - 프로그램' 메뉴에 들어가셔서 Full VPN 모드 설정을\n"
+"  다시 하시기 바랍니다.\n"
+"  "
+msgstr ""
+
+msgid "상태"
+msgstr ""
+
+msgid "하위 계정"
+msgstr ""
+
+msgid "계정 타입"
+msgstr ""
+
+msgid "FastConnect 모드"
+msgstr ""
+
+msgid "Per-Eaddr 모드"
+msgstr ""
+
+msgid "Full VPN 모드"
+msgstr ""
+
+msgid "연결 여부"
+msgstr ""
+
+msgid "프로세스"
+msgstr ""
+
+msgid "설정 구성"
+msgstr ""
+
+msgid "작동중"
+msgstr ""
+
+msgid "패킷 덤프"
+msgstr ""
+
+msgid ""
+"\n"
+"  크레딧 충전 내용을 적용하기 위해서는 다시 로그인을 하셔야 합니다.\n"
+"  지금 로그아웃 하시겠습니까?\n"
+"  "
+msgstr ""
+
+msgid "주의"
+msgstr ""
+
+msgid "변경 내역이 적용되지 아직 않았습니다."
+msgstr ""
+
+msgid "알아두세요!"
+msgstr ""
+
+msgid ""
+"\n"
+"    현재 브라우저를 통해 미꾸라지 홈페이지에 직접 접속중입니다.\n"
+"    프로그램(VPN) 동작을 위해서는 미꾸라지 Launcher 를 통해 접속하시기\n"
+"    바랍니다.\n"
+"    "
+msgstr ""
+
+msgid ""
+"\n"
+"\t현재 미꾸라지 안드로이드 앱을 통해 접속중입니다.\n"
+"\t이 대쉬보드에서의 설정은 PC / 공유기용으로 앱에는 적용되지 않습니다.\n"
+"\t"
+msgstr ""
+
+msgid "안녕하세요."
+msgstr ""
+
+msgid "공유기"
+msgstr ""
+
+#, python-format
+msgid "현재 %(username)s 계정으로 로그인하였습니다."
+msgstr ""
+
+msgid "주요 링크"
+msgstr ""
+
+msgid "크레딧"
+msgstr ""
+
+msgid "구매하기"
+msgstr ""
+
+msgid "구매 내역"
+msgstr ""
+
+msgid "계정"
+msgstr ""
+
+msgid "개인정보 수정"
+msgstr ""
+
+msgid "비밀번호 변경"
+msgstr ""
+
+msgid "하위 계정 관리"
+msgstr ""
+
+msgid "지원"
+msgstr ""
+
+msgid "1:1 문의"
+msgstr ""
+
+msgid "내가 쓴 글"
+msgstr ""
+
+msgid "아이템 구매"
+msgstr ""
+
+msgid "아이템은 <strong>한달</strong> 동안 유효합니다."
+msgstr ""
+
+msgid ""
+"\n"
+"\t    이 차감됩니다.\n"
+"\t    "
+msgstr ""
+
+msgid "주의하세요!"
+msgstr ""
+
+msgid ""
+"\n"
+"    이 아이템의 경우 CDN (Content Delivery Network) 관련 라우팅 정보를\n"
+"    포함하고 있습니다.  미꾸라지가 켜져 있는 상태에서 파일 다운로드나\n"
+"    스트리밍을 할 경우 의도치 않게 크레딧이 많이 차감될 수 있습니다.\n"
+"    "
+msgstr ""
+
+msgid "자동 갱신"
+msgstr ""
+
+msgid ""
+"\n"
+"\t시간을 절약하고 귀찮은 과정을 건너뛸 수 있습니다.\n"
+"\t남은 잔여일이 3일 미만이 되면, 아이템 유효 기간이 자동으로\n"
+"\t갱신되며 크레딧이 차감됩니다.\n"
+"\t"
+msgstr ""
+
+msgid "서버 위치"
+msgstr ""
+
+msgid ""
+"\n"
+"\t\t  이 아이템이 지원하는 게임 / 사이트 / 스트리밍 서버 위치를\n"
+"\t\t  가르킵니다.\n"
+"\t\t  "
+msgstr ""
+
+msgid ""
+"\n"
+"\t\t  최적의 RTT 및 중계 서버 정보를 받기 위해서는 아래의 위치 중\n"
+"\t\t  접속하는 서버 위치를 선택해 주세요.\n"
+"\t\t  "
+msgstr ""
+
+msgid "목적지 위치"
+msgstr ""
+
+msgid "선택"
+msgstr ""
+
+msgid "사설 서버"
+msgstr ""
+
+msgid "공식 서버"
+msgstr ""
+
+msgid "중계 서버"
+msgstr ""
+
+msgid ""
+"\n"
+"\t사용할 중계 서버를 선택하십시오.\n"
+"\t"
+msgstr ""
+
+msgid "기본 모드"
+msgstr ""
+
+msgid "하나의 중계 서버를 경유하여 트래픽이 전달됩니다."
+msgstr ""
+
+msgid "고급 모드"
+msgstr ""
+
+msgid "두개의 중계 서버들을 경유하여 트래픽이 전달됩니다."
+msgstr ""
+
+msgid "정말로 구매하시겠습니까?"
+msgstr ""
+
+msgid "아이템 구매하기"
+msgstr ""
+
+msgid "아이템"
+msgstr ""
+
+msgid "설정"
+msgstr ""
+
+msgid ""
+"\n"
+"\t이 아이템이 지원하는 게임 / 사이트 / 스트리밍 서버 위치를\n"
+"\t가르킵니다.\n"
+"\t"
+msgstr ""
+
+msgid ""
+"\n"
+"\t최적의 RTT 및 중계 서버 정보를 받기 위해서는 아래의 위치 중\n"
+"\t접속하는 서버 위치를 선택해 주세요.\n"
+"\t"
+msgstr ""
+
+msgid "안내"
+msgstr ""
+
+msgid "선택하신 중계 서버로 변경되었습니다."
+msgstr ""
+
+msgid "오늘의 추천 경로"
+msgstr ""
+
+msgid ""
+"\n"
+"\t  계산된 최적의 미꾸라지 중계 서버 이용 경로들이며,\n"
+"\t  예상 RTT 평균과 편차 정보입니다.\n"
+"\t  "
+msgstr ""
+
+msgid ""
+"\n"
+"          전체 목록을 보실려면 <a href='/admin/user/rtt_map'>여기</a>에서\n"
+"          확인하세요.\n"
+"\t  "
+msgstr ""
+
+msgid "목적지"
+msgstr ""
+
+msgid "계산 시각"
+msgstr ""
+
+msgid "전"
+msgstr ""
+
+msgid "FastConnect 모드가 켜져있습니다. 이 경우, 중계 서버 고급 모드가 지원되지 않습니다."
+msgstr ""
+
+msgid "사용 여부"
+msgstr ""
+
+msgid ""
+"\n"
+"\t아이템 사용 여부를 선택합니다.\n"
+"\t"
+msgstr ""
+
+msgid "설정하기"
+msgstr ""
+
+msgid "기타 옵션"
+msgstr ""
+
+msgid "기간 연장"
+msgstr ""
+
+msgid "아이템 삭제"
+msgstr ""
+
+msgid "정말 기간 연장 하겠습니까?"
+msgstr ""
+
+msgid "주의 사항"
+msgstr ""
+
+msgid "남은 시간"
+msgstr ""
+
+#, python-format
+msgid "%(days)d 일 남음"
+msgstr ""
+
+#, python-format
+msgid "%(hours)d 시간 남음"
+msgstr ""
+
+msgid "남은 시간에 31 일이 추가됩니다."
+msgstr ""
+
+msgid "닫기"
+msgstr ""
+
+msgid "정말 삭제하시겠습니까?"
+msgstr ""
+
+msgid "남은 기간은 크레딧으로 환불되지 않습니다."
+msgstr ""
+
+msgid "삭제된 아이템은 복구할 수 없습니다.  재구매하셔야 합니다."
+msgstr ""
+
+msgid ""
+"\n"
+"  접속하시는 서버 위치를 선택해 주세요.  RTT 및 중계 서버 계산에 사용됩니다.\n"
+"  "
+msgstr ""
+
+msgid "RTT 상황"
+msgstr ""
+
+msgid "목적지 서버 위치"
+msgstr ""
+
+msgid "아래에서 목적지를 선택해 주세요."
+msgstr ""
+
+msgid "내부 오류"
+msgstr ""
+
+msgid "최단 경로"
+msgstr ""
+
+msgid "RTT 기반으로 검색된 추천 최단 경로들입니다."
+msgstr ""
+
+msgid "추천 경로"
+msgstr ""
+
+msgid "예상 RTT 평균값"
+msgstr ""
+
+msgid "기본 모드 사용보다 나은 추천 최단 경로를 찾을 수 없습니다."
+msgstr ""
+
+msgid "예상 RTT 표준편차"
+msgstr ""
+
+msgid "RTT 서버"
+msgstr ""
+
+msgid "사용자 <-> 중계 서버 구간"
+msgstr ""
+
+msgid "중계 서버 <-> 게임서버 구간"
+msgstr ""
+
+msgid "전체 구간"
+msgstr ""
+
+msgid "중계 서버 목록"
+msgstr ""
+
+msgid "RTT"
+msgstr ""
+
+msgid "시스템 부하를 가르킵니다. CPU Steal 퍼센트/IO Wait 퍼센트/네트웍 카드 오류수"
+msgstr ""
+
+msgid "시스템 부하"
+msgstr ""
+
+msgid "지난 5 분간 이 중계 서버가 처리한 트래픽량을 가르킵니다.  단위는 MBytes 입니다."
+msgstr ""
+
+msgid "트래픽양"
+msgstr ""
+
+msgid "패킷로스"
+msgstr ""
+
+msgid ""
+"각 항목에 대한 점수(Score)은 '사용자 컴퓨\n"
+"터 &#8594; 미꾸라지 중계 서버 &#8594; Backend 서버'까지의 RTT (Round Trip Time) 의 평균 + "
+"표준편차의 합을 나타냅니다."
+msgstr ""
+
+msgid "평가점수"
+msgstr ""
+
+msgid "RTT 그래프"
+msgstr ""
+
+msgid "계산중입니다."
+msgstr ""
+
+msgid "활성화됨"
+msgstr ""
+
+msgid "비활성화됨"
+msgstr ""
+
+msgid "선택된 중계 서버"
+msgstr ""
+
+msgid "가격"
+msgstr ""
+
+msgid "정액제 전용"
+msgstr ""
+
+msgid "구입 가능한 아이템이 없습니다."
+msgstr ""
+
+msgid "아이템 관리"
+msgstr ""
+
+msgid "구매하신 아이템이 없습니다."
+msgstr ""
+
+msgid "아이템 수정"
+msgstr ""
+
+msgid "아이템 추가"
+msgstr ""
+
+msgid "카테고리"
+msgstr ""
+
+msgid "아이템 이름"
+msgstr ""
+
+msgid ""
+"\n"
+"\t    해당 아이템에 대한 적당한 아이콘을 지정해 주시면 됩니다. 이 부분은\n"
+"\t    선택 사항이며 미지정시 기본 아이콘이 보이게 됩니다.\n"
+"\t    "
+msgstr ""
+
+msgid "목적지 정보를 입력하시면 됩니다."
+msgstr ""
+
+msgid "필수 사항입니다."
+msgstr ""
+
+msgid "RTT 체크"
+msgstr ""
+
+msgid ""
+"\n"
+"\t    (<b>선택사항</b>)\n"
+"\t    RTT (Round Trip Time, 핑) 체크를 위한 정보를 입력할 수\n"
+"\t    있으며, 입력시 해당 서버와의 연결 상태를 중계 서버 별로 확인 할 수\n"
+"\t    있습니다.  현재는 ICMP 프로토콜만 지원합니다.\n"
+"\t    "
+msgstr ""
+
+msgid "Asia (South Korea)"
+msgstr ""
+
+msgid "IPv4 주소"
+msgstr ""
+
+msgid "수정하기"
+msgstr ""
+
+msgid "추가하기"
+msgstr ""
+
+msgid "개인 아이템"
+msgstr ""
+
+#, python-format
+msgid ""
+"\n"
+"      이 아이템은 %(username)s 님이 제작한 아이템입니다.\n"
+"      아래의 메뉴를 이용하여 수정 / 삭제를 하실 수 있습니다.\n"
+"      "
+msgstr ""
+
+msgid "로컬 컴퓨터"
+msgstr ""
+
+msgid "설정 저장"
+msgstr ""
+
+msgid "적용할 장치"
+msgstr ""
+
+msgid ""
+"\n"
+"\tPer-Eaddr 모드를 이용하여 특정 Ethernet Address (Mac Address) 를\n"
+"\t가진 컴퓨터만 미꾸라지를 적용할 수 있습니다.\n"
+"\n"
+"\t만약 아무것도 지정하지 않는다면 공유기에 접속한 모든 컴퓨터 / 장치에\n"
+"\t미꾸라지가 적용됩니다.\n"
+"\t"
+msgstr ""
+
+msgid ""
+"\n"
+"\t1 줄 당 1 개의 Ethernet Address (Mac Address) 를 입력하시기 바랍니다.\n"
+"\t"
+msgstr ""
+
+msgid ""
+"\n"
+"  변경하신 설정을 적용하기 위해서는 다시 로그인을 하셔야 합니다.\n"
+"  지금 로그아웃 하시겠습니까?\n"
+"  "
+msgstr ""
+
+msgid "로그 아웃 확인"
+msgstr ""
+
+msgid "설정이 적용되지 아직 않았습니다."
+msgstr ""
+
+msgid "입력한 Mac Address 가 올바르지 않습니다:"
+msgstr ""
+
+msgid "오류가 발생하였습니다:"
+msgstr ""
+
+msgid "Per-Eaddr 모드가 업데이트되었습니다.  반드시 미꾸라지를 재시작하셔야 적용됩니다."
+msgstr ""
+
+msgid "목록 제한"
+msgstr ""
+
+msgid ""
+"\n"
+"      목록 정책에 적용할 중계 서버를 지정합니다.\n"
+"      중계 서버 목록은 지정한 정책에 따라 보여지게 됩니다.\n"
+"      "
+msgstr ""
+
+msgid "국가 코드"
+msgstr ""
+
+msgid "중계 서버를 선택해 주세요."
+msgstr ""
+
+msgid "고급 모드 결과 포함"
+msgstr ""
+
+msgid ""
+"\n"
+"      중계 서버 모드 중 '고급 모드' 를 사용한 추천 경로 결과를 포함할지를\n"
+"      결정합니다.  기본값은 Off 입니다.\n"
+"      "
+msgstr ""
+
+msgid "목록 정책"
+msgstr ""
+
+msgid ""
+"\n"
+"      중계 서버 목록을 Whitelist 정책으로 지정할지 Blacklist 정책으로\n"
+"      지정할지를 결정합니다.  기본값은 Whitelist 정책입니다.\n"
+"      "
+msgstr ""
+
+msgid "잘못된 설정"
+msgstr ""
+
+msgid "Full VPN 모드의 중계 서버는 1 개만 설정하셔야 합니다."
+msgstr ""
+
+msgid "프로그램"
+msgstr ""
+
+msgid "기본 설정"
+msgstr ""
+
+msgid "미꾸라지 중계 서버"
+msgstr ""
+
+msgid "공개 무료 서버"
+msgstr ""
+
+msgid "Full VPN - XP 모드"
+msgstr ""
+
+msgid ""
+"\n"
+"      몇몇 Windows XP 버전의 경우, Full VPN 설정시 제대로 라우팅\n"
+"      테이블이 설정되지 않는 문제점이 존재하는데, 이 옵션을 활성화시\n"
+"      강제 라우팅 테이블 설정을 수행 합니다. Windows XP 사용자만\n"
+"      해당합니다.\n"
+"      "
+msgstr ""
+
+msgid "설정 초기화"
+msgstr ""
+
+msgid ""
+"\n"
+"  컴퓨터에서 발생되는 모든 트래픽을 공개 무료 서버를 통해 전달합니다.\n"
+"  만약 이 기능을 사용하실려면 아래의 이용 가능한 공개 무료 서버 중 하나를\n"
+"  선택해 주세요.\n"
+"  "
+msgstr ""
+
+msgid "경고"
+msgstr ""
+
+msgid ""
+"\n"
+"  이 공개 무료 서버들은 미꾸라지 네트웍스에서 제공되는 공식 서버가 아니기\n"
+"  때문에 이 서버들을 사용함으로 인해 발생되는 이슈는 미꾸라지 네트웍스에서\n"
+"  책임지지 않습니다.\n"
+"  "
+msgstr ""
+
+msgid ""
+"\n"
+"      컴퓨터에서 발생되는 모든 트래픽을 미꾸라지 중계 서버로 전달합니다.\n"
+"      만약 이 기능을 사용하실려면 아래의 이용 가능한 중계 서버를\n"
+"      선택해 주세요.\n"
+"      "
+msgstr ""
+
+msgid "연결 프로토콜"
+msgstr ""
+
+msgid ""
+"\n"
+"      미꾸라지가 중계 서버와 통신에 사용할 프로토콜을 지정합니다.\n"
+"      "
+msgstr ""
+
+msgid "FEC 기반"
+msgstr ""
+
+msgid "RTT 검사 방법"
+msgstr ""
+
+msgid ""
+"\n"
+"      미꾸라지가 중계 서버까지의 RTT (Round Trip Time) 을 측정하기 위해\n"
+"      사용할 프로토콜을 지정합니다.\n"
+"      "
+msgstr ""
+
+msgid "MTU 설정"
+msgstr ""
+
+msgid ""
+"\n"
+"      프로그램이 사용할 MTU (Maximum Transmission Unit) 크기를\n"
+"      지정합니다. 기본값은 1400 bytes 입니다.\n"
+"      "
+msgstr ""
+
+msgid ""
+"\n"
+"      미꾸라지가 트래픽을 처리할 때 Router 방식 대신 Proxy 방식으로\n"
+"      처리하게 합니다.\n"
+"      "
+msgstr ""
+
+msgid "연결 프로토콜이 TCP인 아이템에만 도움을 줍니다."
+msgstr ""
+
+msgid "문제점 보고서 제출중입니다... 최대 2 분까지 걸릴 수 있습니다."
+msgstr ""
+
+msgid "성공적으로 제출 되었습니다. 감사합니다."
+msgstr ""
+
+msgid "문제점 보고"
+msgstr ""
+
+msgid "제목을 입력해 주세요."
+msgstr ""
+
+msgid "내용"
+msgstr ""
+
+msgid ""
+"\n"
+"            자세한 상황과 재현 방법을 적어 주시면 문제 해결에 큰 도움이 됩니다.\n"
+"            "
+msgstr ""
+
+msgid "문제점 보고하기"
+msgstr ""
+
+msgid "혹시 아래의 질문에 답변이 있을 수 있습니다."
+msgstr ""
+
+msgid "연결 상태"
+msgstr ""
+
+msgid "호스트이름"
+msgstr ""
+
+msgid "내부 주소"
+msgstr ""
+
+msgid "Uptime"
+msgstr ""
+
+msgid "Heartbeat"
+msgstr ""
+
+msgid "가격 정책"
+msgstr ""
+
+msgid "국내 트래픽 (1 GBytes 당 가격)"
+msgstr ""
+
+msgid "원 (KRW)"
+msgstr ""
+
+msgid "국제 트래픽 (1 GBytes 당 가격)"
+msgstr ""
+
+msgid "CPU 사용률"
+msgstr ""
+
+msgid "시스템 부하률"
+msgstr ""
+
+msgid "네트워크 사용"
+msgstr ""
+
+msgid "네트워크 장치 에러 정보"
+msgstr ""
+
+msgid "정기 점검 안내"
+msgstr ""
+
+msgid ""
+"\n"
+"      서비스 안정화를 위한 정기 점검을 하려고 합니다. 이로 인해 점검 기간\n"
+"      동안 미꾸라지 이용에 문제가 있을 수 있음을 알려드립니다.\n"
+"      "
+msgstr ""
+
+msgid "대상: 모든 미꾸라지 중계 서버들"
+msgstr ""
+
+msgid "일시"
+msgstr ""
+
+msgid "일"
+msgstr ""
+
+msgid "시"
+msgstr ""
+
+msgid "분"
+msgstr ""
+
+msgid "초"
+msgstr ""
+
+msgid "후에 점검이 시작됩니다."
+msgstr ""
+
+msgid ""
+"\n"
+"      점검을 시작하게 되면 미꾸라지 중계 서버를 경유한 기존 게임 연결이\n"
+"      끊어질 수 있으며 로그인, 홈페이지 접속에 문제가 있을 수 있습니다.\n"
+"      "
+msgstr ""
+
+msgid "점검중"
+msgstr ""
+
+msgid "미꾸라지가 성공적으로 실행되었습니다.  화면을 갱신하겠습니까?"
+msgstr ""
+
+msgid "미꾸라지가 이미 실행중입니다. 화면을 갱신하겠습니까?"
+msgstr ""
+
+msgid "실행 상태"
+msgstr ""
+
+msgid "화면 갱신을 하셔야 세부 정보가 표시됩니다."
+msgstr ""
+
+msgid "미꾸라지 실행이 실패하였습니다."
+msgstr ""
+
+msgid "로그아웃 후 다시 로그인하겠습니까?"
+msgstr ""
+
+msgid "미꾸라지 실행이 계속 실패할 경우 미꾸라지 포럼에 문의바랍니다."
+msgstr ""
+
+msgid "미꾸라지가 성공적으로 종료하였습니다. 화면을 갱신하겠습니까?"
+msgstr ""
+
+msgid "화면 갱신은 언제든지 하셔야 됩니다."
+msgstr ""
+
+msgid "미꾸라지 종료가 실패하였습니다."
+msgstr ""
+
+msgid "현재 미꾸라지 프로그램이 실행중입니다."
+msgstr ""
+
+msgid "연결끊기"
+msgstr ""
+
+msgid "연결하기"
+msgstr ""
+
+msgid ""
+"\n"
+"\t미꾸라지 포럼이 Discourse 기반으로 새롭게 옮겼습니다.  미꾸라지\n"
+"\t서비스 관련 기술 지원은 미꾸라지 포럼을 통해서 지원해 드리니\n"
+"\t많은 이용 바랍니다.\n"
+"\t"
+msgstr ""
+
+msgid "새 미꾸라지 포럼"
+msgstr ""
+
+msgid ""
+"\n"
+"\t'1:1 지원' 의 경우 개인적인 문의 (예를 들어, 크레딧 환불)\n"
+"\t를 할 경우 이용해 주시기 바랍니다.\n"
+"\t"
+msgstr ""
+
+msgid ""
+"\n"
+"\t  마스터 (Master) 계정의 미꾸라지 크레딧을 공유하는 하위 미꾸라지 계정을\n"
+"\t  생성할 수 있습니다.\n"
+"\t  "
+msgstr ""
+
+msgid "계정 ID"
+msgstr ""
+
+msgid "접속 IP"
+msgstr ""
+
+msgid "접속 시간"
+msgstr ""
+
+msgid "생성 시간"
+msgstr ""
+
+msgid "생성된 하위 계정이 없습니다."
+msgstr ""
+
+msgid "계정 삭제"
+msgstr ""
+
+msgid "계정 추가"
+msgstr ""
+
+msgid "하위 계정 추가"
+msgstr ""
+
+msgid ""
+"\n"
+"\t  패스워드는 최소 6자 이상이여야 합니다.\n"
+"\t  "
+msgstr ""
+
+msgid "하위 계정 생성"
+msgstr ""
+
+#, python-format
+msgid "%(username)s 님의 패스워드를 변경합니다."
+msgstr ""
+
+msgid ""
+"\n"
+"\t  <strong>절대</strong> 평소에 쓰시는 혹은 금융 업무를 위한 패스워드를\n"
+"\t  <em>사용하지 마십시오</em>.\n"
+"\t  "
+msgstr ""
+
+msgid "변경하기"
+msgstr ""
+
+msgid "요금제 변경"
+msgstr ""
+
+msgid ""
+"\n"
+"\t  요금제 변경을 시도하고 있습니다.  요금제는 한달에 오직 한번만 변경할 수\n"
+"\t  있기 때문에 신중하게 결정하시기 바랍니다.\n"
+"\t  "
+msgstr ""
+
+msgid "현재 요금제"
+msgstr ""
+
+msgid "변경할 요금제"
+msgstr ""
+
+msgid ""
+"\n"
+"\t      정액제에서 종량제로 요금제를 변경하실 경우, 기존 장착중인 아이템이 소멸됩니다.\n"
+"\t      "
+msgstr ""
+
+msgid "내 사진"
+msgstr ""
+
+msgid "사용한 트래픽 만큼 차감"
+msgstr ""
+
+msgid "아이템 가격만 차감"
+msgstr ""
+
+msgid "속도 제한"
+msgstr ""
+
+msgid "무제한"
+msgstr ""
+
+msgid "1. 최소 1 개 이상의 유료 아이템 장착 필수"
+msgstr ""
+
+msgid ""
+"\n"
+"\t    요금제는 한달에 오직 한번만 변경할 수 있습니다.\n"
+"\t    "
+msgstr ""
+
+#, python-format
+msgid ""
+"\n"
+"\t      다음 변경 가능한 시점: %(dataplan_changable)s\n"
+"\t      "
+msgstr ""
+
+msgid ""
+"\n"
+"\t    중계 서버 이용의 접속 기록 여부를 설정합니다.\n"
+"\t    "
+msgstr ""
+
+msgid ""
+"\n"
+"\t    활성화시 좀 더 전문적인 옵션들이 대쉬보드에 보이도록 합니다.\n"
+"\t    "
+msgstr ""
+
+msgid "위험"
+msgstr ""
+
+msgid ""
+"\n"
+"\t      미꾸라지 계정을 삭제하기 위해서는 다음의 버튼을 클릭하시면 나오는\n"
+"\t      사이트에서 처리 가능합니다.\n"
+"\t      "
+msgstr ""
+
+msgid "계정 탈퇴하기"
+msgstr ""
+
+msgid "최근 RTT 계산 정보"
+msgstr ""
+
+msgid ""
+"\n"
+"아이템 별 최적의 미꾸라지 중계 서버 이용 경로입니다.  아래의 경로 이용시\n"
+"예상되는 RTT 평균과 편차를 정보를 확인할 수 있습니다.\n"
+msgstr ""
+
+msgid "수동으로 RTT 정보를 갱신하려면 아래의 버튼을 클릭해 주세요."
+msgstr ""
+
+msgid "업데이트"
+msgstr ""
+
+msgid ""
+"\n"
+"    업데이트가 요청되었으며 갱신까지 최대 1 ~ 2 분까지 걸릴 수 있습니다.\n"
+"    "
+msgstr ""
+
+msgid "무료 서버 목록"
+msgstr ""
+
+msgid ""
+"\n"
+"      미꾸라지 Core 의 내부 명령을 이용하여, Core 프로그램을 제어할 수 있습니다.\n"
+"      <b>help</b> 명령을 입력하시면 이용 가능한 명령어들 목록을 볼 수 있습니다.\n"
+"      "
+msgstr ""
+
+msgid "명령어"
+msgstr ""
+
+msgid "패킷 덤프 중입니다."
+msgstr ""
+
+msgid "내부 오류가 발생하였습니다."
+msgstr ""
+
+msgid "정지"
+msgstr ""
+
+msgid "업로드가 완료되었습니다."
+msgstr ""
+
+msgid "미꾸라지를 통해 전달되는 패킷을 파일로 덤프하는 기능입니다."
+msgstr ""
+
+msgid "파일 크기"
+msgstr ""
+
+msgid "시작"
+msgstr ""
+
+msgid "중지"
+msgstr ""
+
+msgid "전송하기"
+msgstr ""
+
+msgid "파일 업로드"
+msgstr ""
+
+msgid "한줄 설명"
+msgstr ""
+
+msgid "패킷 덤프의 내용을 간략하게 설명해 주세요."
+msgstr ""
+
+msgid ""
+"\n"
+"      <a href='https://en.wikipedia.org/wiki/MTR_(software)' "
+"target='_blank'>Matt's traceroute</a>\n"
+"      기능을 이용하여 입력하신 'IP / 호스트이름'을 대상으로 테스트를 실시합니다.\n"
+"      이 기능을 통해 어떤 Hop (라우터 구간)에서 Packet loss 가 발생되는지 혹은\n"
+"      지연 시간등의 정보를 확인할 수 있습니다.\n"
+"      "
+msgstr ""
+
+msgid "IP / 호스트이름"
+msgstr ""
+
+msgid "관리"
+msgstr ""
+
+msgid "실행중인 테스트가 없습니다."
+msgstr ""
+
+msgid "삭제"
+msgstr ""
+
+msgid "결과"
+msgstr ""
+
+msgid "Hop"
+msgstr ""
+
+msgid "패킷 로스"
+msgstr ""
+
+msgid "요청수"
+msgstr ""
+
+msgid "응답수"
+msgstr ""
+
+msgid "주소"
+msgstr ""
+
+msgid "현재"
+msgstr ""
+
+msgid "최고"
+msgstr ""
+
+msgid "최저"
+msgstr ""
+
+msgid "저장하기"
+msgstr ""
+
+msgid "미꾸라지 실행을 위해서는 다시 로그인이 필요해 보입니다.  지금 로그아웃 하시겠습니까?"
+msgstr ""
+
+msgid "연결하기를 위해서는 재로그인이 필요합니다."
+msgstr ""
+
+msgid "접속 기록"
+msgstr ""
+
+msgid ""
+"\n"
+"      접속 기록은 1 MBytes 이상 전송된 출발지/목적지에 대해서만 보여집니다.\n"
+"      "
+msgstr ""
+
+msgid ""
+"\n"
+"\t현재 접속 기록 여부가 '기록 안함'으로 설정되어 있기 때문에, 접속 기록이\n"
+"\t제대로 보이지 않을 수 있습니다. 설정을 변경하실려면,\n"
+"\t'설정 -> 계정 -> 개인정보 수정' 메뉴에서 하실 수 있습니다.\n"
+"\t"
+msgstr ""
+
+msgid "날짜"
+msgstr ""
+
+msgid "출발지"
+msgstr ""
+
+msgid "국내 In/Out"
+msgstr ""
+
+msgid "국제 In/Out"
+msgstr ""
+
+msgid "내 컴퓨터"
+msgstr ""
+
+msgid "내부 오류가 발생했습니다. 잠시 후 다시 시도해 보세요."
+msgstr ""
+
+msgid "자체 진단"
+msgstr ""
+
+msgid ""
+"\n"
+"      아래의 목록을 살펴보셔서 <span class='fa fa-fw fa-times'></span>\n"
+"      마크가 있는지 확인 바랍니다.  해당 마크가 있다면 각 항목에 대한 '도움말'을\n"
+"      참고 바랍니다.\n"
+"      "
+msgstr ""
+
+msgid "진단 항목"
+msgstr ""
+
+msgid "Core 준비 여부"
+msgstr ""
+
+msgid "도움말"
+msgstr ""
+
+msgid "중계 서버 자동 선택 아이템"
+msgstr ""
+
+msgid "죽은 중계 서버가 세팅된 아이템"
+msgstr ""
+
+msgid "중앙 서버 테스트: 웹 페이지"
+msgstr ""
+
+msgid "중앙 서버 테스트: 인증 서버"
+msgstr ""
+
+msgid "중앙 서버 테스트: RTT 서버"
+msgstr ""
+
+msgid "방화벽 테스트: KR Asia (S. Korea - KT2 IDC) TCP Port"
+msgstr ""
+
+msgid "방화벽 테스트: KR Asia (S. Korea - KT2 IDC) UDP Port"
+msgstr ""
+
+msgid "내부망 테스트: KR Asia (S. Korea - KT2 IDC)"
+msgstr ""
+
+msgid "메모리"
+msgstr ""
+
+msgid "프로세스 종료"
+msgstr ""
+
+msgid ""
+"\n"
+"      현재 접속 기록 여부가 '기록 안함'으로 설정되어 있기 때문에, 그래프가\n"
+"      제대로 보이지 않을 수 있습니다. 설정을 변경하실려면,\n"
+"      '설정 -> 계정 -> 개인정보 수정' 메뉴에서 하실 수 있습니다.\n"
+"    "
+msgstr ""
+
+msgid "지난 사용 트래픽 - 유료 중계 서버"
+msgstr ""
+
+msgid "국내 트래픽 (MB)"
+msgstr ""
+
+msgid "국제 트래픽 (MB)"
+msgstr ""
+
+msgid "지난 사용 트래픽 - 무료 중계 서버"
+msgstr ""
+
+#, python-format
+msgid ""
+"국내 트래픽 (1GBytes 당 가격): ₩ %(commercial_node_price_domestic)s "
+"(%(commercial_node_currency)s)"
+msgstr ""
+
+#, python-format
+msgid ""
+"국제 트래픽 (1GBytes 당 가격): ₩ %(commercial_node_price_international)s "
+"(%(commercial_node_currency)s)"
+msgstr ""
+
+msgid "중계 서버 이름"
+msgstr ""
+
+msgid "RTT 평균"
+msgstr ""
+
+msgid "RTT 표준편차"
+msgstr ""
+
+msgid "테스트 중계 서버"
+msgstr ""
+
+msgid "테스트 성공"
+msgstr ""
+
+msgid "테스트 실패"
+msgstr ""
+
+msgid "프로세스 상태"
+msgstr ""
+
+msgid "프로그램 버전"
+msgstr ""
+
+msgid "링크"
+msgstr ""
+
+msgid "로딩중입니다."
+msgstr ""
+
+msgid "RTT 업데이트"
+msgstr ""
+
+msgid ""
+"\n"
+"    업데이트 되었습니다. 하지만\n"
+"    현재 <strong><span id='forceRTTUpdateMinCnt1'></span></strong> 개의 RTT\n"
+"    정보만 결과값에 적용되었기 때문에 정확하지 않을 수 있습니다.\n"
+"    RTT 정보가 많을 수록 정확도가 올라갑니다.\n"
+"    "
+msgstr ""
+
+msgid "새로고침"
+msgstr ""
+
+msgid ""
+"\n"
+"    업데이트 되었습니다.\n"
+"    <strong><span id='forceRTTUpdateMinCnt2'></span></strong> 개의 RTT\n"
+"    정보가 수집되었습니다.\n"
+"    "
+msgstr ""
+
+msgid ""
+"\n"
+"    이미 업데이트 요청이 처리되었습니다.  잠시 후에 다시 시도해 보시기\n"
+"    바랍니다.\n"
+"    "
+msgstr ""
+
+msgid ""
+"\n"
+"  변경하신 설정을 적용하기 위해서는 연결 종료 후 다시 연결하셔야 합니다.\n"
+"  다시 연결 하시겠습니까?\n"
+"  "
+msgstr ""
+
+msgid "연결 확인"
+msgstr ""
+
+msgid "미꾸라지 Core 를 종료 중입니다."
+msgstr ""
+
+msgid "잠시 후 미꾸라지 Core 를 시작합니다."
+msgstr ""
+
+msgid "새 버전 안내"
+msgstr ""
+
+#, python-format
+msgid ""
+"\n"
+"    새 미꾸라지 배포판(<strong>v%(current_verstr)s</strong>)이\n"
+"    나왔습니다.\n"
+"    "
+msgstr ""
+
+#, python-format
+msgid ""
+"\n"
+"    최신 기능 및 버그 수정을 위해서 꼭 업데이트해주시기 바랍니다.  다운로드는\n"
+"    <a href='https://mudfish.net/download'>여기</a>\n"
+"    에서 받으실 수 있으며 현재 사용하고 계신 버전은 v%(user_verstr)s 입니다.\n"
+"    "
+msgstr ""
+
+msgid ""
+"\n"
+"    자세한 변경 사항은\n"
+"    <a href='https://docs.mudfish.net/en/docs/mudfish-cloud-vpn/release-"
+"notes/'>릴리즈 노트</a>를\n"
+"    참고 바랍니다.\n"
+"    "
+msgstr ""
+
+msgid "현재 설정 구성중입니다...  잠시만 기다려 주십시오."
+msgstr ""
+
+msgid ""
+"\n"
+"    진행이 너무 오래 걸리면\n"
+"    <a class='alert-link' href='/admin/status/diag'>자체 진단</a>을 해보십시오.\n"
+"    "
+msgstr ""
+
+msgid "모든 설정 구성이 완료되었습니다!"
+msgstr ""
+
+msgid "크레딧 상태"
+msgstr ""
+
+msgid "남은 크레딧"
+msgstr ""
+
+msgid "남은 트래픽 용량"
+msgstr ""
+
+msgid "마지막 결제일"
+msgstr ""
+
+msgid "현재 마이너스 크레딧 상태입니다."
+msgstr ""
+
+msgid "잔여 크레딧이 없습니다."
+msgstr ""
+
+msgid "아이템 구매를 위해서는 우선 크레딧 구매를 하셔야 합니다."
+msgstr ""
+
+msgid "혹시 환불 / 결제 취소를 원하시나요?"
+msgstr ""
+
+#, python-format
+msgid ""
+"\n"
+"    미꾸라지는 <strong>7일</strong>의 <strong>무조건 환불 정책</strong>으로\n"
+"    운영됩니다.  결제하신 후 1 주 이내에\n"
+"    연락주시면 묻지도 따지지도 않고 100%% 환불해 드립니다.\n"
+"    "
+msgstr ""
+
+msgid "확인되는 거래내역이 없습니다."
+msgstr ""
+
+msgid "지불 방법"
+msgstr ""
+
+msgid "금액"
+msgstr ""
+
+msgid "구매 날짜"
+msgstr ""
+
+msgid "직접 계좌 이체"
+msgstr ""
+
+msgid "환불 요청"
+msgstr ""
+
+msgid "다날 (Danal) 결제"
+msgstr ""
+
+msgid "환불 요청 취소"
+msgstr ""
+
+msgid "Paypal 결제"
+msgstr ""
+
+msgid "구글 플레이 결제"
+msgstr ""
+
+msgid "비트코인 결제"
+msgstr ""
+
+msgid "Toss (토스) 결제"
+msgstr ""
+
+msgid "Alipay 결제"
+msgstr ""
+
+msgid "iPhone 결제"
+msgstr ""
+
+msgid "Paymentwall"
+msgstr ""
+
+msgid "환불을 원하시는 분은 미꾸라지 포럼에 요청글을 남겨주시기 바랍니다."
+msgstr ""
+
+msgid "환불 요청을 취소하시겠습니까?"
+msgstr ""
+
+msgid "환불 요청을 계속 진행하시겠습니까?"
+msgstr ""
+
+msgid "새 개발자 버전 안내"
+msgstr ""
+
+#, python-format
+msgid ""
+"\n"
+"    새로운 개발자 배포판(<strong>v%(dev_verstr)s</strong>)이\n"
+"    나왔습니다.\n"
+"    "
+msgstr ""
+
+msgid ""
+"\n"
+"    새 기능 및 버그 패치들을 미리 테스트 할 수 있는 버전이지만\n"
+"    개발자 배포판이기 때문에 공식 배포판 보다 안정성이 떨어질 수 있으며,\n"
+"    새로운 버그가 있을 수 있습니다.\n"
+"    다운로드는 <a href='https://mudfish.net/download_dev'>여기</a>\n"
+"    에서 받으실 수 있습니다.\n"
+"    "
+msgstr ""
+
+msgid "미꾸라지"
+msgstr ""
+
+msgid "환불 정책"
+msgstr ""
+
+msgid "미꾸라지 네트웍스"
+msgstr ""
+
+msgid "무엇을 도와드릴까요?"
+msgstr ""
+
+msgid "회사 연락을 원하신다면 아래의 이메일로 연락바랍니다.  기술 지원에 대한 전화 상담은 하지 않습니다."
+msgstr ""
+
+msgid "대표: 한미정"
+msgstr ""
+
+msgid "대표번호: (02) 2659-0823"
+msgstr ""
+
+msgid "팩스: (02) 2659-0824"
+msgstr ""
+
+msgid "이메일"
+msgstr ""
+
+msgid "사업자등록번호"
+msgstr ""
+
+msgid "주소: 서울 강서구 마곡중앙로 165 (마곡동, 안강프라이빗타워) 8층 803호"
+msgstr ""
+
+msgid "문의하기"
+msgstr ""
+
+msgid "기타"
+msgstr ""
+
+msgid "소마구 홈페이지"
+msgstr ""
+
+msgid "미꾸라지 네트웍스 (주)"
+msgstr ""
+
+msgid "홈"
+msgstr ""
+
+msgid "포럼 목록"
+msgstr ""
+
+msgid "포럼"
+msgstr ""
+
+msgid "문서"
+msgstr ""
+
+msgid "도구들"
+msgstr ""
+
+msgid "나의 IP는?"
+msgstr ""
+
+msgid "이미지 업로드"
+msgstr ""
+
+msgid "Ping 테스트"
+msgstr ""
+
+msgid "대쉬보드"
+msgstr ""
+
+msgid "사용자"
+msgstr ""
+
+msgid "로그아웃"
+msgstr ""
+
+msgid "트래픽"
+msgstr ""
+
+msgid "고급"
+msgstr ""
+
+msgid "문제점 보고서"
+msgstr ""
+
+msgid ""
+"\n"
+"  아직 변경하신 내용이 적용되지 않았습니다.\n"
+"  지금 설정 구성을 시작하겠습니까?\n"
+"  "
+msgstr ""
+
+msgid "설정 구성 확인"
+msgstr ""
+
+msgid "유료 아이템"
+msgstr ""
+
+msgid ""
+"정액제 요금제의 경우 최소 1 개의 유료 아이템 장착을 해야 프로그램이 제대로 동작을 합니다.  아이템 구매 페이지로 "
+"이동하시겠습니까?"
+msgstr ""
+
+msgid "현재 죽어 있는 중계 서버를 사용하고 있습니다.  아이템 설정에 들어가셔서 중계 서버 설정을 변경하세요."
+msgstr ""
+
+msgid "장착한 아이템이 없습니다."
+msgstr ""
+
+msgid "알려드립니다!"
+msgstr ""
+
+msgid ""
+"\n"
+"  사용자 &harr; 미꾸라지 중계 서버간 정보를 찾을 수 없습니다.  그렇기 때문에 결과가\n"
+"  정확하지 않을 수 있습니다.\n"
+"  미꾸라지 Launcher 를 통해 확인하시면 좀 더 정확한 정보를 얻을 수 있습니다.\n"
+"  "
+msgstr ""
+
+#, python-format
+msgid "<b>%(tdiff)s</b> 전에 수집된 사용자 정보를 바탕으로 계산된 결과입니다."
+msgstr ""
+
+msgid ""
+"\n"
+"  사용자 &harr; 공개 무료 서버간 정보를 찾을 수 없습니다.  그렇기 때문에 결과가\n"
+"  정확하지 않을 수 있습니다.\n"
+"  미꾸라지 Launcher 를 통해 확인하시면 좀 더 정확한 정보를 얻을 수 있습니다.\n"
+"  "
+msgstr ""
+
+msgid "안내!"
+msgstr ""
+
+msgid ""
+"\n"
+"  크레딧 없거나 혹은 Full VPN 을 사용할 권한이 없습니다.\n"
+"  "
+msgstr ""
+
+msgid "WAN 최적화를 통한 게임 / 동영상 가속 VPN, 윈도우 / 맥 / 리눅스 지원"
+msgstr ""
+
+msgid "게임 가속, 미꾸라지, 동영상 가속, VPN"
+msgstr ""
+
+msgid "네이버 스포츠"
+msgstr ""
+
+msgid "해외에서 HD 급으로 네이버 스포츠를 시청 할 수 있습니다."
+msgstr ""
+
+msgid "아이온"
+msgstr ""
+
+msgid "길드워 1 & 2"
+msgstr ""
+
+msgid "아키에이지"
+msgstr ""
+
+msgid "오디션"
+msgstr ""
+
+msgid "아발론 온라인"
+msgstr ""
+
+msgid "배틀필드 3"
+msgstr ""
+
+msgid "배틀필드 온라인"
+msgstr ""
+
+msgid "블레이드 & 소울"
+msgstr ""
+
+msgid "카오스 온라인"
+msgstr ""
+
+msgid "카운터 스트라이크: 글로벌 오펜시브"
+msgstr ""
+
+msgid "사이퍼즈"
+msgstr ""
+
+msgid "다크 에이지 오브 카멜롯"
+msgstr ""
+
+msgid "DC 유니버스 온라인"
+msgstr ""
+
+msgid "리프트"
+msgstr ""
+
+msgid "디아블로 3"
+msgstr ""
+
+msgid "DK 온라인"
+msgstr ""
+
+msgid "도타 2"
+msgstr ""
+
+msgid "드래곤 네스트"
+msgstr ""
+
+msgid "던전 앤 파이터"
+msgstr ""
+
+msgid "던전 스트라이커"
+msgstr ""
+
+msgid "던전 앤 드래곤 온라인"
+msgstr ""
+
+msgid "이브 온라인"
+msgstr ""
+
+msgid "에버퀘스트 II"
+msgstr ""
+
+msgid "피파 온라인 3"
+msgstr ""
+
+msgid "파이어폴"
+msgstr ""
+
+msgid "프리스타일 2"
+msgstr ""
+
+msgid "프리스타일 풋볼"
+msgstr ""
+
+msgid "겟앰프드"
+msgstr ""
+
+msgid "겟앰프드 2"
+msgstr ""
+
+msgid "마계촌 온라인"
+msgstr ""
+
+msgid "그라나도 에스파다"
+msgstr ""
+
+msgid "그랑에이지"
+msgstr ""
+
+msgid "호큰"
+msgstr ""
+
+msgid "히어로즈 오브 뉴어스"
+msgstr ""
+
+msgid "작룡문"
+msgstr ""
+
+msgid "리그 오브 레전드"
+msgstr ""
+
+msgid "레프트 4 데드"
+msgstr ""
+
+msgid "레프트 4 데드 2"
+msgstr ""
+
+msgid "에다전설"
+msgstr ""
+
+msgid "리니지"
+msgstr ""
+
+msgid "리니지 II"
+msgstr ""
+
+msgid "로스트사가"
+msgstr ""
+
+msgid "마비노기"
+msgstr ""
+
+msgid "마비노기 영웅전"
+msgstr ""
+
+msgid "메이플스토리"
+msgstr ""
+
+msgid "마블 히어로즈"
+msgstr ""
+
+msgid "멕워리어: 온라인"
+msgstr ""
+
+msgid "몬스터헌터 프론티어 Z"
+msgstr ""
+
+msgid "마운트 & 블레이드: 워밴드 - 나폴레옹 전쟁"
+msgstr ""
+
+msgid "네이비필드"
+msgstr ""
+
+msgid "페이퍼맨"
+msgstr ""
+
+msgid "판타지 스타 온라인 2"
+msgstr ""
+
+msgid "퀘이크 라이브"
+msgstr ""
+
+msgid "R2 온라인"
+msgstr ""
+
+msgid "라그나로크 온라인"
+msgstr ""
+
+msgid "레드 오케스트라 2"
+msgstr ""
+
+msgid "스타 워즈: 구공화국"
+msgstr ""
+
+msgid "스타크래프트 II"
+msgstr ""
+
+msgid "슈퍼 스트리트 파이터 IV - Arcade Edition"
+msgstr ""
+
+msgid "테일즈위버"
+msgstr ""
+
+msgid "팀 포트리스 2"
+msgstr ""
+
+msgid "테라"
+msgstr ""
+
+msgid "반지의 제왕 온라인"
+msgstr ""
+
+msgid "시크릿 월드"
+msgstr ""
+
+msgid "울티마 온라인"
+msgstr ""
+
+msgid "워 썬더"
+msgstr ""
+
+msgid "울펜슈타인: 에너미 테리토리"
+msgstr ""
+
+msgid "월드 오브 탱크"
+msgstr ""
+
+msgid "월드 오브 워플레인"
+msgstr ""
+
+msgid "월드 오브 워크래프트"
+msgstr ""
+
+msgid "파이널 판타지 XIV: A Realm Reborn"
+msgstr ""
+
+msgid "디아블로 2"
+msgstr ""
+
+msgid "나의 IP 는?"
+msgstr ""
+
+msgid "미꾸라지 적용 여부를 확인하기 위한 도구입니다. 자세한 방법은 '적용 여부 확인하기' 문서를 참고하세요."
+msgstr ""
+
+msgid "버블파이터"
+msgstr ""
+
+msgid "드래곤 퀘스트 10"
+msgstr ""
+
+msgid "배틀필드 4"
+msgstr ""
+
+msgid "맥스 페인 3"
+msgstr ""
+
+msgid "아스타"
+msgstr ""
+
+msgid "다크폴"
+msgstr ""
+
+msgid "MVP 베이스볼 온라인"
+msgstr ""
+
+msgid "서든어택"
+msgstr ""
+
+msgid "피파 14"
+msgstr ""
+
+msgid "하운즈: 리로드"
+msgstr ""
+
+msgid "구음진경"
+msgstr ""
+
+msgid "트라이브스: 어쎈드"
+msgstr ""
+
+msgid "워게임: 레드 드래곤"
+msgstr ""
+
+msgid "환상신역"
+msgstr ""
+
+msgid "삼국지 무쌍전"
+msgstr ""
+
+msgid "라테일"
+msgstr ""
+
+msgid "서바리움"
+msgstr ""
+
+msgid "SD건담 캡슐파이터 온라인"
+msgstr ""
+
+msgid "에밀 크로니클 온라인"
+msgstr ""
+
+msgid "다음 스포츠"
+msgstr ""
+
+msgid "해외에서 HD 급으로 다음 스포츠를 시청할 수 있습니다."
+msgstr ""
+
+msgid "와일드스타"
+msgstr ""
+
+msgid "플래닛사이드 2"
+msgstr ""
+
+msgid "디파이언스"
+msgstr ""
+
+msgid "코즈믹 브레이크"
+msgstr ""
+
+msgid "에이지 오브 코난"
+msgstr ""
+
+msgid "팡야"
+msgstr ""
+
+msgid "아프리카TV"
+msgstr ""
+
+msgid "피파 15"
+msgstr ""
+
+msgid "최강의군단"
+msgstr ""
+
+msgid "미니일레븐"
+msgstr ""
+
+msgid "네이비필드 2"
+msgstr ""
+
+msgid "이카루스"
+msgstr ""
+
+msgid "검은사막"
+msgstr ""
+
+msgid "거상"
+msgstr ""
+
+msgid "바람의 나라"
+msgstr ""
+
+msgid "히어로즈 오브 더 스톰"
+msgstr ""
+
+msgid "이터널시티3"
+msgstr ""
+
+msgid "파이널 판타지 XI"
+msgstr ""
+
+msgid "하스스톤"
+msgstr ""
+
+msgid "벅스"
+msgstr ""
+
+msgid "워페이스"
+msgstr ""
+
+msgid "대항해시대 온라인"
+msgstr ""
+
+msgid "월드 오브 워쉽"
+msgstr ""
+
+msgid "스페셜포스2"
+msgstr ""
+
+msgid "메이플스토리2"
+msgstr ""
+
+msgid "티빙"
+msgstr ""
+
+msgid "카카오톡"
+msgstr ""
+
+msgid "클로저스"
+msgstr ""
+
+msgid "애스커 온라인"
+msgstr ""
+
+msgid "드래곤사가"
+msgstr ""
+
+msgid "인벤"
+msgstr ""
+
+msgid "페이스북"
+msgstr ""
+
+msgid "피파 16"
+msgstr ""
+
+msgid "아이템매니아"
+msgstr ""
+
+msgid "아르피엘"
+msgstr ""
+
+msgid "트리 오브 세이비어"
+msgstr ""
+
+msgid "컬쳐랜드"
+msgstr ""
+
+msgid "SD건담 넥스트 에볼루션"
+msgstr ""
+
+msgid "리그 오브 레전드 (일본)"
+msgstr ""
+
+msgid "드래곤즈 도그마 온라인"
+msgstr ""
+
+msgid "크레이지레이싱 카트라이더"
+msgstr ""
+
+msgid "피파 온라인 2"
+msgstr ""
+
+msgid "네이버 메일"
+msgstr ""
+
+msgid "해피머니"
+msgstr ""
+
+msgid "창세기전 4"
+msgstr ""
+
+msgid "서든어택2"
+msgstr ""
+
+msgid "배틀필드 1"
+msgstr ""
+
+msgid "타르타로스: 리버스"
+msgstr ""
+
+msgid "剑网3"
+msgstr ""
+
+msgid "게임조선"
+msgstr ""
+
+msgid "피파 17"
+msgstr ""
+
+msgid "포인트 블랭크"
+msgstr ""
+
+msgid "텍사스 홀덤"
+msgstr ""
+
+msgid "그랑블루 판타지"
+msgstr ""
+
+msgid "다크 에덴"
+msgstr ""
+
+msgid "无尽战区"
+msgstr ""
+
+msgid "Plants vs. Zombies™ Garden Warfare 2"
+msgstr ""
+
+msgid "테일즈런너"
+msgstr ""
+
+msgid "리그 오브 레전드 (중국)"
+msgstr ""
+
+msgid "어둠의 전설"
+msgstr ""
+
+msgid "블랙스쿼드"
+msgstr ""
+
+msgid "完美世界国际版"
+msgstr ""
+
+msgid "스페셜포스"
+msgstr ""
+
+msgid "리니지M"
+msgstr ""
+
+msgid "다크어벤저3"
+msgstr ""
+
+msgid "少女前线"
+msgstr ""
+
+msgid "아틀란티카"
+msgstr ""
+
+msgid "街頭籃球"
+msgstr ""
+
+msgid "스타크래프트: 리마스터"
+msgstr ""
+
+msgid "이터널시티1"
+msgstr ""
+
+msgid "피파 18"
+msgstr ""
+
+msgid "씰 온라인"
+msgstr ""
+
+msgid "천애명월도"
+msgstr ""
+
+msgid "듀랑고"
+msgstr ""
+
+msgid "검은사막M"
+msgstr ""
+
+msgid "배틀필드 하드라인"
+msgstr ""
+
+msgid "리니지 2: 레볼루션"
+msgstr ""
+
+msgid "피파 온라인 4"
+msgstr ""
+
+msgid "프리스타일2: 플라잉덩크"
+msgstr ""
+
+msgid "라그나로크M"
+msgstr ""
+
+msgid "배틀필드 V"
+msgstr ""
+
+msgid "피파 19"
+msgstr ""
+
+msgid "에버퀘스트 I"
+msgstr ""
+
+msgid "프리스타일 1"
+msgstr ""
+
+msgid "라프텔"
+msgstr ""
+
+msgid "왓챠"
+msgstr ""
+
+msgid "무도유협"
+msgstr ""
+
+msgid "Dark Souls Ⅱ: Scholar of the First Sin"
+msgstr ""
+
+msgid "피파 20"
+msgstr ""
+
+msgid "열혈강호 온라인"
+msgstr ""
+
+msgid "리니지2M"
+msgstr ""
+
+msgid "古劍奇譚網路版"
+msgstr ""
+
+msgid "아스가르드"
+msgstr ""
+
+msgid "라그하임"
+msgstr ""
+
+msgid "프로야구 스피리츠 2019"
+msgstr ""
+
+msgid "그랑블루 판타지 Versus"
+msgstr ""
+
+msgid "피파 21"
+msgstr ""
+
+msgid "안녕하세요.  미꾸라지팀입니다."
+msgstr ""
+
+msgid "알리페이 결제 요청이 아래의 정보로 접수되었음을 알려드립니다."
+msgstr ""
+
+msgid "요청 날짜"
+msgstr ""
+
+msgid "요청 IP"
+msgstr ""
+
+msgid "입금인 별명"
+msgstr ""
+
+msgid "입금액"
+msgstr ""
+
+msgid "이체하실 때 사용하실 QR 코드는 아래의 링크를 클릭해 주세요."
+msgstr ""
+
+msgid ""
+"\n"
+"이체 발생 후 크레딧 충전까지 최대 24 시간이 소요될 수 있는 점과\n"
+"영업 시간 (한국 표준시 9AM ~ 6PM, 월-금) 내에만 처리를 해드리는 점\n"
+"양해 바랍니다.\n"
+msgstr ""
+
+msgid "감사합니다."
+msgstr ""
+
+msgid "미꾸라지팀"
+msgstr ""
+
+msgid "WeChat 결제 요청이 아래의 정보로 접수되었음을 알려드립니다."
+msgstr ""
+
+#, python-format
+msgid ""
+"\n"
+"안녕하세요. 미꾸라지팀입니다.\n"
+"\n"
+"등록하신 미꾸라지 ID 정보는 다음과 같습니다.\n"
+"\n"
+"발급 사유:\tID 찾기 이용\n"
+"발급 일자:\t%(date)s\n"
+"발급 요청 IP:\t%(remote_addr)s\n"
+"미꾸라지 ID:\t%(username)s\n"
+"\n"
+"미꾸라지를 이용하여 주셔서 감사합니다.\n"
+"\n"
+"----\n"
+"미꾸라지팀\n"
+msgstr ""
+
+#, python-format
+msgid ""
+"\n"
+"안녕하세요 미꾸라지팀입니다.\n"
+"\n"
+"아래는 등록하신 %(username)s 사용자 ID에 대한 패스워드 인증키입니다.\n"
+"패스워드 찾기를 마무리하기 위해서는 아래의 링크를 방문해 주시기\n"
+"바랍니다.\n"
+"\n"
+"발급 사유:\t비밀번호 찾기 이용\n"
+"발급 일자:\t%(date)s\n"
+"발급 요청 IP:\t%(remote_addr)s\n"
+"찾기 링크:\thttps://mudfish.net/reset_pwd?key=%(tmpkey)s\n"
+"\n"
+"미꾸라지를 이용하여 주셔서 감사합니다.\n"
+"\n"
+"----\n"
+"미꾸라지팀\n"
+msgstr ""
+
+#, python-format
+msgid ""
+"\n"
+"안녕하세요 미꾸라지팀입니다.\n"
+"\n"
+"등록하신 %(username)s 사용자 ID에 대한 임시 패스워드를 발급해 드립니다.\n"
+"아래의 패스워드를 로그인 즉시 원하시는 패스워드로 변경하시기를 권합니다.\n"
+"\n"
+"발급 사유:\t비밀번호 찾기 이용\n"
+"발급 일자:\t%(date)s\n"
+"발급 요청 IP:\t%(remote_addr)s\n"
+"임시 비밀번호:\t%(tmppwd)s\n"
+"\n"
+"미꾸라지를 이용하여 주셔서 감사합니다.\n"
+"\n"
+"----\n"
+"미꾸라지팀\n"
+msgstr ""
+
+#, python-format
+msgid ""
+"\n"
+"안녕하세요 미꾸라지팀입니다.\n"
+"\n"
+"이 메일은 가입하신 %(username)s 사용자 ID 의 활성화를 위한 안내 메일\n"
+"입니다.  24 시간내에 아래의 링크를 클릭해 주시거나 접속해 주셔야 요청하신 ID 가\n"
+"활성화 됩니다.  인증 완료가 되면 테스트를 위한 매우 작은 크레딧이 자동\n"
+"충전됩니다.\n"
+"\n"
+"요청 일자: %(date)s\n"
+"요청 IP: %(remote_addr)s\n"
+"\n"
+"확인 링크:\n"
+"\n"
+"https://mudfish.net/signup_confirm?key=%(key)s\n"
+"\n"
+"혹시 미꾸라지 클라이언트 프로그램은 설치하셨는지요? 본격적인 사용을 위해서는\n"
+"아래의 링크에서 미꾸라지를 받으셔서 설치해 주세요.  Windows, Mac OS X 그리고 Linux\n"
+"를 위한 설치판이 있습니다.\n"
+"\n"
+"다운로드:\n"
+"\n"
+"https://mudfish.net/download\n"
+"\n"
+"----\n"
+"미꾸라지팀\n"
+msgstr ""
+
+msgid "(포럼 관리자)"
+msgstr ""
+
+msgid "등록하기"
+msgstr ""
+
+msgid "취소"
+msgstr ""
+
+msgid "댓글 수정"
+msgstr ""
+
+msgid "삭제하기"
+msgstr ""
+
+msgid "설문 조사"
+msgstr ""
+
+msgid "피드백 감사합니다."
+msgstr ""
+
+msgid "관리자의 답변에 만족하시나요?"
+msgstr ""
+
+msgid "예"
+msgstr ""
+
+msgid "비밀글로 저장됨"
+msgstr ""
+
+msgid "댓글 작성"
+msgstr ""
+
+msgid "댓글을 입력해 주세요."
+msgstr ""
+
+msgid "더 이상 글이 없습니다"
+msgstr ""
+
+msgid "아카이브 됨"
+msgstr ""
+
+msgid "문제 해결 안됨"
+msgstr ""
+
+msgid "비밀글"
+msgstr ""
+
+#, python-format
+msgid "%(n_comments)s 개의 이전 답글 보기"
+msgstr ""
+
+msgid "글 수정"
+msgstr ""
+
+msgid "주소 복사"
+msgstr ""
+
+msgid "복사되었습니다."
+msgstr ""
+
+msgid "이 토픽만 보기"
+msgstr ""
+
+msgid "글쓰기"
+msgstr ""
+
+msgid "문제가 있으신가요?"
+msgstr ""
+
+msgid "전체 보기"
+msgstr ""
+
+msgid "헉!!!!!!"
+msgstr ""
+
+msgid "지정하신 파일을 찾지 못하였습니다. OTL....."
+msgstr ""
+
+msgid ""
+"\n"
+"    <a href='mailto:support@loxch.com'>support@loxch.com</a> 으로 알려주시면\n"
+"    미꾸라지 2 주 체험권 혹은 현재 계정 기간 연장을 해드립니다.\n"
+"    "
+msgstr ""
+
+msgid "이런!!!!!!"
+msgstr ""
+
+msgid "미꾸라지가 미쳐 날뛰나 봅니다......"
+msgstr ""
+
+msgid ""
+"\n"
+"    자세한 재현 방법과 함께\n"
+"    <a href='mailto:support@loxch.com'>support@loxch.com</a> 으로 알려주시면\n"
+"    미꾸라지 1달 체험권 혹은 현재 계정 기간 연장을 해드리겠습니다!\n"
+"    이용에 불편을 드려 정말 죄송합니다.\n"
+"    "
+msgstr ""
+
+msgid "시행일: 2016년 1월 19일"
+msgstr ""
+
+msgid "이용 약관"
+msgstr ""
+
+msgid "시행일: 2013년 3월 22일"
+msgstr ""
+
+msgid "모바일"
+msgstr ""
+
+msgid "Android"
+msgstr ""
+
+msgid "직접 APK 다운로드"
+msgstr ""
+
+msgid "iPhone"
+msgstr ""
+
+#, python-format
+msgid "최신 버전은 <strong>v%(CURRENT_VERSTR)s</strong> 입니다."
+msgstr ""
+
+msgid ""
+"\n"
+"    이전 버전은\n"
+"    <a href='/releases/'>여기</a>에서 다운로드\n"
+"    가능합니다.\n"
+"    "
+msgstr ""
+
+msgid "DNS Client"
+msgstr ""
+
+msgid "Windows"
+msgstr ""
+
+msgid "브라우저 확장 기능"
+msgstr ""
+
+msgid "Chrome Extension"
+msgstr ""
+
+msgid "Firefox Extension"
+msgstr ""
+
+msgid "Microsoft Edge"
+msgstr ""
+
+msgid "PC 용"
+msgstr ""
+
+msgid "다운로드 (개발자용)"
+msgstr ""
+
+#, python-format
+msgid "최신 개발자 버전은 <strong>v%(DEV_VERSTR)s</strong> 입니다."
+msgstr ""
+
+msgid "64 bit 다운로드"
+msgstr ""
+
+msgid "32 bit 다운로드"
+msgstr ""
+
+msgid "Ubuntu 12.4 LTS 이상 지원"
+msgstr ""
+
+msgid "다운로드 중입니다!"
+msgstr ""
+
+#, python-format
+msgid ""
+"\n"
+"    미꾸라지를 다운로드 해주셔서 감사합니다!<br/>\n"
+"    만약 5 초내에 자동으로 다운로드가 시작되지 않는다면\n"
+"    <a href='https://mudfish.net/releases/%(filename)s'>여기</a>를\n"
+"    클릭하셔서 수동으로 진행하시면 됩니다.\n"
+"    "
+msgstr ""
+
+msgid "미꾸라지 사용이 처음이신가요?"
+msgstr ""
+
+msgid ""
+"\n"
+"\t    사용법과 전반적인 이해에 대한 문서들은\n"
+"\t    <a href='https://docs.mudfish.net'>여기</a>에서 확인하실 수 있으며 가장 먼저\n"
+"\t    아래의 문서를 읽어 보시길 추천합니다."
+msgstr ""
+
+msgid "무작정 따라하기"
+msgstr ""
+
+msgid "설치 방법"
+msgstr ""
+
+msgid "언제든지 물어보세요."
+msgstr ""
+
+msgid ""
+"\n"
+"\t    <a href='/forums'>포럼</a> 혹은\n"
+"\t    <a href='mailto:support@loxch.com'>E 메일</a>을\n"
+"\t    통해 지원(support)을 해드리고 있습니다.  설치 혹은 사용에 문의가\n"
+"\t    있다면 언제든지 글을 남겨 주세요.\n"
+"\t    "
+msgstr ""
+
+msgid "기술 지원에 대한 전화 상담은 하지 않습니다."
+msgstr ""
+
+msgid "ID 찾기"
+msgstr ""
+
+msgid "E메일 주소"
+msgstr ""
+
+msgid ""
+"\n"
+"      가입에 사용하셨던 E 메일 주소를 입력하여 주십시오. 등록시\n"
+"      입력하셨던 E-메일 주소로 ID 정보를 보내드립니다.\n"
+"      "
+msgstr ""
+
+msgid "요청하기"
+msgstr ""
+
+msgid "비밀번호 찾기"
+msgstr ""
+
+msgid ""
+"\n"
+"      가입에 사용하셨던 사용자 ID 을 입력하여 주십시오.\n"
+"      등록시 입력하셨던 E-메일 주소로 <strong>임시 패스워드</strong>를 보내드립니다.\n"
+"      (만약 사용자 ID 가 기억나지 않으신다면\n"
+"      <a href='mailto:support@loxch.com'>support@loxch.com</a> 로 연락바랍니다.)"
+"\n"
+"      "
+msgstr ""
+
+msgid "인터넷 가속 서비스"
+msgstr ""
+
+msgid "게임 / 동영상"
+msgstr ""
+
+msgid ""
+"\n"
+"\t  Protocol (TCP 혹은 UDP, SCTP) Acceleration\n"
+"\t  기술이 접목된 프로그램으로써 WAN 최적화를 통해 사용자와\n"
+"\t  목적 서버간의 연결을 가속시켜 좀 더 안정적이고 빠른 응답 속도를\n"
+"\t  보장해 드립니다.\n"
+"\t  "
+msgstr ""
+
+msgid "사용할 패스워드"
+msgstr ""
+
+msgid ""
+"\n"
+"      \t  패스워드는 최소 6자 이상이여야 합니다.\n"
+"      \t  "
+msgstr ""
+
+msgid "계정 생성하기"
+msgstr ""
+
+msgid ""
+"\n"
+"      \t    <strong>계정 생성</strong>시\n"
+"      \t    <a href='/agreement/tos'>이용약관</a>과\n"
+"      \t    <a href='/agreement/privacy_policy'>개인정보 보호정책</a>\n"
+"      \t    에 동의함을 뜻합니다.\n"
+"      \t    "
+msgstr ""
+
+msgid "왜 미꾸라지일까요?"
+msgstr ""
+
+msgid "일반 VPN"
+msgstr ""
+
+msgid "게임 Lag 및 RTT 감소, 연결 지속 강화 효과"
+msgstr ""
+
+msgid "WAN 최적화 기술"
+msgstr ""
+
+msgid "전세계 전용 서버수"
+msgstr ""
+
+msgid "무료 공개 서버수"
+msgstr ""
+
+msgid "방화벽 우회 기능"
+msgstr ""
+
+msgid "Server Chain 기능"
+msgstr ""
+
+msgid "Multi Path 모드"
+msgstr ""
+
+msgid "Full VPN 모드 지원"
+msgstr ""
+
+msgid "게임 트래픽만 전송 기능"
+msgstr ""
+
+msgid "웹 브라우저 및 SOCKS proxy 지원"
+msgstr ""
+
+msgid "AppLocale 지원 여부"
+msgstr ""
+
+msgid "모바일 환경 지원"
+msgstr ""
+
+msgid "Mac OS X / Linux 지원"
+msgstr ""
+
+msgid "Chrome 브라우저 지원"
+msgstr ""
+
+msgid "Firefox 브라우저 지원"
+msgstr ""
+
+msgid "최소 서비스 가격"
+msgstr ""
+
+msgid "$0.01 USD / 달"
+msgstr ""
+
+msgid "$9.99 USD / 달"
+msgstr ""
+
+msgid "$2.99 USD / 달"
+msgstr ""
+
+msgid "Basic 요금제로는 이용 불가능하며 Advanced 요금제만 가능합니다."
+msgstr ""
+
+msgid "사업자 마다 다를 수 있습니다."
+msgstr ""
+
+msgid ""
+"\n"
+"  \t종량제의 경우 트래픽 사용량에 따라 가격은 달라질 수 있으며, 정액제의 최소\n"
+"  \t서비스 가격은 '$0.99 USD / 달' 입니다.\n"
+"  \t"
+msgstr ""
+
+msgid "완전 무료 공개 서버입니다.  별도의 크레딧이 필요 없고, 속도 제한 또한 없습니다."
+msgstr ""
+
+msgid ""
+"\n"
+"\t\t설정 구성 완료 후 한번 선택된 중계 서버는 중간에 변경되지\n"
+"\t\t않습니다.\n"
+"\t\t"
+msgstr ""
+
+msgid ""
+"\n"
+"\t\t두개의 중계 서버들을 경유하여 트래픽이 전달되지만, 첫번째\n"
+"\t\t중계 서버의 선택이 Ping 상태에 따라 자동으로 변경됩니다.\n"
+"\t\t"
+msgstr ""
+
+msgid "지원하는 게임 및 사이트"
+msgstr ""
+
+msgid ""
+"\n"
+"    현재 다음과 같은 게임 및 사이트들이 미꾸라지를 통해 공식 지원되고 있습니다.\n"
+"    "
+msgstr ""
+
+msgid ""
+"\n"
+"\t\t    이 아이템이 지원하는 게임 / 사이트 / 스트리밍 서버 위치를\n"
+"\t\t    가르킵니다.\n"
+"\t\t    "
+msgstr ""
+
+msgid ""
+"\n"
+"\t      미꾸라지 사용시 해당 목적지까지 예상되는 핑을 계산해\n"
+"\t      보겠습니까?\n"
+"\t      "
+msgstr ""
+
+msgid "예상 핑 계산"
+msgstr ""
+
+msgid "1 단계: 사용자 ↔ 중계 서버 핑 계산"
+msgstr ""
+
+msgid "예상 핑 계산하기"
+msgstr ""
+
+msgid ""
+"\n"
+"\t\t약 30 초 정도 기다리신 후 다시 시도해 보시기 바랍니다.\n"
+"\t\t"
+msgstr ""
+
+msgid "2 단계: 사용자 ↔ 목적지 핑 계산"
+msgstr ""
+
+msgid "(완료됨)"
+msgstr ""
+
+msgid "위치"
+msgstr ""
+
+msgid "핑"
+msgstr ""
+
+msgid "현재 RTT"
+msgstr ""
+
+msgid "RTT 테스트"
+msgstr ""
+
+msgid ""
+"\n"
+"\t\t현재 '사용자 ↔ 미꾸라지 중계 서버' 간 RTT (핑)을 계산 중입니다.  잠시만 기다려\n"
+"\t\t주시기 바랍니다.\n"
+"\t\t"
+msgstr ""
+
+msgid ""
+"\n"
+"\t\t계산이 완료되었습니다.  다음 단계로 이동해 주세요.\n"
+"\t\t"
+msgstr ""
+
+msgid ""
+"\n"
+"      중계 서버 이름을 클릭하시면 자세한 서버 정보를 확인하실 수 있습니다.\n"
+"      "
+msgstr ""
+
+msgid ""
+"\n"
+"\t      미꾸라지의 모든 기능을 공유기에도 적용해 보세요.\n"
+"\t      "
+msgstr ""
+
+msgid ""
+"\n"
+"    미꾸라지 게임 공유기를 사용하시면 편리하게 미꾸라지 서비스를\n"
+"    이용하실 수 있습니다.\n"
+"    "
+msgstr ""
+
+msgid "로그인하기"
+msgstr ""
+
+msgid "로그인 기억하기"
+msgstr ""
+
+msgid "계정 생성"
+msgstr ""
+
+msgid ""
+"\n"
+"          패스워드는 최소 6자 이상이여야 합니다.\n"
+"          "
+msgstr ""
+
+msgid ""
+"\n"
+"            <strong>계정 생성</strong>시\n"
+"            <a href='/agreement/tos'>이용약관</a>과\n"
+"            <a href='/agreement/privacy_policy'>개인정보 보호정책</a>\n"
+"            에 동의함을 뜻합니다.\n"
+"            "
+msgstr ""
+

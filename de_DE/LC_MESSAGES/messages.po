@@ -1,0 +1,3657 @@
+# Translations template for Mudfish Homepage.
+# Copyright (C) 2021 Mudfish Networks Inc.
+# This file is distributed under the same license as the Mudfish Homepage
+# project.
+# 
+# Translators:
+# weongyo <weongyo@gmail.com>, 2019-2020
+# weongyo <weongyo@gmail.com>, 2019
+msgid ""
+msgstr ""
+"Project-Id-Version: mudfish\n"
+"Report-Msgid-Bugs-To: weongyo@gmail.com\n"
+"POT-Creation-Date: 2021-01-04 23:11+0900\n"
+"PO-Revision-Date: 2020-10-12 06:31+0000\n"
+"Last-Translator: weongyo <weongyo@gmail.com>\n"
+"Language-Team: German (Germany) (http://www.transifex.com/mudfish/mudfish/language/de_DE/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+"Language: de_DE\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "대시보드"
+msgstr "Dashboard"
+
+msgid "첫화면"
+msgstr "Erster Bildschirm"
+
+msgid "개인정보 보호정책"
+msgstr "Datenschutzerklärung"
+
+msgid "이용약관"
+msgstr "Nutzungsbedingungen"
+
+msgid "다운로드"
+msgstr "Download"
+
+msgid "사람을 찾습니다!"
+msgstr "Eine Person suchen!"
+
+msgid "중계 서버 상태"
+msgstr "Relay-Server-Status"
+
+msgid "쇼핑"
+msgstr "Einkaufen"
+
+msgid "미꾸라지 게임 공유기"
+msgstr "Mudfish-Spiel-Router"
+
+msgid "로그인"
+msgstr "Anmelden"
+
+msgid "미꾸라지: 가속 서비스"
+msgstr "Mudfish: Beschleunigungsservice"
+
+msgid "스트리밍"
+msgstr "am streamen"
+
+msgid "사이트"
+msgstr "Seite"
+
+msgid "게임"
+msgstr "Spiel"
+
+msgid "로그인이 필요합니다."
+msgstr "Login erforderlich"
+
+msgid "RTT 데이타가 없습니다."
+msgstr "Es stehen keine RTT-Daten zur Verfügung."
+
+msgid "서버 위치를 찾지 못하였습니다."
+msgstr "Serverstandort kann nicht gefunden werden."
+
+msgid "DB 오류가 발생했습니다."
+msgstr "Ein DB-Fehler ist aufgetreten."
+
+msgid "잘못된 양식입니다."
+msgstr "Ungültiges Format."
+
+msgid "자동 선택"
+msgstr "Automatische Auswahl"
+
+msgid "무료"
+msgstr "kostenlos"
+
+msgid "종량제"
+msgstr "Pay-as-you-go-Tarif"
+
+msgid "알수없음"
+msgstr "Unbekannt"
+
+#, python-format
+msgid "%(years)d 년"
+msgstr "%(years)d Jahr(e)"
+
+#, python-format
+msgid "%(months)d 달"
+msgstr "%(months)d Monat(e)"
+
+#, python-format
+msgid "%(days)d 일"
+msgstr "%(days)d Tag(e)"
+
+#, python-format
+msgid "%(hours)d 시간"
+msgstr "%(hours)d Stunde(n)"
+
+#, python-format
+msgid "%(minutes)d 분"
+msgstr "%(minutes)d Minute(n)"
+
+#, python-format
+msgid "%(seconds)d 초"
+msgstr "%(seconds)d Sekunde(n)"
+
+msgid "죽은 중계 서버"
+msgstr "Toter Relay-Server"
+
+msgid "크레딧 정보가 잘못 되었습니다."
+msgstr "Ungültige Guthabeninformationen."
+
+#, python-format
+msgid "이미 등록된 E-MAIL '%(email)s' 주소입니다."
+msgstr "Die E-MAIL-Adresse \\'%(email)s\\' ist bereits registriert."
+
+#, python-format
+msgid "이미 등록된 사용자 ID '%(username)s' 입니다."
+msgstr "Die Benutzer-ID '%(username)s' ist bereits registriert."
+
+msgid "내부 오류 입니다."
+msgstr "Ein interner Fehler ist aufgetreten."
+
+msgid "[미꾸라지] 가입 인증 메일"
+msgstr "[Mudfish] E-Mail zur Bestätigung der Registrierung"
+
+msgid "지원하지 않는 Method 입니다."
+msgstr "Methode nicht unterstützt."
+
+msgid ""
+"\n"
+"        계정을 활성화하기 위한 이메일 인증 메일을 발송하였습니다.  인증 완료시\n"
+"        테스트를 위한 작은 크레딧을 받으실 수 있습니다..\n"
+"    "
+msgstr "\nWir haben Ihnen eine Bestätigungs-E-Mail gesendet, um Ihr Konto zu aktivieren. Nach der Verifizierung erhalten Sie eine kleine Gutschrift zum Testen."
+
+msgid "계정이 성공적으로 생성되었습니다."
+msgstr "Ihr Konto wurde erfolgreich erstellt."
+
+msgid ""
+"\n"
+"          계정을 활성화하기 위한 이메일 인증 메일을 발송하였습니다.\n"
+"          인증 완료시 테스트를 위한 작은 크레딧을 받으실 수 있습니다..\n"
+"        "
+msgstr "\nWir haben Ihnen eine Bestätigungs-E-Mail gesendet, um Ihr Konto zu aktivieren. Nach der Verifizierung erhalten Sie eine kleine Gutschrift zum Testen."
+
+msgid "확인되지 않는 Key 정보입니다."
+msgstr "Schlüsselinformationen nicht verifiziert."
+
+msgid ""
+"이메일 인증 되었습니다! 혹시 미꾸라지 프로그램은 설치하셨는지요?\n"
+"        아래에서 자신의 운영체제 맞는 배포판을 설치하시면 됩니다."
+msgstr "Ihre E-Mail wurde bestätigt! Haben Sie das Mudfish-Programm installiert? Sie können die Version für Ihr Betriebssystem unten installieren."
+
+msgid "ID 혹은 패스워드가 잘못되었습니다."
+msgstr "ID oder Passwort ist ungültig."
+
+msgid "ID 혹은 Token 이 잘못되었습니다."
+msgstr "ID oder Token ist ungültig."
+
+msgid "해당 E-Mail 주소 정보를 찾을 수 없습니다."
+msgstr "Die E-Mail-Adressinformationen wurden nicht gefunden."
+
+msgid "[미꾸라지] ID 찾기"
+msgstr "[Mudfish] ID vergessen"
+
+msgid "등록하신 메일 주소로 ID 정보를 보내 드렸습니다."
+msgstr "Wir haben Ihre ID-Informationen an die von Ihnen registrierte E-Mail-Adresse gesendet."
+
+msgid ""
+"\n"
+"            현재 내부 문제로 인해 메일 발송이 지연되고 있습니다.  추후에 다시\n"
+"            시도 바랍니다."
+msgstr "\nEin internes Problem verzögert derzeit die Zustellung von E-Mails. Bitte versuchen Sie es später noch einmal."
+
+msgid "해당 사용자 Key 가 존재하지 않습니다."
+msgstr "Der Benutzerschlüssel existiert nicht."
+
+msgid "해당 사용자 ID 가 존재하지 않습니다."
+msgstr "Die Benutzer-ID existiert nicht."
+
+msgid "[미꾸라지] 비밀번호 찾기 - 임시 비밀번호 발급"
+msgstr "[Mudfish] Passwort vergessen - Temporäres Passwort vergeben"
+
+msgid "등록하신 메일 주소로 임시 비밀번호를 보내 드렸습니다."
+msgstr "Wir haben ein temporäres Passwort an Ihre registrierte E-Mail-Adresse gesendet."
+
+msgid "[미꾸라지] 비밀번호 찾기 - 인증키 발급"
+msgstr "[Mudfish] Passwort suchen - Ausgabe des Authentifizierungsschlüssels"
+
+msgid "등록하신 메일 주소로 인증키를 보내 드렸습니다."
+msgstr "Wir haben den Authentifizierungsschlüssel an die registrierte E-Mail-Adresse gesendet."
+
+msgid "요금제가 갱신된 상태로, 다시 로그인이 필요합니다."
+msgstr "Ihr Tarif wurde erneuert und Sie müssen sich erneut anmelden."
+
+msgid "패스워드가 일치하지 않습니다"
+msgstr "Passwörter stimmen nicht überein"
+
+msgid "현재 패스워드가 틀렸습니다."
+msgstr "Das aktuelle Passwort ist falsch."
+
+msgid "패스워드가 변경되었습니다."
+msgstr "Passwort geändert."
+
+msgid "목록 제한 기능이 업데이트 되었습니다."
+msgstr "Die Listenbegrenzungsfunktion wurde aktualisiert."
+
+msgid "중계 서버 정보를 얻지 못하였습니다."
+msgstr "Fehler beim Abrufen der Relay-Server-Informationen."
+
+msgid "잘못된 접근입니다."
+msgstr "Ungültiger Ansatz."
+
+msgid "기록없음"
+msgstr "Keine Aufzeichnung"
+
+msgid "사용자를 찾지 못하였습니다."
+msgstr "Benutzer nicht gefunden."
+
+msgid "성공적으로 삭제되었습니다."
+msgstr "Erfolgreich gelöscht."
+
+msgid "잘못된 값입니다."
+msgstr "Ungültiger Wert."
+
+msgid "허락되지 않는 확장자입니다."
+msgstr "Erweiterung nicht erlaubt."
+
+msgid "정보가 변경되었습니다."
+msgstr "Die Informationen haben sich geändert."
+
+msgid "변경된 정보가 없습니다."
+msgstr "Es wurden keine Informationen geändert."
+
+msgid "정액제"
+msgstr "Flatrate-Tarif"
+
+msgid "언제든지 가능함"
+msgstr "Jederzeit verfügbar"
+
+msgid "아이템 정보를 조회할 수 없습니다."
+msgstr "Iteminformationen können nicht abgefragt werden."
+
+msgid ""
+"\n"
+"          내부 오류가 발생하였습니다.  지속적일 경우 포럼에 문제 보고 부탁드립니다.\n"
+"        "
+msgstr "\nEin interner Fehler ist aufgetreten. Wenn dieser weiterhin bestehen sollte, melden Sie das Problem dem Forum."
+
+msgid "기준 통화(Currency)가 설정되어 있지 않습니다."
+msgstr "Basiswährung ist nicht festgelegt."
+
+msgid "잔여 크레딧이 부족합니다."
+msgstr "Es ist nicht mehr genügend Guthaben vorhanden."
+
+msgid "정액제 요금제 전용 아이템입니다.  구매 할 수 없습니다."
+msgstr "Dieses Item ist nur für den Flatrate-Tarif. Sie können es nicht kaufen."
+
+msgid "두 중계 서버가 같을 수 없습니다."
+msgstr "Zwei Relay-Server können nicht gleich sein."
+
+msgid "구매 완료하였습니다!"
+msgstr "Einkauf abgeschlossen!"
+
+msgid "설정 구성을 시작합니다."
+msgstr "Starten der Konfigurationseinstellungen."
+
+msgid "프로그램을 재시작해주셔야 적용됩니다."
+msgstr "Sie müssen das Programm neu starten, bevor es wirksam wird."
+
+msgid "중계 서버 정보를 찾을 수 없습니다."
+msgstr "Die Relay-Server-Informationen konnten nicht gefunden werden."
+
+msgid "설정이 저장되었습니다."
+msgstr "Ihre Einstellungen wurden gespeichert."
+
+msgid "연결 안됨"
+msgstr "Nicht verbunden"
+
+msgid "연결 하기"
+msgstr "Verbinden"
+
+msgid "연결됨"
+msgstr "Verbunden"
+
+msgid "완료"
+msgstr "Abgeschlossen"
+
+msgid "아이템이 삭제되었습니다."
+msgstr "Artikel gelöscht."
+
+msgid "정액제 요금제 사용자가 아닙니다."
+msgstr "Kein Benutzer mit Abonnement."
+
+msgid "사용자 아이템 설정을 조회할 수 없습니다."
+msgstr "Benutzereinstellungen können nicht abgefragt werden."
+
+msgid "아이템이 기간 연장되었습니다."
+msgstr "Itemnutzungsdauer wurde erweitert."
+
+msgid "더 이상 구매할 아이템이 없습니다."
+msgstr "Es gibt keine Artikel mehr zu kaufen."
+
+msgid "지정하신 아이템을 찾을 수 없습니다."
+msgstr "Der von Ihnen angegebene Artikel wurde nicht gefunden."
+
+msgid "로그인 하셔야 합니다."
+msgstr "Sie müssen sich einloggen."
+
+msgid "아이템이 성공적으로 업데이트되었습니다."
+msgstr "Der Artikel wurde erfolgreich aktualisiert."
+
+msgid "아이템이 성공적으로 추가되었습니다."
+msgstr "Das Item wurde erfolgreich hinzugefügt."
+
+msgid "¥ 19"
+msgstr "¥ 19"
+
+msgid "¥ 29"
+msgstr "¥ 29"
+
+msgid "¥ 49"
+msgstr "¥ 49"
+
+msgid "¥ 99"
+msgstr "¥ 99"
+
+msgid "¥ 299"
+msgstr "¥ 299"
+
+msgid "¥ 499"
+msgstr "¥ 499"
+
+msgid "오류"
+msgstr "Fehler"
+
+msgid "990원"
+msgstr "990 Won"
+
+msgid "2,990원"
+msgstr "2.990 Won"
+
+msgid "4,990원"
+msgstr "4.990 Won"
+
+msgid "9,990원"
+msgstr "9.990 Won"
+
+msgid "29,990원"
+msgstr "29.990 Won"
+
+msgid "49,990원"
+msgstr "49.990 Won"
+
+msgid "99,990원"
+msgstr "99.990 Won"
+
+msgid "죄송합니다. 당분간 중국 통화를 받지 않습니다."
+msgstr "Entschuldigen Sie bitte. Wir akzeptieren zur Zeit keine chinesische Währung."
+
+msgid "[미꾸라지] 알리페이 결제요청이 접수되었습니다."
+msgstr "[Mudfish] Wir haben Ihre Alipay-Zahlungsantrag erhalten."
+
+msgid "[미꾸라지] WeChat 결제요청이 접수되었습니다."
+msgstr "[Mudfish] Wir haben Ihre WeChat-Zahlungsantrag erhalten."
+
+msgid "입금인 성명이 없습니다."
+msgstr "Es gibt keinen Namen des Einlegers."
+
+msgid "Alias 계정으로는 크래딧 구매를 할 수 없습니다.  Master 계정으로 접속하세요."
+msgstr "Sie können mit Ihrem Alias-Konto kein Guthaben kaufen. Verbinden Sie sich mit Ihrem Master-Konto."
+
+msgid "잘못된 기준 통화입니다."
+msgstr "Ungültige Basiswährung."
+
+msgid "잘못된 통화입니다."
+msgstr "Ungültige Währung."
+
+msgid "환전이 성공적으로 수행되었습니다."
+msgstr "Währungswechsel war erfolgreich."
+
+msgid "처리 완료"
+msgstr "Bearbeitung abgeschlossen"
+
+msgid "환불 완료"
+msgstr "Rückerstattung abgeschlossen"
+
+msgid "환불 처리중"
+msgstr "Rückerstattung in Bearbeitung"
+
+msgid "환불 요청하였습니다.  환불 처리까지 최대 1 ~ 3 영업일이 걸릴 수 있습니다."
+msgstr "Rückerstattung beantragt. Es kann bis zu 1-3 Werktage dauern, bis die Rückerstattung bearbeitet wurde."
+
+msgid "Full VPN 모드의 중계 서버 설정이 잘못되었습니다."
+msgstr "Ungültige Relay-Server-Einstellungen im Full VPN-Modus."
+
+msgid "프로그램을 재시작하셔야 적용됩니다."
+msgstr "Sie müssen das Programm neu starten, bevor es wirksam wird."
+
+msgid ""
+"\n"
+"1) 어떤 문제 때문에 문제점 보고를 하시려고 하는 건가요?\n"
+"\n"
+"\n"
+"\n"
+"2) 문제를 그대로 재현하려면 어떻게 해야 하나요?\n"
+"\n"
+msgstr "\n1) Welches Problem versuchen Sie zu melden?\n\n\n\n2) Wie können wir dieses Problem nachvollziehen?\n\n"
+
+msgid "설정이 초기화되었습니다."
+msgstr "Ihre Einstellungen wurden zurückgesetzt."
+
+msgid "잘못된 MTU 값입니다."
+msgstr "Ungültiger MTU-Wert"
+
+msgid ""
+"\n"
+"                  Full VPN 모드를 다시 세팅하세요. '설정 → 중계 서버' 메뉴의\n"
+"                  정책과 매치되지 않습니다.\n"
+"                "
+msgstr "\nBitte setzen Sie Ihren Full VPN-Modus zurück. Er stimmt nicht mit der Richtlinie im Menü \\\"Einstellungen → Relay Server\\\" überein."
+
+msgid "상태: Queued"
+msgstr "Status: In Warteschlange"
+
+msgid "상태: Escalated"
+msgstr "Status: Eskaliert"
+
+#, python-format
+msgid "<p>%(username)s 님 작성:</p>"
+msgstr "<p>%(username)s wrote:</p>"
+
+msgid "존재하지 않는 글입니다."
+msgstr "Dieser Beitrag existiert nicht."
+
+msgid "권한이 없습니다."
+msgstr "Sie haben hierfür keine Erlaubnis."
+
+msgid "제목 없음"
+msgstr "Kein Titel"
+
+msgid "내용을 입력해 주세요."
+msgstr "Bitte Details eingeben."
+
+#, python-format
+msgid "[미꾸라지] 포럼 새 댓글: %(title)s"
+msgstr "[Mudfish] Neuer Kommentar im Forum: %(title)s"
+
+msgid "포럼 새 댓글"
+msgstr "Neuer Kommentar im Forum"
+
+msgid "다음 글에 대한 새로운 글이 달렸습니다."
+msgstr "Es gibt einen neuen Beitrag zum folgenden Beitrag."
+
+msgid "댓글 내용이 없습니다."
+msgstr "Es gibt keine Kommentare."
+
+msgid "아카이브된 글입니다."
+msgstr "Dieser Beitrag wurde archiviert."
+
+msgid "당신은 누구신가요?"
+msgstr "Wer sind Sie?"
+
+msgid "댓글을 찾을 수 없습니다."
+msgstr "Kommentar nicht gefunden."
+
+msgid "댓글 수정이 실패하였습니다."
+msgstr "Kommentar konnte nicht bearbeitet werden."
+
+#, python-format
+msgid "먼저 질문하신 순으로 답변을 드리고 있습니다.  답변까지 약 %(hours)s 시간 정도를 기다리셔야 합니다."
+msgstr "Wir werden in der Reihenfolge antworten, in der wir die Fragen erhalten haben. Die Wartezeit auf die Antwort beträgtungefähr %(hours)s Stunde(n)."
+
+msgid "주제글이 등록되었습니다."
+msgstr "Ihr Thema wurde registriert."
+
+msgid "글을 찾을 수 없습니다."
+msgstr "Beitrag nicht gefunden."
+
+msgid "글 삭제가 허락되지 않습니다.."
+msgstr "Das Löschen von Beiträgen ist nicht erlaubt."
+
+msgid "미꾸라지 포럼"
+msgstr "Mudfish-Forum"
+
+msgid "결과를 찾을 수 없습니다."
+msgstr "Ergebnisse nicht gefunden."
+
+msgid "저장되었습니다."
+msgstr "Gespeichert."
+
+msgid "현재 미꾸라지 프로그램이 실행중이 아닙니다."
+msgstr "Das Mudfish-Programm wird zur Zeit nicht ausgeführt."
+
+msgid "연결을 먼저하시기 바랍니다."
+msgstr "Bitte zuerst verbinden."
+
+msgid "DB 오류가 발생했습니다"
+msgstr "DB-Fehler ist aufgetreten"
+
+msgid "지정한 파일을 찾을 수 없습니다 - 미꾸라지"
+msgstr "Das System kann die angegebene Datei nicht finden - Mudfish"
+
+msgid "내부 오류가 발생하였습니다 - 미꾸라지"
+msgstr "Ein interner Fehler ist aufgetreten - Mudfish"
+
+msgid "로그아웃 되었습니다."
+msgstr "Sie wurden abgemeldet."
+
+msgid "허용되지 않은 문자가 사용되었습니다."
+msgstr "Enthält ein unzulässiges Zeichen."
+
+msgid "허용되지 않은 E메일 도메인입니다."
+msgstr "Diese E-Mail-Domain nicht erlaubt."
+
+msgid "사용자 ID"
+msgstr "Benutzer-ID"
+
+msgid "E 메일"
+msgstr "E-Mail"
+
+msgid "패스워드"
+msgstr "Passwort"
+
+msgid "현재 패스워드"
+msgstr "Aktuelles Passwort"
+
+msgid "새 패스워드"
+msgstr "Neues Passwort"
+
+msgid "새 패스워드(다시 입력)"
+msgstr "Neues Passwort (erneut eingeben)"
+
+msgid "언어"
+msgstr "Sprache"
+
+msgid "요금제"
+msgstr "Tarif"
+
+msgid "사용함"
+msgstr "Verbraucht"
+
+msgid "사용 안함"
+msgstr "nicht verwendet"
+
+msgid "전문가 모드"
+msgstr "Expertenmodus"
+
+msgid "아바타"
+msgstr "Avatar"
+
+msgid "기록함"
+msgstr "Aufgezeichnet/Aufzeichnen"
+
+msgid "기록 하지 않음"
+msgstr "Nicht aufgezeichnet7Nicht aufzeichnen"
+
+msgid "접속 기록 여부"
+msgstr "Verbindungsprotokolle aufzeichnen?"
+
+#, python-format
+msgid "알 수 없는 도메인입니다. (%(rt)s)"
+msgstr "Unbekannte Domain (%(rt)s)"
+
+#, python-format
+msgid "CIDR 형식이 아닙니다. (%(rt)s)"
+msgstr "Nicht im CIDR-Format. (%(rt)s)"
+
+#, python-format
+msgid "IP 포맷이 잘못 되었습니다. (%(rt)s)"
+msgstr "IP-Format ist falsch. (%(rt)s)"
+
+#, python-format
+msgid "Subnet 문법이 틀렸습니다. (%(rt)s)"
+msgstr "Die Subnetzsyntax ist falsch. (%(rt)s)"
+
+#, python-format
+msgid "라우팅 경로 문법이 틀렸습니다. (%(rt)s)"
+msgstr "Die Syntax des Routing-Pfades ist falsch. (%(rt)s)"
+
+msgid "동영상"
+msgstr "Video"
+
+msgid "카테고리 ID"
+msgstr "Kategorie-ID"
+
+msgid "이름"
+msgstr "Name"
+
+msgid "아이콘"
+msgstr "Symbol"
+
+msgid "설명"
+msgstr "Beschreibung"
+
+msgid "라우팅 경로"
+msgstr "Routing-Pfad"
+
+msgid "RTT 위치"
+msgstr "RTT-Standort"
+
+msgid "RTT IP"
+msgstr "RTT-IP"
+
+msgid "제목"
+msgstr "Titel"
+
+msgid "크레딧 구매하기"
+msgstr "Kaufguthaben"
+
+msgid "다른 ID로 변경?"
+msgstr "Zu einer anderen ID wechseln?"
+
+msgid "상품명"
+msgstr "Produktname"
+
+msgid "미꾸라지 크레딧"
+msgstr "Mudfish-Guthaben"
+
+msgid "결제 통화"
+msgstr "Rechnungswährung"
+
+msgid "AUD - 호주 달러"
+msgstr "AUD - Australischer Dollar"
+
+msgid "CNY - 중국 위안"
+msgstr "CNY - Chinesischer Yuan"
+
+msgid "JPY - 일본 엔"
+msgstr "JPY - Japanischer Yen"
+
+msgid "KRW - 대한민국 원"
+msgstr "KRW - Südkoreanischer Won"
+
+msgid "USD - 미국 달러"
+msgstr "USD - US-Dollar"
+
+msgid "결제 수단"
+msgstr "Zahlungsmethode"
+
+msgid "결제 가격"
+msgstr "Kaufpreis"
+
+msgid "$ 2.99"
+msgstr "2,99 $"
+
+msgid "$ 4.99"
+msgstr "4,99 $"
+
+msgid "$ 9.99"
+msgstr "9,99 $"
+
+msgid "$ 29.99"
+msgstr "29,99 $"
+
+msgid "$ 49.99"
+msgstr "49,99 $"
+
+msgid "$ 99.99"
+msgstr "99,99 $"
+
+msgid "구매 요청"
+msgstr "Kaufanfrage"
+
+msgid "Alipay (支付宝)"
+msgstr "Alipay (支付宝)"
+
+msgid "WeChat (微信)"
+msgstr "WeChat (微信)"
+
+msgid "결제 계정 별명"
+msgstr "Alias ​​des Abrechnungskontos"
+
+msgid "Nickname (昵称)"
+msgstr "Alias (昵称)"
+
+msgid "결제 확인을 위해 Nickname (昵称) 을 정확히 입력해주세요."
+msgstr "Bitte geben Sie Ihr Alias (昵称) korrekt ein, um Ihre Zahlung zu bestätigen."
+
+msgid "연락 E메일"
+msgstr "Kontakt-E-Mail"
+
+msgid "결제 처리 / 문제 해결을 위한 연락처로 사용됩니다."
+msgstr "Wird als Kontakt für die Zahlungsabwicklung / Fehlerbehebung verwendet."
+
+msgid "알리페이 계좌이체"
+msgstr "Alipay-Kontoübertragung"
+
+msgid "접수되었습니다."
+msgstr "Erfolgreich empfangen."
+
+msgid "아래의 QR 코드로 선택하신 금액을 입금해 주시면 됩니다."
+msgstr "Bitte tätigen Sie eine Einzahlung des ausgewählten Betrags mit dem unten stehenden QR-Code."
+
+msgid ""
+"\n"
+"      계좌 이체 발생 후 크레딧 충전까지 <b>최소 1 시간</b>,\n"
+"      <b>최대 24 시간</b>이 소요될 수\n"
+"      있는 점과\n"
+"      영업 시간 (한국 기준시 9AM ~ 6PM, 월-금)\n"
+"      내에만 처리를 해드리는 점\n"
+"      양해 바랍니다.\n"
+"      "
+msgstr "\nPlease note that the payment processing could take at least <b>1 hour</b> (up to <b>24 hours</b>) after your payment and would be processed at business hours (Mon-Fri 9 AM - 6 PM)."
+
+msgid "WeChat 계좌이체"
+msgstr "WeChat-Kontoübertragung"
+
+msgid ""
+"아래의 QR 코드를 통해 친구 추가를 하신 후, 입력하신 입금액을\n"
+"보내주세요."
+msgstr "Fügen Sie Ihren Freund über den unten stehenden QR-Code hinzu und senden Sie den Einzahlungsbetrag."
+
+msgid "¥ 999"
+msgstr "¥ 999"
+
+msgid "¥ 2,999"
+msgstr "¥ 2.999"
+
+msgid "¥ 4,999"
+msgstr "¥ 4.999"
+
+msgid "¥ 9,999"
+msgstr "¥ 9.999"
+
+msgid "카카오페이"
+msgstr "KakaoPay"
+
+msgid "Toss (토스)"
+msgstr "Toss"
+
+msgid "휴대폰"
+msgstr "Handy"
+
+msgid "신용카드"
+msgstr "Kreditkarte"
+
+msgid "실시간 계좌이체"
+msgstr "Echtzeit-Banküberweisung"
+
+msgid "직접 계좌이체"
+msgstr "Direkte Banküberweisung"
+
+msgid "비트코인"
+msgstr "Bitcoin"
+
+msgid "2,990 원"
+msgstr "2.990 Won"
+
+msgid "4,990 원"
+msgstr "4.990 Won"
+
+msgid "9,990 원"
+msgstr "9.990 Won"
+
+msgid "29,990 원"
+msgstr "29.990 Won"
+
+msgid "49,990 원"
+msgstr "49.990 Won"
+
+msgid "99,990 원"
+msgstr "99.990 Won"
+
+msgid "입금인"
+msgstr "Überweisender"
+
+msgid "성명"
+msgstr "Name"
+
+msgid "자신의 성명 (은행 계좌 예금주) 을 입력하시면 됩니다."
+msgstr "Geben Sie hier Ihren vollständigen Namen (Kontoinhaber) ein."
+
+msgid "입금인 성명을 적어 주세요."
+msgstr "Bitte geben Sie den Namen des Überweisenden an."
+
+msgid "크레딧 환전"
+msgstr "Guthabenumtausch"
+
+msgid "다음과 같이 크레딧을 환전하고자 합니다."
+msgstr "Ich möchte Guthaben wie folgt umtauschen:"
+
+msgid "<b>환전 전:</b>"
+msgstr "<b>Before Exchange:</b>"
+
+msgid "<b>환전 후:</b>"
+msgstr "<b>After Exchange:</b>"
+
+msgid "정말로 환전하시겠습니까?"
+msgstr "Möchten Sie wirklich Geld umtauschen?"
+
+msgid "네. 환전하겠습니다."
+msgstr "Ja. Ich werde umtauschen."
+
+msgid "크레딧 구매 내역"
+msgstr "Guthabenkaufverlauf"
+
+msgid "처음 오셨나요?"
+msgstr "Sind Sie zum ersten Mal hier?"
+
+msgid ""
+"\n"
+"    이곳은 미꾸라지 프로그램의 대쉬 보드로써 아이템 구매 / 프로그램 설정 /\n"
+"    계정 관리를 할 수 있는 곳입니다.  아래와 같은 쉬운 방법으로 사용하실 수\n"
+"    있습니다.\n"
+"    "
+msgstr "\nDies ist ein Dashboard des Mudfish-Programms, in dem Sie Itemsl kaufen, das Programm einrichten und Ihr Konto verwalten können. Sie können es auf die folgende einfache Weise verwenden."
+
+msgid ""
+"\n"
+"\t'<span class='fa fa-gift'></span> 아이템 &rarr; 아이템 구매' 를\n"
+"\t클릭하셔서 미꾸라지를 통해 사용하실 아이템을 구매합니다.  만약 크레딧이\n"
+"\t부족하다면 충전 후 구매 가능합니다.\n"
+"\t"
+msgstr "\nEquip an item you'd like to use at '<span class='fa fa-gift'></span> Item &rarr; Equip Items' menu.\n\t"
+
+msgid ""
+"\n"
+"\t'<span class='glyphicon glyphicon-download-alt'></span> 다운로드'\n"
+"\t링크를 클릭하셔서 자신의 운영체제 맞는 배포판을 설치합니다.\n"
+"\t"
+msgstr "\nInstall the proper installation package with clicking '<span class='glyphicon glyphicon-download-alt'></span> Downloads' link."
+
+msgid ""
+"\n"
+"\t미꾸라지를 실행하신 후 로그인하시면 해당 아이템을 이용하기\n"
+"\t위한 환경이 자동으로 구성됩니다.\n"
+"\t"
+msgstr "\nMelden Sie sich nach dem Start von Mudfish an, und die Umgebung wird automatisch für die Verwendung des Items konfiguriert."
+
+msgid ""
+"\n"
+"    자세한 부분은\n"
+"    <a href='https://docs.mudfish.net/ko/docs/mudfish-launcher/intro/'\n"
+"       class='alert-link'>대쉬보드 사용법</a>\n"
+"    문서를 참고하시길 권해드립니다.\n"
+"    "
+msgstr "\nFor details, please refer to <a href='https://docs.mudfish.net/ko/docs/mudfish-launcher/intro/'\n       class='alert-link'>How to use Dashboard</a> document."
+
+msgid "장착한 아이템"
+msgstr "Ausgestatteter Artikel"
+
+msgid "최단 경로 확인"
+msgstr "Überprüfung der kürzesten Route"
+
+msgid "실시간 RTT"
+msgstr "Echtzeit-RTT"
+
+msgid "실시간 트래픽"
+msgstr "Echtzeit-Verkehr"
+
+msgid "실시간 트래픽 사용량"
+msgstr "Echtzeit-Verkehrsnutzung"
+
+msgid "실시간 크레딧 사용량"
+msgstr "Echtzeitnutzung von Guthaben"
+
+msgid ""
+"\n"
+"  Full VPN 모드 기능을 위해 사용중인 중계 서버가 죽어 있습니다.\n"
+"  '설정 - 프로그램' 메뉴에 들어가셔서 Full VPN 모드 설정을\n"
+"  다시 하시기 바랍니다.\n"
+"  "
+msgstr "\nDer Relay-Server, den Sie für die Funktion \\\"Full VPN-Modus\\\" verwenden, ist nicht mehr verfügbar. Bitte gehen Sie in das Menü \\\"Einstellungen - Programm\\\" und stellen Sie den Full VPN-Modus erneut ein."
+
+msgid ""
+"\n"
+"  Full VPN 모드를 사용 안함으로 지금 변경하시겠습니까?\n"
+"  "
+msgstr "\nMöchten Sie den Full VPN-Modus jetzt deaktivieren?"
+
+msgid "Full VPN 기능"
+msgstr "Full VPN-Funktion"
+
+msgid "네"
+msgstr "Ja"
+
+msgid "아니요"
+msgstr "Nein"
+
+msgid ""
+"\n"
+"  Full VPN 모드 기능을 위해 사용중인 공개 무료 서버가 죽어 있습니다.\n"
+"  '설정 - 프로그램' 메뉴에 들어가셔서 Full VPN 모드 설정을\n"
+"  다시 하시기 바랍니다.\n"
+"  "
+msgstr "\nDer öffentliche kostenlose Server, den Sie für die Funktion \\\"Full VPN-Modus\\\" verwenden, ist nicht mehr verfügbar. Bitte gehen Sie in das Menü \\\"Einstellungen - Programm\\\" und stellen Sie den Full VPN-Modus erneut ein."
+
+msgid "상태"
+msgstr "Status"
+
+msgid "하위 계정"
+msgstr "Unterkonto"
+
+msgid "계정 타입"
+msgstr "Kontotyp"
+
+msgid "FastConnect 모드"
+msgstr "FastConnect-Modus"
+
+msgid "Per-Eaddr 모드"
+msgstr "Per-Eaddr-Modus"
+
+msgid "Full VPN 모드"
+msgstr "Full VPN-Modus"
+
+msgid "연결 여부"
+msgstr "Verbindungsstatus"
+
+msgid "프로세스"
+msgstr "Prozess"
+
+msgid "설정 구성"
+msgstr "Einstellungen konfigurieren"
+
+msgid "작동중"
+msgstr "Am Arbeiten"
+
+msgid "패킷 덤프"
+msgstr "Paket-Dump"
+
+msgid ""
+"\n"
+"  크레딧 충전 내용을 적용하기 위해서는 다시 로그인을 하셔야 합니다.\n"
+"  지금 로그아웃 하시겠습니까?\n"
+"  "
+msgstr "\nSie müssen sich erneut anmelden, um die Guthabenaufladung anzuwenden. Möchten Sie sich jetzt abmelden?"
+
+msgid "주의"
+msgstr "Vorsicht"
+
+msgid "변경 내역이 적용되지 아직 않았습니다."
+msgstr "Der Änderungsverlauf wurde noch nicht angewendet."
+
+msgid "알아두세요!"
+msgstr "Bitte beachten Sie!"
+
+msgid ""
+"\n"
+"    현재 브라우저를 통해 미꾸라지 홈페이지에 직접 접속중입니다.\n"
+"    프로그램(VPN) 동작을 위해서는 미꾸라지 Launcher 를 통해 접속하시기\n"
+"    바랍니다.\n"
+"    "
+msgstr "\nSie greifen derzeit direkt über Ihren Browser auf die Mudfish-Startseite zu. Bitte stellen Sie über das Mudfish-Satrtprogramm eine Verbindung für den Programmbetrieb (VPN) her."
+
+msgid ""
+"\n"
+"\t현재 미꾸라지 안드로이드 앱을 통해 접속중입니다.\n"
+"\t이 대쉬보드에서의 설정은 PC / 공유기용으로 앱에는 적용되지 않습니다.\n"
+"\t"
+msgstr "\nSie nutzen derzeit die Mudfish Android-App. Die Einstellungen in diesem Dashboard sind für PC/Router und gelten nicht für die App."
+
+msgid "안녕하세요."
+msgstr "Hallo."
+
+msgid "공유기"
+msgstr "Router"
+
+#, python-format
+msgid "현재 %(username)s 계정으로 로그인하였습니다."
+msgstr "Sie sind derzeit mit dem Benutzernamen %(username)s angemeldet."
+
+msgid "주요 링크"
+msgstr "Hauptlink"
+
+msgid "크레딧"
+msgstr "Guthaben"
+
+msgid "구매하기"
+msgstr "Kauf"
+
+msgid "구매 내역"
+msgstr "Kaufverlauf"
+
+msgid "계정"
+msgstr "Konto"
+
+msgid "개인정보 수정"
+msgstr "Persönliche Informationen bearbeiten"
+
+msgid "비밀번호 변경"
+msgstr "Passwort ändern"
+
+msgid "하위 계정 관리"
+msgstr "Unterkontenverwaltung"
+
+msgid "지원"
+msgstr "Support"
+
+msgid "1:1 문의"
+msgstr "1:1 Anfrage"
+
+msgid "내가 쓴 글"
+msgstr "Meine Beiträge"
+
+msgid "아이템 구매"
+msgstr "Artikel kaufen"
+
+msgid "아이템은 <strong>한달</strong> 동안 유효합니다."
+msgstr "The item is valid for <strong>1 month</strong>."
+
+msgid ""
+"\n"
+"\t    이 차감됩니다.\n"
+"\t    "
+msgstr "\nwird abgezogen."
+
+msgid "주의하세요!"
+msgstr "Seien Sie vorsichtig!"
+
+msgid ""
+"\n"
+"    이 아이템의 경우 CDN (Content Delivery Network) 관련 라우팅 정보를\n"
+"    포함하고 있습니다.  미꾸라지가 켜져 있는 상태에서 파일 다운로드나\n"
+"    스트리밍을 할 경우 의도치 않게 크레딧이 많이 차감될 수 있습니다.\n"
+"    "
+msgstr "\nDieser Artikel enthält Routing-Informationen zu CDN (Content Delivery Network). Wenn Sie eine Datei herunterladen oder streamen, während Mudfish aktiviert ist, können Sie versehentlich viel Guthaben verlieren."
+
+msgid "자동 갱신"
+msgstr "Automatische Verlängerung"
+
+msgid ""
+"\n"
+"\t시간을 절약하고 귀찮은 과정을 건너뛸 수 있습니다.\n"
+"\t남은 잔여일이 3일 미만이 되면, 아이템 유효 기간이 자동으로\n"
+"\t갱신되며 크레딧이 차감됩니다.\n"
+"\t"
+msgstr "\nSie können Zeit sparen und den umständlichen Vorgang überspringen. Wenn Sie weniger als 3 Tage übrig haben, verlängert sich das Ablaufdatum des Items automatisch und das Guthaben wird abgezogen."
+
+msgid "서버 위치"
+msgstr "Serverstandort"
+
+msgid ""
+"\n"
+"\t\t  이 아이템이 지원하는 게임 / 사이트 / 스트리밍 서버 위치를\n"
+"\t\t  가르킵니다.\n"
+"\t\t  "
+msgstr "\nGibt den Speicherort des Spiels / der Site / des Streaming-Servers an, den dieses Item unterstützt."
+
+msgid ""
+"\n"
+"\t\t  최적의 RTT 및 중계 서버 정보를 받기 위해서는 아래의 위치 중\n"
+"\t\t  접속하는 서버 위치를 선택해 주세요.\n"
+"\t\t  "
+msgstr "\nUm optimale RTT- und Relay-Serverinformationen zu erhalten, wählen Sie aus den folgenden Standorten den Serverstandort aus, zu dem eine Verbindung hergestellt werden soll."
+
+msgid "목적지 위치"
+msgstr "Zielstandort"
+
+msgid "선택"
+msgstr "Auswählen"
+
+msgid "사설 서버"
+msgstr "Privater Server"
+
+msgid "공식 서버"
+msgstr "Offizieller Server"
+
+msgid "중계 서버"
+msgstr "Relay-Server"
+
+msgid ""
+"\n"
+"\t사용할 중계 서버를 선택하십시오.\n"
+"\t"
+msgstr "\nWählen Sie den zu verwendenden Relay-Server aus."
+
+msgid "기본 모드"
+msgstr "Standardmodus"
+
+msgid "하나의 중계 서버를 경유하여 트래픽이 전달됩니다."
+msgstr "Der Datenverkehr fließt über einen Relay-Server."
+
+msgid "고급 모드"
+msgstr "Erweiterter Modus"
+
+msgid "두개의 중계 서버들을 경유하여 트래픽이 전달됩니다."
+msgstr "Der Datenverkehr fließt über zwei Relay-Server."
+
+msgid "정말로 구매하시겠습니까?"
+msgstr "Möchten Sie wirklich einen Kauf durchführen?"
+
+msgid "아이템 구매하기"
+msgstr "Item kaufen"
+
+msgid "아이템"
+msgstr "Item"
+
+msgid "설정"
+msgstr "Einstellungen"
+
+msgid ""
+"\n"
+"\t이 아이템이 지원하는 게임 / 사이트 / 스트리밍 서버 위치를\n"
+"\t가르킵니다.\n"
+"\t"
+msgstr "\nGibt den Speicherort des Spiels / der Site / des Streaming-Servers an, den dieses Item unterstützt."
+
+msgid ""
+"\n"
+"\t최적의 RTT 및 중계 서버 정보를 받기 위해서는 아래의 위치 중\n"
+"\t접속하는 서버 위치를 선택해 주세요.\n"
+"\t"
+msgstr "\nUm optimale RTT- und Relay-Serverinformationen zu erhalten, wählen Sie aus den folgenden Standorten den Serverstandort aus, zu dem eine Verbindung hergestellt werden soll."
+
+msgid "안내"
+msgstr "Anleitung"
+
+msgid "선택하신 중계 서버로 변경되었습니다."
+msgstr "Auf den ausgewählten Relay-Server geändert."
+
+msgid "오늘의 추천 경로"
+msgstr "Heutige empfohlene Route"
+
+msgid ""
+"\n"
+"\t  계산된 최적의 미꾸라지 중계 서버 이용 경로들이며,\n"
+"\t  예상 RTT 평균과 편차 정보입니다.\n"
+"\t  "
+msgstr "\nDas sind die berechneten optimalen Relay-Server-Routen für Mudfish und der geschätzte RTT-Mittelwert und Abweichungsinformationen."
+
+msgid ""
+"\n"
+"          전체 목록을 보실려면 <a href='/admin/user/rtt_map'>여기</a>에서\n"
+"          확인하세요.\n"
+"\t  "
+msgstr "\nTo check full-list, please visit <a href='/admin/user/rtt_map'>here</a>."
+
+msgid "목적지"
+msgstr "Ziel"
+
+msgid "계산 시각"
+msgstr "Rechenzeit"
+
+msgid "전"
+msgstr "Bevor"
+
+msgid "FastConnect 모드가 켜져있습니다. 이 경우, 중계 서버 고급 모드가 지원되지 않습니다."
+msgstr "Der FastConnect-Modus ist aktiviert. In diesem Fall wird der erweiterte Modus für den Relay-Server nicht unterstützt."
+
+msgid "사용 여부"
+msgstr "Nutzungsstatus"
+
+msgid ""
+"\n"
+"\t아이템 사용 여부를 선택합니다.\n"
+"\t"
+msgstr "\nWählen Sie aus, ob das Item verwendet werden soll."
+
+msgid "설정하기"
+msgstr "Einrichten"
+
+msgid "기타 옵션"
+msgstr "Andere Optionen"
+
+msgid "기간 연장"
+msgstr "Zeitraum verlängern"
+
+msgid "아이템 삭제"
+msgstr "Item löschen"
+
+msgid "정말 기간 연장 하겠습니까?"
+msgstr "Möchten Sie die Nutzungsdauer wirklich verlängern?"
+
+msgid "주의 사항"
+msgstr "Vorsichtsmaßnahmen"
+
+msgid "남은 시간"
+msgstr "Verbleibende Zeit"
+
+#, python-format
+msgid "%(days)d 일 남음"
+msgstr "%(days)d Tag(e) verbleibend"
+
+#, python-format
+msgid "%(hours)d 시간 남음"
+msgstr "%(hours)d Stunde(n) verbleibend"
+
+msgid "남은 시간에 31 일이 추가됩니다."
+msgstr "Zur verbleibenden Zeit werden 31 Tage hinzugefügt."
+
+msgid "닫기"
+msgstr "schließen"
+
+msgid "정말 삭제하시겠습니까?"
+msgstr "Möchten Sie wirklich löschen?"
+
+msgid "남은 기간은 크레딧으로 환불되지 않습니다."
+msgstr "Der verbleibende Zeitraum wird nicht mit einer Gutschrift erstattet."
+
+msgid "삭제된 아이템은 복구할 수 없습니다.  재구매하셔야 합니다."
+msgstr "Gelöschte Items können nicht wiederhergestellt werden. Sie müssen erneut gekauft werden."
+
+msgid ""
+"\n"
+"  접속하시는 서버 위치를 선택해 주세요.  RTT 및 중계 서버 계산에 사용됩니다.\n"
+"  "
+msgstr "\nBitte wählen Sie einen Serverstandort aus, zu dem eine Verbindung hergestellt werden soll. Wird für RTT- und Relay-Server-Berechnungen verwendet."
+
+msgid "RTT 상황"
+msgstr "RTT-Status"
+
+msgid "목적지 서버 위치"
+msgstr "Zielserverstandort"
+
+msgid "아래에서 목적지를 선택해 주세요."
+msgstr "Bitte wählen Sie unten einen Standort aus."
+
+msgid "내부 오류"
+msgstr "Interner Fehler"
+
+msgid "최단 경로"
+msgstr "Kürzeste Route"
+
+msgid "RTT 기반으로 검색된 추천 최단 경로들입니다."
+msgstr "Die kürzesten empfohlenen Routen basierend auf RTT."
+
+msgid "추천 경로"
+msgstr "Empfohlene Route"
+
+msgid "예상 RTT 평균값"
+msgstr "Geschätzter RTT-Durchschnitt"
+
+msgid "기본 모드 사용보다 나은 추천 최단 경로를 찾을 수 없습니다."
+msgstr "Die kürzeste Route, die besser ist als im Standard-Modus, kann nicht gefunden werden."
+
+msgid "예상 RTT 표준편차"
+msgstr "Geschätzte RTT-Standardabweichung"
+
+msgid "RTT 서버"
+msgstr "RTT-Server"
+
+msgid "사용자 <-> 중계 서버 구간"
+msgstr "User <-> Node only"
+
+msgid "중계 서버 <-> 게임서버 구간"
+msgstr "Node <-> Dest. Server only"
+
+msgid "전체 구간"
+msgstr "Vollständiges Segment"
+
+msgid "중계 서버 목록"
+msgstr "Relay-Server-Liste"
+
+msgid "RTT"
+msgstr "RTT"
+
+msgid "시스템 부하를 가르킵니다. CPU Steal 퍼센트/IO Wait 퍼센트/네트웍 카드 오류수"
+msgstr "Bezieht sich auf die Systembelastung. CPU Steal-Prozentsatz/IO Wait-Prozentsatz/Anzahl der Netzwerkkartenfehler"
+
+msgid "시스템 부하"
+msgstr "Systembelastung"
+
+msgid "지난 5 분간 이 중계 서버가 처리한 트래픽량을 가르킵니다.  단위는 MBytes 입니다."
+msgstr "Bezieht sich auf das Verkehrsaufkommen, das von diesem Relay-Server in den letzten fünf Minuten verarbeitet wurde. Die Einheit ist MByte."
+
+msgid "트래픽양"
+msgstr "Verkehrsaufkommen"
+
+msgid "패킷로스"
+msgstr "Paketverlust"
+
+msgid ""
+"각 항목에 대한 점수(Score)은 '사용자 컴퓨\n"
+"터 &#8594; 미꾸라지 중계 서버 &#8594; Backend 서버'까지의 RTT (Round Trip Time) 의 평균 + 표준편차의 합을 나타냅니다."
+msgstr "The score is sum of RTT (Round Trip Time) Avg. + Std. from user desktop to the destination server."
+
+msgid "평가점수"
+msgstr "Bewertung"
+
+msgid "RTT 그래프"
+msgstr "RTT-Grafik"
+
+msgid "계산중입니다."
+msgstr "Wird berechnet..."
+
+msgid "활성화됨"
+msgstr "Aktiviert"
+
+msgid "비활성화됨"
+msgstr "Deaktiviert"
+
+msgid "선택된 중계 서버"
+msgstr "Ausgewählter Relay-Server"
+
+msgid "가격"
+msgstr "Preis"
+
+msgid "정액제 전용"
+msgstr "Nur Flatrate-Tarif"
+
+msgid "구입 가능한 아이템이 없습니다."
+msgstr "Keine Items zum Kauf verfügbar"
+
+msgid "아이템 관리"
+msgstr "Item-Verwaltung"
+
+msgid "구매하신 아이템이 없습니다."
+msgstr "Es liegen keine gekauften Items vor"
+
+msgid "아이템 수정"
+msgstr "Items bearbeiten"
+
+msgid "아이템 추가"
+msgstr "Items hinzufügen"
+
+msgid "카테고리"
+msgstr "Kategorie"
+
+msgid "아이템 이름"
+msgstr "Itemname"
+
+msgid ""
+"\n"
+"\t    해당 아이템에 대한 적당한 아이콘을 지정해 주시면 됩니다. 이 부분은\n"
+"\t    선택 사항이며 미지정시 기본 아이콘이 보이게 됩니다.\n"
+"\t    "
+msgstr "\nHier können Sie das entsprechende Symbol für das Item festlegen. Dieser Teil ist optional und das Standardsymbol wird angezeigt, wenn nichts angegeben ist."
+
+msgid "목적지 정보를 입력하시면 됩니다."
+msgstr "Geben Sie hier die Zielinformationen ein."
+
+msgid "필수 사항입니다."
+msgstr "Dies ist ein erforderliches Feld."
+
+msgid "RTT 체크"
+msgstr "RTT-Überprüfung"
+
+msgid ""
+"\n"
+"\t    (<b>선택사항</b>)\n"
+"\t    RTT (Round Trip Time, 핑) 체크를 위한 정보를 입력할 수\n"
+"\t    있으며, 입력시 해당 서버와의 연결 상태를 중계 서버 별로 확인 할 수\n"
+"\t    있습니다.  현재는 ICMP 프로토콜만 지원합니다.\n"
+"\t    "
+msgstr "\n(<b>Optional</b>)\nYou can see RTT graphs for your item if these information exist.  Only ICMP is only supported."
+
+msgid "Asia (South Korea)"
+msgstr "Asien (Südkorea)"
+
+msgid "IPv4 주소"
+msgstr "IPv4-Adresse"
+
+msgid "수정하기"
+msgstr "Bearbeiten"
+
+msgid "추가하기"
+msgstr "Hinzufügen"
+
+msgid "개인 아이템"
+msgstr "Persönliche Items"
+
+#, python-format
+msgid ""
+"\n"
+"      이 아이템은 %(username)s 님이 제작한 아이템입니다.\n"
+"      아래의 메뉴를 이용하여 수정 / 삭제를 하실 수 있습니다.\n"
+"      "
+msgstr "\nDieser Artikel wurde von %(username)s Benutzername(n) erstellt. Sie können ihn über das unten stehende Menü bearbeiten / löschen."
+
+msgid "로컬 컴퓨터"
+msgstr "Lokaler Computer"
+
+msgid "설정 저장"
+msgstr "Einstellungen speichern"
+
+msgid "적용할 장치"
+msgstr "Gerät anzuwenden"
+
+msgid ""
+"\n"
+"\tPer-Eaddr 모드를 이용하여 특정 Ethernet Address (Mac Address) 를\n"
+"\t가진 컴퓨터만 미꾸라지를 적용할 수 있습니다.\n"
+"\n"
+"\t만약 아무것도 지정하지 않는다면 공유기에 접속한 모든 컴퓨터 / 장치에\n"
+"\t미꾸라지가 적용됩니다.\n"
+"\t"
+msgstr "\nIm Per-Eaddr-Modus kann nur der Computer mit einer bestimmten Ethernet-Adresse (Mac-Adresse) den Loach anwenden. \n\nWenn nichts angegeben ist, wird der Loach auf alle Computer / Geräte angewendet, die an den Router angeschlossen sind."
+
+msgid ""
+"\n"
+"\t1 줄 당 1 개의 Ethernet Address (Mac Address) 를 입력하시기 바랍니다.\n"
+"\t"
+msgstr "\nGeben Sie eine Ethernet-Adresse (Mac-Adresse) pro Zeile ein."
+
+msgid ""
+"\n"
+"  변경하신 설정을 적용하기 위해서는 다시 로그인을 하셔야 합니다.\n"
+"  지금 로그아웃 하시겠습니까?\n"
+"  "
+msgstr "\nSie müssen sich erneut anmelden, um die geänderten Einstellungen zu übernehmen. Möchten Sie sich jetzt abmelden?"
+
+msgid "로그 아웃 확인"
+msgstr "Abmeldung bestätigen"
+
+msgid "설정이 적용되지 아직 않았습니다."
+msgstr "Die Einstellungen wurde noch nicht übernommen."
+
+msgid "입력한 Mac Address 가 올바르지 않습니다:"
+msgstr "Die von Ihnen eingegebene Mac-Adresse ist falsch:"
+
+msgid "오류가 발생하였습니다:"
+msgstr "Ein Fehler ist aufgetreten:"
+
+msgid "Per-Eaddr 모드가 업데이트되었습니다.  반드시 미꾸라지를 재시작하셔야 적용됩니다."
+msgstr "Der Per-Eaddr-Modus wurde aktualisiert. Sie müssen die Schmerle neu starten, damit sie wirksam wird."
+
+msgid "목록 제한"
+msgstr "Listenlimit"
+
+msgid ""
+"\n"
+"      목록 정책에 적용할 중계 서버를 지정합니다.\n"
+"      중계 서버 목록은 지정한 정책에 따라 보여지게 됩니다.\n"
+"      "
+msgstr "\nLegt einen Relay-Server fest, der auf die Listenrichtlinie angewendet werden soll. Die Liste der Relay-Server wird entsprechend der von Ihnen festgelegten Richtlinie angezeigt."
+
+msgid "국가 코드"
+msgstr "Ländercode"
+
+msgid "중계 서버를 선택해 주세요."
+msgstr "Bitte wählen Sie einen Relay-Server."
+
+msgid "고급 모드 결과 포함"
+msgstr "Ergebnisse des erweiterten Modus einbeziehen"
+
+msgid ""
+"\n"
+"      중계 서버 모드 중 '고급 모드' 를 사용한 추천 경로 결과를 포함할지를\n"
+"      결정합니다.  기본값은 Off 입니다.\n"
+"      "
+msgstr "\nLegt fest, ob vorgeschlagene Routenergebnisse im erweiterten Modus im Relay-Server-Modus berücksichtigt werden sollen. Die Standardeinstellung ist Aus."
+
+msgid "목록 정책"
+msgstr "Listenrichtlinie"
+
+msgid ""
+"\n"
+"      중계 서버 목록을 Whitelist 정책으로 지정할지 Blacklist 정책으로\n"
+"      지정할지를 결정합니다.  기본값은 Whitelist 정책입니다.\n"
+"      "
+msgstr "\nEntscheiden Sie, ob Sie eine Liste von Relay-Servern als Whitelist- oder als Blacklist-Richtlinie angeben möchten. Der Standardwert ist Whitelist-Richtlinie."
+
+msgid "잘못된 설정"
+msgstr "Falsche Einstellungen"
+
+msgid "Full VPN 모드의 중계 서버는 1 개만 설정하셔야 합니다."
+msgstr "Es kann nur ein Relay-Server im Full VPN-Modus festgelegt werden."
+
+msgid "프로그램"
+msgstr "Programm"
+
+msgid "기본 설정"
+msgstr "Grundeinstellungen"
+
+msgid "미꾸라지 중계 서버"
+msgstr "Mudfish Relay Server"
+
+msgid "공개 무료 서버"
+msgstr "Kostenloser öffentlicher Server"
+
+msgid "Full VPN - XP 모드"
+msgstr "Full VPN - XP-Modus"
+
+msgid ""
+"\n"
+"      몇몇 Windows XP 버전의 경우, Full VPN 설정시 제대로 라우팅\n"
+"      테이블이 설정되지 않는 문제점이 존재하는데, 이 옵션을 활성화시\n"
+"      강제 라우팅 테이블 설정을 수행 합니다. Windows XP 사용자만\n"
+"      해당합니다.\n"
+"      "
+msgstr "\nIn einigen Versionen von Windows XP ist die Routingtabelle beim Festlegen von \\\"Full VPN\\\" nicht richtig festgelegt. Wenn diese Option aktiviert ist, wird das festlegen der Routingtabelle erzwungen. Nur für Windows XP-Benutzer."
+
+msgid "설정 초기화"
+msgstr "Einstellungen zurücksetzen"
+
+msgid ""
+"\n"
+"  컴퓨터에서 발생되는 모든 트래픽을 공개 무료 서버를 통해 전달합니다.\n"
+"  만약 이 기능을 사용하실려면 아래의 이용 가능한 공개 무료 서버 중 하나를\n"
+"  선택해 주세요.\n"
+"  "
+msgstr "\nDer gesamte Datenverkehr von Ihrem Computer durchläuft einen kostenlosen, öffentlichen Server. Wenn Sie diese Funktion nutzen möchten, wählen Sie bitte einen der unten verfügbaren kostenlosen, öffentlichen Server aus."
+
+msgid "경고"
+msgstr "Warnung"
+
+msgid ""
+"\n"
+"  이 공개 무료 서버들은 미꾸라지 네트웍스에서 제공되는 공식 서버가 아니기\n"
+"  때문에 이 서버들을 사용함으로 인해 발생되는 이슈는 미꾸라지 네트웍스에서\n"
+"  책임지지 않습니다.\n"
+"  "
+msgstr "\nDa es sich bei diesen kostenlosen, öffentlichen Servern nicht um offizielle Server handelt, die von Mudfish Networks bereitgestellt werden, ist Mudfish Networks nicht für Probleme verantwortlich, die sich aus deren Nutzung ergeben."
+
+msgid ""
+"\n"
+"      컴퓨터에서 발생되는 모든 트래픽을 미꾸라지 중계 서버로 전달합니다.\n"
+"      만약 이 기능을 사용하실려면 아래의 이용 가능한 중계 서버를\n"
+"      선택해 주세요.\n"
+"      "
+msgstr "\nDer gesamte vom Computer ausgehende Datenverkehr wird an den Mudfish-Relay-Server weitergeleitet. Wenn Sie diese Funktion verwenden möchten, wählen Sie bitte unten einen verfügbaren Relay-Server aus."
+
+msgid "연결 프로토콜"
+msgstr "Verbindungsprotokoll"
+
+msgid ""
+"\n"
+"      미꾸라지가 중계 서버와 통신에 사용할 프로토콜을 지정합니다.\n"
+"      "
+msgstr "\nGibt das Protokoll an, das Mudfish zur Kommunikation mit dem Relay-Server verwendet."
+
+msgid "FEC 기반"
+msgstr "FEC-basiert"
+
+msgid "RTT 검사 방법"
+msgstr "RTT-Testmethode"
+
+msgid ""
+"\n"
+"      미꾸라지가 중계 서버까지의 RTT (Round Trip Time) 을 측정하기 위해\n"
+"      사용할 프로토콜을 지정합니다.\n"
+"      "
+msgstr "\nGibt das Protokoll an, mit dem Mudfish die Umlaufzeit (RTT) zum Relay-Server misst."
+
+msgid "MTU 설정"
+msgstr "MTU-Einstellungen"
+
+msgid ""
+"\n"
+"      프로그램이 사용할 MTU (Maximum Transmission Unit) 크기를\n"
+"      지정합니다. 기본값은 1400 bytes 입니다.\n"
+"      "
+msgstr "\nBestimmt die MTU (Maximum Transmission Unit), die das Programm verwendet. Der Standardwert beträgt 1.400 Bytes."
+
+msgid ""
+"\n"
+"      미꾸라지가 트래픽을 처리할 때 Router 방식 대신 Proxy 방식으로\n"
+"      처리하게 합니다.\n"
+"      "
+msgstr "\nSorgt dafür, dass Mudfish die Proxy-Methode anstelle der Router-Methode verwendet, wenn Datenverkehr verarbeitet wird."
+
+msgid "연결 프로토콜이 TCP인 아이템에만 도움을 줍니다."
+msgstr "Nur hilfreich für Items mit einem TCP-Verbindungsprotokoll."
+
+msgid "문제점 보고서 제출중입니다... 최대 2 분까지 걸릴 수 있습니다."
+msgstr "Problemmeldung wird eingereicht... Dies kann bis zu 2 Minuten dauern."
+
+msgid "성공적으로 제출 되었습니다. 감사합니다."
+msgstr "Erfolgreich eingereicht. Vielen Dank."
+
+msgid "문제점 보고"
+msgstr "Problem melden"
+
+msgid "제목을 입력해 주세요."
+msgstr "Bitte geben Sie einen Titel ein."
+
+msgid "내용"
+msgstr "Inhalt"
+
+msgid ""
+"\n"
+"            자세한 상황과 재현 방법을 적어 주시면 문제 해결에 큰 도움이 됩니다.\n"
+"            "
+msgstr "\nBitte geben Sie uns eine detaillierte Beschreibung der Situation und wie Sie nachvollzogen werden kann, da dies für uns eine große Hilfe bei der Lösung des Problems ist."
+
+msgid "문제점 보고하기"
+msgstr "Problem melden"
+
+msgid "혹시 아래의 질문에 답변이 있을 수 있습니다."
+msgstr "Möglicherweise finden Sie unten die Antworten auf Ihre Fragen."
+
+msgid "연결 상태"
+msgstr "Verbindungsstatus"
+
+msgid "호스트이름"
+msgstr "Hostname"
+
+msgid "내부 주소"
+msgstr "Interne Adresse"
+
+msgid "Uptime"
+msgstr "Betriebszeit"
+
+msgid "Heartbeat"
+msgstr "Herzschlag"
+
+msgid "가격 정책"
+msgstr "Preispolitik"
+
+msgid "국내 트래픽 (1 GBytes 당 가격)"
+msgstr "Inlandsverkehr (Preis pro 1 GByte)"
+
+msgid "원 (KRW)"
+msgstr "Won (KRW)"
+
+msgid "국제 트래픽 (1 GBytes 당 가격)"
+msgstr "Internationaler Verkehr (Preis pro 1 GByte)"
+
+msgid "CPU 사용률"
+msgstr "CPU-Auslastung"
+
+msgid "시스템 부하률"
+msgstr "Systemlastfaktor"
+
+msgid "네트워크 사용"
+msgstr "Netzwerknutzung"
+
+msgid "네트워크 장치 에러 정보"
+msgstr "Informationen zu Netzwerkgerätefehlern"
+
+msgid "정기 점검 안내"
+msgstr "Serverwartungssanleitung"
+
+msgid ""
+"\n"
+"      서비스 안정화를 위한 정기 점검을 하려고 합니다. 이로 인해 점검 기간\n"
+"      동안 미꾸라지 이용에 문제가 있을 수 있음을 알려드립니다.\n"
+"      "
+msgstr "\nWir planen regelmäßige Serverwartungen, um den Service zu stabilisieren. Bitte beachten Sie, dass dies zu Problemen bei der Verwendung von Mudfish, während einer Wartung führen kann."
+
+msgid "대상: 모든 미꾸라지 중계 서버들"
+msgstr "Ziel: Alle Mudfish-Relay-Server"
+
+msgid "일시"
+msgstr "Datum und Zeit"
+
+msgid "일"
+msgstr "Tag(e)"
+
+msgid "시"
+msgstr "Stunde(n)"
+
+msgid "분"
+msgstr "Minute(n)"
+
+msgid "초"
+msgstr "Sekunde(n)"
+
+msgid "후에 점검이 시작됩니다."
+msgstr "Die Server-Wartung beginnt in"
+
+msgid ""
+"\n"
+"      점검을 시작하게 되면 미꾸라지 중계 서버를 경유한 기존 게임 연결이\n"
+"      끊어질 수 있으며 로그인, 홈페이지 접속에 문제가 있을 수 있습니다.\n"
+"      "
+msgstr "\nSobald die Server-Wartung startet, werden vorhandene Spiele über den Mudfish-Relay-Server möglicherweise getrennt und es kann zu Problemen beim Anmelden und Zugreifen auf die Startseite kommen."
+
+msgid "점검중"
+msgstr "Überprüfung läuft"
+
+msgid "미꾸라지가 성공적으로 실행되었습니다.  화면을 갱신하겠습니까?"
+msgstr "Mudfish wurde erfolgreich ausgeführt. Möchten Sie den Bildschirm aktualisieren?"
+
+msgid "미꾸라지가 이미 실행중입니다. 화면을 갱신하겠습니까?"
+msgstr "Mudfish wird bereits ausfgeführt. Möchten Sie den Bildschirm aktualisieren?"
+
+msgid "실행 상태"
+msgstr "Betriebsstatus"
+
+msgid "화면 갱신을 하셔야 세부 정보가 표시됩니다."
+msgstr "Sie müssen den Bildschirm aktualisieren, um die Details zu sehen."
+
+msgid "미꾸라지 실행이 실패하였습니다."
+msgstr "Ausführung von Mudfish fehlgeschlagen."
+
+msgid "로그아웃 후 다시 로그인하겠습니까?"
+msgstr "Möchten Sie sich abmelden und erneut anmelden?"
+
+msgid "미꾸라지 실행이 계속 실패할 경우 미꾸라지 포럼에 문의바랍니다."
+msgstr "Wenn die Ausführung von Mudfish immer noch nicht erfolgreich ist, kontaktieren Sie bitte das Mudfish-Forum."
+
+msgid "미꾸라지가 성공적으로 종료하였습니다. 화면을 갱신하겠습니까?"
+msgstr "Mudfish wurde erfolgreich heruntergefahren. Möchten Sie den Bildschirm aktualisieren?"
+
+msgid "화면 갱신은 언제든지 하셔야 됩니다."
+msgstr "Sie können Ihren Bildschirm jederzeit aktualisieren."
+
+msgid "미꾸라지 종료가 실패하였습니다."
+msgstr "Herunterfahren von Mudfish fehlgeschlagen."
+
+msgid "현재 미꾸라지 프로그램이 실행중입니다."
+msgstr "Das Mudfish-Programm wird zur Zeit ausgeführt."
+
+msgid "연결끊기"
+msgstr "Trennen"
+
+msgid "연결하기"
+msgstr "Verbinden"
+
+msgid ""
+"\n"
+"\t미꾸라지 포럼이 Discourse 기반으로 새롭게 옮겼습니다.  미꾸라지\n"
+"\t서비스 관련 기술 지원은 미꾸라지 포럼을 통해서 지원해 드리니\n"
+"\t많은 이용 바랍니다.\n"
+"\t"
+msgstr "\nDas Mudfish-Forum wurde neu gestaltet, um auf Diskurs zu basieren. Technische Unterstützung für Mudfish-Dienste erhalten Sie über das Mudfish-Forum."
+
+msgid "새 미꾸라지 포럼"
+msgstr "Neues Mudfish-Forum"
+
+msgid ""
+"\n"
+"\t'1:1 지원' 의 경우 개인적인 문의 (예를 들어, 크레딧 환불)\n"
+"\t를 할 경우 이용해 주시기 바랍니다.\n"
+"\t"
+msgstr "\nVerwenden Sie bitte 1:1 Support für persönliche Anfragen (z.B. Rückerstattung)."
+
+msgid ""
+"\n"
+"\t  마스터 (Master) 계정의 미꾸라지 크레딧을 공유하는 하위 미꾸라지 계정을\n"
+"\t  생성할 수 있습니다.\n"
+"\t  "
+msgstr "\nSie können ein untergeordnetes Mudfish-Konto erstellen, welches Mudfish-Guthaben mit einem Hauptkonto teilt."
+
+msgid "계정 ID"
+msgstr "Konto-ID"
+
+msgid "접속 IP"
+msgstr "Verbindungs-IP"
+
+msgid "접속 시간"
+msgstr "Verbindungszeit"
+
+msgid "생성 시간"
+msgstr "Erstellungszeit"
+
+msgid "생성된 하위 계정이 없습니다."
+msgstr "Es wurde kein Unterkonto erstellt"
+
+msgid "계정 삭제"
+msgstr "Konto löschen"
+
+msgid "계정 추가"
+msgstr "Konto hinzufügen"
+
+msgid "하위 계정 추가"
+msgstr "Untergeordnetes Konto hinzufügen"
+
+msgid ""
+"\n"
+"\t  패스워드는 최소 6자 이상이여야 합니다.\n"
+"\t  "
+msgstr "\nPasswörter müssen mindestens sechs Zeichen lang sein."
+
+msgid "하위 계정 생성"
+msgstr "Unterkonto erstellen"
+
+#, python-format
+msgid "%(username)s 님의 패스워드를 변경합니다."
+msgstr "Ändert das Passwort von %(username)s Benutzername(n)."
+
+msgid ""
+"\n"
+"\t  <strong>절대</strong> 평소에 쓰시는 혹은 금융 업무를 위한 패스워드를\n"
+"\t  <em>사용하지 마십시오</em>.\n"
+"\t  "
+msgstr "\nPasswords are case sensitive.\n\t  "
+
+msgid "변경하기"
+msgstr "Ändern"
+
+msgid "요금제 변경"
+msgstr "Tarif ändern"
+
+msgid ""
+"\n"
+"\t  요금제 변경을 시도하고 있습니다.  요금제는 한달에 오직 한번만 변경할 수\n"
+"\t  있기 때문에 신중하게 결정하시기 바랍니다.\n"
+"\t  "
+msgstr "\nSie versuchen, Ihren Plan zu ändern. Sie können Ihren Plan nur einmal im Monat ändern. Seien Sie also vorsichtig."
+
+msgid "현재 요금제"
+msgstr "Aktueller Plan"
+
+msgid "변경할 요금제"
+msgstr "Plan ändern"
+
+msgid ""
+"\n"
+"\t      정액제에서 종량제로 요금제를 변경하실 경우, 기존 장착중인 아이템이 소멸됩니다.\n"
+"\t      "
+msgstr "\nIf you change your plan from Subscription to PPT (Pay Per Traffic), your existing items will be lost."
+
+msgid "내 사진"
+msgstr "Mein(e) Foto(s)"
+
+msgid "사용한 트래픽 만큼 차감"
+msgstr "Ziehen Sie so viel ab, wieviel der Verkehr verbraucht hat"
+
+msgid "아이템 가격만 차감"
+msgstr "Es wird nur der Artikelpreis abgezogen"
+
+msgid "속도 제한"
+msgstr "Geschwindigkeitsbegrenzung"
+
+msgid "무제한"
+msgstr "Unbegrenzt"
+
+msgid "1. 최소 1 개 이상의 유료 아이템 장착 필수"
+msgstr "1. Es muss mindestens ein bezahltes Item ausgerüstet werden"
+
+msgid ""
+"\n"
+"\t    요금제는 한달에 오직 한번만 변경할 수 있습니다.\n"
+"\t    "
+msgstr "\nSie können Ihren Tarif nur einmal im Monat ändern."
+
+#, python-format
+msgid ""
+"\n"
+"\t      다음 변경 가능한 시점: %(dataplan_changable)s\n"
+"\t      "
+msgstr "\nNächster Zeitpunkt für eine Änderung:%(dataplan_changable)s"
+
+msgid ""
+"\n"
+"\t    중계 서버 이용의 접속 기록 여부를 설정합니다.\n"
+"\t    "
+msgstr "\nLegen Sie fest, ob der Zugriffsverlauf auf dem Relay-Server aufgezeichnet werden soll."
+
+msgid ""
+"\n"
+"\t    활성화시 좀 더 전문적인 옵션들이 대쉬보드에 보이도록 합니다.\n"
+"\t    "
+msgstr "\nWenn diese Option aktiviert ist, werden im Dashboard weitere spezielle Optionen angezeigt."
+
+msgid "위험"
+msgstr "Warnung/Gefahr"
+
+msgid ""
+"\n"
+"\t      미꾸라지 계정을 삭제하기 위해서는 다음의 버튼을 클릭하시면 나오는\n"
+"\t      사이트에서 처리 가능합니다.\n"
+"\t      "
+msgstr "\nUm Ihr Mudfish-Konto zu löschen, können Sie auf die folgende Schaltfläche klicken und auf der Seite fortfahren auf die Sie weitergeleitet werden."
+
+msgid "계정 탈퇴하기"
+msgstr "Konto löschen"
+
+msgid "최근 RTT 계산 정보"
+msgstr "Aktuelle Informationen zur RTT-Berechnung"
+
+msgid ""
+"\n"
+"아이템 별 최적의 미꾸라지 중계 서버 이용 경로입니다.  아래의 경로 이용시\n"
+"예상되는 RTT 평균과 편차를 정보를 확인할 수 있습니다.\n"
+msgstr "\nDie optimale Mudfish Relay-Server-Route für jedes Item. Auf der folgenden Route können Sie den geschätzten RTT-Mittelwert und die geschätzte Abweichung sehen.\n"
+
+msgid "수동으로 RTT 정보를 갱신하려면 아래의 버튼을 클릭해 주세요."
+msgstr "Klicken Sie auf die Schaltfläche unten, um Ihre RTT-Informationen manuell zu aktualisieren."
+
+msgid "업데이트"
+msgstr "Aktualisieren"
+
+msgid ""
+"\n"
+"    업데이트가 요청되었으며 갱신까지 최대 1 ~ 2 분까지 걸릴 수 있습니다.\n"
+"    "
+msgstr "\nEin Update wurde angefordert; dies kann 1 bis 2 Minuten dauern."
+
+msgid "무료 서버 목록"
+msgstr "Liste kostenloser Server"
+
+msgid ""
+"\n"
+"      미꾸라지 Core 의 내부 명령을 이용하여, Core 프로그램을 제어할 수 있습니다.\n"
+"      <b>help</b> 명령을 입력하시면 이용 가능한 명령어들 목록을 볼 수 있습니다.\n"
+"      "
+msgstr "\nUsing CLI commands, you can control Mudfish Core.  To see available commands, type <b>help</b> command."
+
+msgid "명령어"
+msgstr "Befehl"
+
+msgid "패킷 덤프 중입니다."
+msgstr "Paket-Dump ist im Laufe."
+
+msgid "내부 오류가 발생하였습니다."
+msgstr "Ein interner Fehler ist aufgetreten."
+
+msgid "정지"
+msgstr "Pause"
+
+msgid "업로드가 완료되었습니다."
+msgstr "Der Upload ist abgeschlossen."
+
+msgid "미꾸라지를 통해 전달되는 패킷을 파일로 덤프하는 기능입니다."
+msgstr "Diese Funktion gibt ein Paket, das durch Mudfish läuft, in eine Datei aus."
+
+msgid "파일 크기"
+msgstr "Dateigröße"
+
+msgid "시작"
+msgstr "Start"
+
+msgid "중지"
+msgstr "Stopp"
+
+msgid "전송하기"
+msgstr "Senden"
+
+msgid "파일 업로드"
+msgstr "Datei hochladen"
+
+msgid "한줄 설명"
+msgstr "Einzeilige Beschreibung"
+
+msgid "패킷 덤프의 내용을 간략하게 설명해 주세요."
+msgstr "Bitte beschreiben Sie kurz den Inhalt des Paket-Dumps."
+
+msgid ""
+"\n"
+"      <a href='https://en.wikipedia.org/wiki/MTR_(software)' target='_blank'>Matt's traceroute</a>\n"
+"      기능을 이용하여 입력하신 'IP / 호스트이름'을 대상으로 테스트를 실시합니다.\n"
+"      이 기능을 통해 어떤 Hop (라우터 구간)에서 Packet loss 가 발생되는지 혹은\n"
+"      지연 시간등의 정보를 확인할 수 있습니다.\n"
+"      "
+msgstr "\nPerforms the packet loss test and measures the network status using <a href='https://en.wikipedia.org/wiki/MTR_(software)' target='_blank'>Matt's traceroute</a>.\nWith this feature, you can see which hop (router) has a packet loss or network delay."
+
+msgid "IP / 호스트이름"
+msgstr "IP / Hostname"
+
+msgid "관리"
+msgstr "Verwaltung/verwalten"
+
+msgid "실행중인 테스트가 없습니다."
+msgstr "Es werden zur Zeit keine Tests ausgeführt."
+
+msgid "삭제"
+msgstr "Löschen"
+
+msgid "결과"
+msgstr "Resultat"
+
+msgid "Hop"
+msgstr "Hop"
+
+msgid "패킷 로스"
+msgstr "Paketverlust"
+
+msgid "요청수"
+msgstr "Anzahl der Anfragen"
+
+msgid "응답수"
+msgstr "Anzahl der Reaktionen"
+
+msgid "주소"
+msgstr "Adresse"
+
+msgid "현재"
+msgstr "Aktuell"
+
+msgid "최고"
+msgstr "Beste"
+
+msgid "최저"
+msgstr "Schlechteste/Niedrigste"
+
+msgid "저장하기"
+msgstr "Speichern"
+
+msgid "미꾸라지 실행을 위해서는 다시 로그인이 필요해 보입니다.  지금 로그아웃 하시겠습니까?"
+msgstr "Sie müssen sich erneut anmelden, um Mudfish ausführen zu können. Möchten Sie sich jetzt abmelden?"
+
+msgid "연결하기를 위해서는 재로그인이 필요합니다."
+msgstr "Für die Verbindung ist eine erneute Anmeldung erforderlich."
+
+msgid "접속 기록"
+msgstr "Zugriffsprotokoll"
+
+msgid ""
+"\n"
+"      접속 기록은 1 MBytes 이상 전송된 출발지/목적지에 대해서만 보여집니다.\n"
+"      "
+msgstr "\nDas Zugriffsprotokoll wird nur für Herkunft / Ziele angezeigt, die über 1 MB übertragen haben."
+
+msgid ""
+"\n"
+"\t현재 접속 기록 여부가 '기록 안함'으로 설정되어 있기 때문에, 접속 기록이\n"
+"\t제대로 보이지 않을 수 있습니다. 설정을 변경하실려면,\n"
+"\t'설정 -> 계정 -> 개인정보 수정' 메뉴에서 하실 수 있습니다.\n"
+"\t"
+msgstr "\nAccess Log information missed your activities because Connection Logging is disabled by your account setup.  To enable it, please visit 'Setup -> Account -> Edit Profile' menu."
+
+msgid "날짜"
+msgstr "Datum"
+
+msgid "출발지"
+msgstr "Herkunft"
+
+msgid "국내 In/Out"
+msgstr "Inland Ein/Aus"
+
+msgid "국제 In/Out"
+msgstr "International Ein/Aus"
+
+msgid "내 컴퓨터"
+msgstr "Mein Computer"
+
+msgid "내부 오류가 발생했습니다. 잠시 후 다시 시도해 보세요."
+msgstr "Ein interner Fehler ist aufgetreten. Bitte versuchen Sie es später noch einmal."
+
+msgid "자체 진단"
+msgstr "Selbstdiagnose"
+
+msgid ""
+"\n"
+"      아래의 목록을 살펴보셔서 <span class='fa fa-fw fa-times'></span>\n"
+"      마크가 있는지 확인 바랍니다.  해당 마크가 있다면 각 항목에 대한 '도움말'을\n"
+"      참고 바랍니다.\n"
+"      "
+msgstr "\nPlease check that there are <span class='fa fa-fw fa-times'></span> mark at below.  If there is, check 'Help' for each entries."
+
+msgid "진단 항목"
+msgstr "Diagnoseitem"
+
+msgid "Core 준비 여부"
+msgstr "Core-Vorbereitungsstatus"
+
+msgid "도움말"
+msgstr "Hilfe"
+
+msgid "중계 서버 자동 선택 아이템"
+msgstr "Automatischer Auswahlartikel für den Relay-Server"
+
+msgid "죽은 중계 서버가 세팅된 아이템"
+msgstr "Items mit Einstellungen für tote Relay-Server"
+
+msgid "중앙 서버 테스트: 웹 페이지"
+msgstr "Zentraler Servertest: Webseite"
+
+msgid "중앙 서버 테스트: 인증 서버"
+msgstr "Zentraler Servertest: Authentifizierungsserver"
+
+msgid "중앙 서버 테스트: RTT 서버"
+msgstr "Zentraler Servertest: RTT-Server"
+
+msgid "방화벽 테스트: KR Asia (S. Korea - KT2 IDC) TCP Port"
+msgstr "Firewall-Test: KR Asia (Südkorea-KT2 IDC) TCP-Port"
+
+msgid "방화벽 테스트: KR Asia (S. Korea - KT2 IDC) UDP Port"
+msgstr "Firewall-Test: KR Asia (Südkorea-KT2 IDC) UDP-Port"
+
+msgid "내부망 테스트: KR Asia (S. Korea - KT2 IDC)"
+msgstr "Interner Netzwerktest: KR Asia (Südkorea-KT2 IDC)"
+
+msgid "메모리"
+msgstr "Speicher"
+
+msgid "프로세스 종료"
+msgstr "Prozessbeendigung"
+
+msgid ""
+"\n"
+"      현재 접속 기록 여부가 '기록 안함'으로 설정되어 있기 때문에, 그래프가\n"
+"      제대로 보이지 않을 수 있습니다. 설정을 변경하실려면,\n"
+"      '설정 -> 계정 -> 개인정보 수정' 메뉴에서 하실 수 있습니다.\n"
+"    "
+msgstr "\nGraphs are missed because Connection Logging is disabled by your account setup.  To enable it, please visit 'Setup -> Account -> Edit Profile' menu."
+
+msgid "지난 사용 트래픽 - 유료 중계 서버"
+msgstr "Zuvor genutzter Verkehr - Bezahlter Relay-Server"
+
+msgid "국내 트래픽 (MB)"
+msgstr "Inlands-Verkehr (MB)"
+
+msgid "국제 트래픽 (MB)"
+msgstr "Internationaler Verkehr (MB)"
+
+msgid "지난 사용 트래픽 - 무료 중계 서버"
+msgstr "Zuvor genutzter Verkehr - Kostenloser Relay-Server"
+
+#, python-format
+msgid ""
+"국내 트래픽 (1GBytes 당 가격): ₩ %(commercial_node_price_domestic)s "
+"(%(commercial_node_currency)s)"
+msgstr "Inlandsverkehr (Preis pro 1 GByte): ₩ %(commercial_node_price_domestic)s (%(commercial_node_currency)s)"
+
+#, python-format
+msgid ""
+"국제 트래픽 (1GBytes 당 가격): ₩ %(commercial_node_price_international)s "
+"(%(commercial_node_currency)s)"
+msgstr "Internationaler Verkehr (Preis pro 1 GByte): ₩ %(commercial_node_price_international)s (%(commercial_node_currency)s)"
+
+msgid "중계 서버 이름"
+msgstr "Name des Relay-Servers"
+
+msgid "RTT 평균"
+msgstr "RTT-Durchschnitt"
+
+msgid "RTT 표준편차"
+msgstr "RTT Standardabweichung"
+
+msgid "테스트 중계 서버"
+msgstr "Relay-Server testen"
+
+msgid "테스트 성공"
+msgstr "Test erfolgreich"
+
+msgid "테스트 실패"
+msgstr "Test fehlgeschlagen"
+
+msgid "프로세스 상태"
+msgstr "Prozessstatus"
+
+msgid "프로그램 버전"
+msgstr "Programmversion"
+
+msgid "링크"
+msgstr "Link"
+
+msgid "로딩중입니다."
+msgstr "Wird geladen..."
+
+msgid "RTT 업데이트"
+msgstr "RTT-Update"
+
+msgid ""
+"\n"
+"    업데이트 되었습니다. 하지만\n"
+"    현재 <strong><span id='forceRTTUpdateMinCnt1'></span></strong> 개의 RTT\n"
+"    정보만 결과값에 적용되었기 때문에 정확하지 않을 수 있습니다.\n"
+"    RTT 정보가 많을 수록 정확도가 올라갑니다.\n"
+"    "
+msgstr "\nUpdated.  However please note that your score could be inaccurate because\n<strong><span id='forceRTTUpdateMinCnt1'></span></strong> entry (or entries) of RTT information are updated only.  It'll be more accurate when more RTT information are collected."
+
+msgid "새로고침"
+msgstr "Aktualisieren"
+
+msgid ""
+"\n"
+"    업데이트 되었습니다.\n"
+"    <strong><span id='forceRTTUpdateMinCnt2'></span></strong> 개의 RTT\n"
+"    정보가 수집되었습니다.\n"
+"    "
+msgstr "\nUpdated.  <strong><span id='forceRTTUpdateMinCnt2'></span></strong> entry (or entries) of RTT information are collected."
+
+msgid ""
+"\n"
+"    이미 업데이트 요청이 처리되었습니다.  잠시 후에 다시 시도해 보시기\n"
+"    바랍니다.\n"
+"    "
+msgstr "\nIhre Update-Anfrage wurde bereits bearbeitet. Bitte versuchen Sie es später noch einmal."
+
+msgid ""
+"\n"
+"  변경하신 설정을 적용하기 위해서는 연결 종료 후 다시 연결하셔야 합니다.\n"
+"  다시 연결 하시겠습니까?\n"
+"  "
+msgstr "\nUm die geänderten Einstellungen zu übernehmen, müssen Sie die Verbindung nach dem Trennen wiederherstellen. Möchten Sie die Verbindung wiederherstellen?"
+
+msgid "연결 확인"
+msgstr "Verbindung überprüfen"
+
+msgid "미꾸라지 Core 를 종료 중입니다."
+msgstr "Der Mudfish-Core wird heruntergefahren..."
+
+msgid "잠시 후 미꾸라지 Core 를 시작합니다."
+msgstr "Mudfish-Core wird in kürze starten."
+
+msgid "새 버전 안내"
+msgstr "Anleitung zu neuer Version"
+
+#, python-format
+msgid ""
+"\n"
+"    새 미꾸라지 배포판(<strong>v%(current_verstr)s</strong>)이\n"
+"    나왔습니다.\n"
+"    "
+msgstr "\nNew Mudfish version (<strong>v%(current_verstr)s</strong>) is released."
+
+#, python-format
+msgid ""
+"\n"
+"    최신 기능 및 버그 수정을 위해서 꼭 업데이트해주시기 바랍니다.  다운로드는\n"
+"    <a href='https://mudfish.net/download'>여기</a>\n"
+"    에서 받으실 수 있으며 현재 사용하고 계신 버전은 v%(user_verstr)s 입니다.\n"
+"    "
+msgstr "\nPlease upgrade if possible to fix bugs and get new features.  Download is available at <a href='https://mudfish.net/download'>here</a>.  Currently you're using v%(user_verstr)s."
+
+msgid ""
+"\n"
+"    자세한 변경 사항은\n"
+"    <a href='https://docs.mudfish.net/en/docs/mudfish-cloud-vpn/release-notes/'>릴리즈 노트</a>를\n"
+"    참고 바랍니다.\n"
+"    "
+msgstr "\nFor details, please see <a href='https://docs.mudfish.net/en/docs/mudfish-cloud-vpn/release-notes/'>release notes</a>."
+
+msgid "현재 설정 구성중입니다...  잠시만 기다려 주십시오."
+msgstr "Einstellungen werden zur Zeit konfiguriert... Bitte warten Sie einen Moment."
+
+msgid ""
+"\n"
+"    진행이 너무 오래 걸리면\n"
+"    <a class='alert-link' href='/admin/status/diag'>자체 진단</a>을 해보십시오.\n"
+"    "
+msgstr "\nIf it takes long, do <a class='alert-link' href='/admin/status/diag'>Self-Diagnosis</a>."
+
+msgid "모든 설정 구성이 완료되었습니다!"
+msgstr "Alle Einstellungen wurden konfiguriert!"
+
+msgid "크레딧 상태"
+msgstr "Guthabenstatus"
+
+msgid "남은 크레딧"
+msgstr "Restguthaben"
+
+msgid "남은 트래픽 용량"
+msgstr "Verbleibender Verkehr"
+
+msgid "마지막 결제일"
+msgstr "Letztes Zahlungsdatum"
+
+msgid "현재 마이너스 크레딧 상태입니다."
+msgstr "Sie haben zur Zeit einen negativen Guthabenstatus."
+
+msgid "잔여 크레딧이 없습니다."
+msgstr "Es ist kein Guthaben mehr vorhanden."
+
+msgid "아이템 구매를 위해서는 우선 크레딧 구매를 하셔야 합니다."
+msgstr "Um einen Artikel zu kaufen, müssen Sie zuerst Guthaben erwerben."
+
+msgid "혹시 환불 / 결제 취소를 원하시나요?"
+msgstr "Möchten Sie eine Rückerstattung / Zahlungsstornierung?"
+
+#, python-format
+msgid ""
+"\n"
+"    미꾸라지는 <strong>7일</strong>의 <strong>무조건 환불 정책</strong>으로\n"
+"    운영됩니다.  결제하신 후 1 주 이내에\n"
+"    연락주시면 묻지도 따지지도 않고 100%% 환불해 드립니다.\n"
+"    "
+msgstr "\nAt this moment, we are guaranteeing 100%% money back within <strong>1 week</strong> without <strong>any questions</strong>. "
+
+msgid "확인되는 거래내역이 없습니다."
+msgstr "Es wurde keine Transaktion gefunden."
+
+msgid "지불 방법"
+msgstr "Zahlungsmethode"
+
+msgid "금액"
+msgstr "Preis"
+
+msgid "구매 날짜"
+msgstr "Kaufdatum"
+
+msgid "직접 계좌 이체"
+msgstr "Direkte Banküberweisung"
+
+msgid "환불 요청"
+msgstr "Rückerstattungsantrag"
+
+msgid "다날 (Danal) 결제"
+msgstr "Danal-Zahlung"
+
+msgid "환불 요청 취소"
+msgstr "Rückerstattungsantrag stornieren"
+
+msgid "Paypal 결제"
+msgstr "Paypal-Zahlung"
+
+msgid "구글 플레이 결제"
+msgstr "Google Play-Zahlung"
+
+msgid "비트코인 결제"
+msgstr "Bitcoin-Zahlung"
+
+msgid "Toss (토스) 결제"
+msgstr "Toss-Zahlung"
+
+msgid "Alipay 결제"
+msgstr "Alipay-Zahlung"
+
+msgid "iPhone 결제"
+msgstr "iPhone-Zahlung"
+
+msgid "Paymentwall"
+msgstr "Paymentwall"
+
+msgid "환불을 원하시는 분은 미꾸라지 포럼에 요청글을 남겨주시기 바랍니다."
+msgstr "Wenn Sie eine Rückerstattung wünschen, hinterlassen Sie bitte eine Anfrage im Mudfish Forum."
+
+msgid "환불 요청을 취소하시겠습니까?"
+msgstr "Möchten Sie Ihre Rückerstattungsanforderung wirklich stornieren?"
+
+msgid "환불 요청을 계속 진행하시겠습니까?"
+msgstr "Möchten Sie mit der Rückerstattungsanforderung fortfahren?"
+
+msgid "새 개발자 버전 안내"
+msgstr "Anleitung für neue Entwicklerversionen"
+
+#, python-format
+msgid ""
+"\n"
+"    새로운 개발자 배포판(<strong>v%(dev_verstr)s</strong>)이\n"
+"    나왔습니다.\n"
+"    "
+msgstr "\nNew unstable mudfish version (<strong>v%(dev_verstr)s</strong>) is released."
+
+msgid ""
+"\n"
+"    새 기능 및 버그 패치들을 미리 테스트 할 수 있는 버전이지만\n"
+"    개발자 배포판이기 때문에 공식 배포판 보다 안정성이 떨어질 수 있으며,\n"
+"    새로운 버그가 있을 수 있습니다.\n"
+"    다운로드는 <a href='https://mudfish.net/download_dev'>여기</a>\n"
+"    에서 받으실 수 있습니다.\n"
+"    "
+msgstr "\nAt unstable release, it includes new features and bugfixes though it has other new bugs.  Download is available at <a href='https://mudfish.net/download_dev'>here</a>."
+
+msgid "미꾸라지"
+msgstr "Mudfish"
+
+msgid "환불 정책"
+msgstr "Rückerstattungsrichtlinie"
+
+msgid "미꾸라지 네트웍스"
+msgstr "Mudfish Networks"
+
+msgid "무엇을 도와드릴까요?"
+msgstr "Wie können wir Ihnen helfen?"
+
+msgid "회사 연락을 원하신다면 아래의 이메일로 연락바랍니다.  기술 지원에 대한 전화 상담은 하지 않습니다."
+msgstr "Wenn Sie mit uns Kontakt aufnehmen möchten, senden Sie uns bitte eine E-Mail. Wir bieten keinen technischen Support per Telefon an."
+
+msgid "대표: 한미정"
+msgstr "CEO: Mi-Jung An"
+
+msgid "대표번호: (02) 2659-0823"
+msgstr "Haupttelefonnummer: (02) 2659-0823"
+
+msgid "팩스: (02) 2659-0824"
+msgstr "Fax: (02) 2659-0824"
+
+msgid "이메일"
+msgstr "E-Mail"
+
+msgid "사업자등록번호"
+msgstr "Handelsregisternummer"
+
+msgid "주소: 서울 강서구 마곡중앙로 165 (마곡동, 안강프라이빗타워) 8층 803호"
+msgstr "Adresse: Seoul Gangseo-Gu, Makgokjungang-Ro 165(Magok-Dong, Angang Private Tower) 8F #803"
+
+msgid "문의하기"
+msgstr "Kontakt"
+
+msgid "기타"
+msgstr "Andere"
+
+msgid "소마구 홈페이지"
+msgstr "Somagu-Startseite"
+
+msgid "미꾸라지 네트웍스 (주)"
+msgstr "Mudfish Networks Co., Ltd."
+
+msgid "홈"
+msgstr "Startseite"
+
+msgid "포럼 목록"
+msgstr "Forumsliste"
+
+msgid "포럼"
+msgstr "Forum"
+
+msgid "문서"
+msgstr "Dokument"
+
+msgid "도구들"
+msgstr "Werkzeuge"
+
+msgid "나의 IP는?"
+msgstr "Wie lautet meine IP?"
+
+msgid "이미지 업로드"
+msgstr "Bild hochladen"
+
+msgid "Ping 테스트"
+msgstr "Ping-Test"
+
+msgid "대쉬보드"
+msgstr "Dashboard"
+
+msgid "사용자"
+msgstr "Benutzer"
+
+msgid "로그아웃"
+msgstr "Abmelden"
+
+msgid "트래픽"
+msgstr "Verkehr"
+
+msgid "고급"
+msgstr "Fortgeschritten"
+
+msgid "문제점 보고서"
+msgstr "Problembericht"
+
+msgid ""
+"\n"
+"  아직 변경하신 내용이 적용되지 않았습니다.\n"
+"  지금 설정 구성을 시작하겠습니까?\n"
+"  "
+msgstr "\nIhre Änderungen wurden noch nicht übernommen. Möchten Sie jetzt mit der Konfiguration der Einstellungen beginnen?"
+
+msgid "설정 구성 확인"
+msgstr "Überprüfen Sie die Konfiguration Ihrer Einstellungen"
+
+msgid "유료 아이템"
+msgstr "Bezahlte Items"
+
+msgid ""
+"정액제 요금제의 경우 최소 1 개의 유료 아이템 장착을 해야 프로그램이 제대로 동작을 합니다.  아이템 구매 페이지로 이동하시겠습니까?"
+msgstr "Bei einem Flatrate-Tarif muss mindestens ein kostenpflichtiger Artikel ausgerüstet werden, damit das Programm ordnungsgemäß funktioniert. Möchten Sie zur Kaufseite für Artikel gehen?"
+
+msgid "현재 죽어 있는 중계 서버를 사용하고 있습니다.  아이템 설정에 들어가셔서 중계 서버 설정을 변경하세요."
+msgstr "Sie verwenden einen toten Relay-Server. Geben Sie die Artikeleinstellungen ein und ändern Sie die Relay-Server-Einstellungen."
+
+msgid "장착한 아이템이 없습니다."
+msgstr "Es sind keine Artikel ausgerüstet."
+
+msgid "알려드립니다!"
+msgstr "Bitte beachten!"
+
+msgid ""
+"\n"
+"  사용자 &harr; 미꾸라지 중계 서버간 정보를 찾을 수 없습니다.  그렇기 때문에 결과가\n"
+"  정확하지 않을 수 있습니다.\n"
+"  미꾸라지 Launcher 를 통해 확인하시면 좀 더 정확한 정보를 얻을 수 있습니다.\n"
+"  "
+msgstr "\nThe RTT information between user and Mudfish nodes could not be found so the result would be incorrect.  To be details, please access the menu through Mudfish Launcher."
+
+#, python-format
+msgid "<b>%(tdiff)s</b> 전에 수집된 사용자 정보를 바탕으로 계산된 결과입니다."
+msgstr "This result is calculated based on RTT information collected <b>%(tdiff)s</b> ago."
+
+msgid ""
+"\n"
+"  사용자 &harr; 공개 무료 서버간 정보를 찾을 수 없습니다.  그렇기 때문에 결과가\n"
+"  정확하지 않을 수 있습니다.\n"
+"  미꾸라지 Launcher 를 통해 확인하시면 좀 더 정확한 정보를 얻을 수 있습니다.\n"
+"  "
+msgstr "\nThe RTT information between user and public free nodes could not be found so the result would be incorrect.  To be details, please access the menu through Mudfish Launcher."
+
+msgid "안내!"
+msgstr "Hinweis!"
+
+msgid ""
+"\n"
+"  크레딧 없거나 혹은 Full VPN 을 사용할 권한이 없습니다.\n"
+"  "
+msgstr "\nSie haben kein Guthaben oder keine Berechtigung, Full VPN zu verwenden."
+
+msgid "WAN 최적화를 통한 게임 / 동영상 가속 VPN, 윈도우 / 맥 / 리눅스 지원"
+msgstr "Spiel/Video Beschleunigtes VPN mit WAN-Optimierung, Unterstützung für Windows / Mac / Linux"
+
+msgid "게임 가속, 미꾸라지, 동영상 가속, VPN"
+msgstr "Spielbeschleunigung, Mudfish, Videobeschleunigung, VPN"
+
+msgid "네이버 스포츠"
+msgstr "Naver Sports"
+
+msgid "해외에서 HD 급으로 네이버 스포츠를 시청 할 수 있습니다."
+msgstr "Watch the streaming of Naver Sports at overseas."
+
+msgid "아이온"
+msgstr "Aion"
+
+msgid "길드워 1 & 2"
+msgstr "Guild Wars 1 & 2"
+
+msgid "아키에이지"
+msgstr "ArcheAge"
+
+msgid "오디션"
+msgstr "Audition"
+
+msgid "아발론 온라인"
+msgstr "Avalon Online"
+
+msgid "배틀필드 3"
+msgstr "Battlefield 3"
+
+msgid "배틀필드 온라인"
+msgstr "Battlefield Online"
+
+msgid "블레이드 & 소울"
+msgstr "Blade & Soul"
+
+msgid "카오스 온라인"
+msgstr "Chaos Online"
+
+msgid "카운터 스트라이크: 글로벌 오펜시브"
+msgstr "Counterstrike: Global Offensive"
+
+msgid "사이퍼즈"
+msgstr "Cyphers"
+
+msgid "다크 에이지 오브 카멜롯"
+msgstr "Dark Age of Camelot"
+
+msgid "DC 유니버스 온라인"
+msgstr "DC Universe Online"
+
+msgid "리프트"
+msgstr "Rift"
+
+msgid "디아블로 3"
+msgstr "Diablo 3"
+
+msgid "DK 온라인"
+msgstr "DK Online"
+
+msgid "도타 2"
+msgstr "Dota 2"
+
+msgid "드래곤 네스트"
+msgstr "Dragon Nest"
+
+msgid "던전 앤 파이터"
+msgstr "Dungeon Fighter"
+
+msgid "던전 스트라이커"
+msgstr "Dungeon Striker"
+
+msgid "던전 앤 드래곤 온라인"
+msgstr "Dungeons & Dragons Online"
+
+msgid "이브 온라인"
+msgstr "EVE Online"
+
+msgid "에버퀘스트 II"
+msgstr "EverQuest II"
+
+msgid "피파 온라인 3"
+msgstr "FIFA Online 3"
+
+msgid "파이어폴"
+msgstr "Firefall"
+
+msgid "프리스타일 2"
+msgstr "FreeStyle 2: Street Basketball"
+
+msgid "프리스타일 풋볼"
+msgstr "Freestyle Football"
+
+msgid "겟앰프드"
+msgstr "GetAmped"
+
+msgid "겟앰프드 2"
+msgstr "GetAmped 2"
+
+msgid "마계촌 온라인"
+msgstr "Ghosts'n Goblins Online"
+
+msgid "그라나도 에스파다"
+msgstr "Granado Espada"
+
+msgid "그랑에이지"
+msgstr "GranAge"
+
+msgid "호큰"
+msgstr "Hawken"
+
+msgid "히어로즈 오브 뉴어스"
+msgstr "Heroes of Newerth"
+
+msgid "작룡문"
+msgstr "JanRyuMon"
+
+msgid "리그 오브 레전드"
+msgstr "League of Legends"
+
+msgid "레프트 4 데드"
+msgstr "Left 4 Dead"
+
+msgid "레프트 4 데드 2"
+msgstr "Left 4 Dead 2"
+
+msgid "에다전설"
+msgstr "Legend of Edda"
+
+msgid "리니지"
+msgstr "Lineage"
+
+msgid "리니지 II"
+msgstr "Lineage II"
+
+msgid "로스트사가"
+msgstr "Lost Saga"
+
+msgid "마비노기"
+msgstr "Mabinogi"
+
+msgid "마비노기 영웅전"
+msgstr "Mabinogi: Heroes"
+
+msgid "메이플스토리"
+msgstr "Maple Story"
+
+msgid "마블 히어로즈"
+msgstr "Marvel Heroes"
+
+msgid "멕워리어: 온라인"
+msgstr "MechWarrior Online"
+
+msgid "몬스터헌터 프론티어 Z"
+msgstr "Monster Hunter Frontier Z"
+
+msgid "마운트 & 블레이드: 워밴드 - 나폴레옹 전쟁"
+msgstr "Mount & Blade: Warband - Napoleonic Wars"
+
+msgid "네이비필드"
+msgstr "NavyField"
+
+msgid "페이퍼맨"
+msgstr "PaperMan"
+
+msgid "판타지 스타 온라인 2"
+msgstr "Phantasy Star Online 2"
+
+msgid "퀘이크 라이브"
+msgstr "Quake Live"
+
+msgid "R2 온라인"
+msgstr "R2 Online"
+
+msgid "라그나로크 온라인"
+msgstr "Ragnarok Online"
+
+msgid "레드 오케스트라 2"
+msgstr "Red Orchestra 2"
+
+msgid "스타 워즈: 구공화국"
+msgstr "Star Wars: The Old Republic"
+
+msgid "스타크래프트 II"
+msgstr "StarCraft II"
+
+msgid "슈퍼 스트리트 파이터 IV - Arcade Edition"
+msgstr "Super Street Fighter IV - Arcade Edition"
+
+msgid "테일즈위버"
+msgstr "Tales Weaver"
+
+msgid "팀 포트리스 2"
+msgstr "Team Fortress 2"
+
+msgid "테라"
+msgstr "TERA"
+
+msgid "반지의 제왕 온라인"
+msgstr "The Lord of the Rings Online"
+
+msgid "시크릿 월드"
+msgstr "The Secret World"
+
+msgid "울티마 온라인"
+msgstr "Ultima Online"
+
+msgid "워 썬더"
+msgstr "War Thunder"
+
+msgid "울펜슈타인: 에너미 테리토리"
+msgstr "Wolfenstein: Enemy Territory"
+
+msgid "월드 오브 탱크"
+msgstr "World of Tank"
+
+msgid "월드 오브 워플레인"
+msgstr "World of Warplanes"
+
+msgid "월드 오브 워크래프트"
+msgstr "World Of Warcraft"
+
+msgid "파이널 판타지 XIV: A Realm Reborn"
+msgstr "Final Fantasy XIV: A Realm Reborn"
+
+msgid "디아블로 2"
+msgstr "Diablo 2"
+
+msgid "나의 IP 는?"
+msgstr "What's my IP?"
+
+msgid "미꾸라지 적용 여부를 확인하기 위한 도구입니다. 자세한 방법은 '적용 여부 확인하기' 문서를 참고하세요."
+msgstr "A tool to check whether Mudfish is applied or not.  For detailed description, please see the document section."
+
+msgid "버블파이터"
+msgstr "Bubble Fighter"
+
+msgid "드래곤 퀘스트 10"
+msgstr "Dragon Quest X"
+
+msgid "배틀필드 4"
+msgstr "Battlefield 4"
+
+msgid "맥스 페인 3"
+msgstr "Max Payne 3"
+
+msgid "아스타"
+msgstr "ASTA: The War of Tears and Winds"
+
+msgid "다크폴"
+msgstr "Darkfall: Unholy Wars"
+
+msgid "MVP 베이스볼 온라인"
+msgstr "MVP Baseball Online"
+
+msgid "서든어택"
+msgstr "Sudden Attack"
+
+msgid "피파 14"
+msgstr "FIFA 14"
+
+msgid "하운즈: 리로드"
+msgstr "Hounds"
+
+msgid "구음진경"
+msgstr "Age of Wushu"
+
+msgid "트라이브스: 어쎈드"
+msgstr "Tribes Ascend"
+
+msgid "워게임: 레드 드래곤"
+msgstr "Wargame Red Dragon"
+
+msgid "환상신역"
+msgstr "Innocent World"
+
+msgid "삼국지 무쌍전"
+msgstr "Heroes of Three Kingdoms"
+
+msgid "라테일"
+msgstr "LaTale"
+
+msgid "서바리움"
+msgstr "Survarium"
+
+msgid "SD건담 캡슐파이터 온라인"
+msgstr "SD Gundam Capsule Fighter Online"
+
+msgid "에밀 크로니클 온라인"
+msgstr "Emil Chronicle Online"
+
+msgid "다음 스포츠"
+msgstr "Daum Sports"
+
+msgid "해외에서 HD 급으로 다음 스포츠를 시청할 수 있습니다."
+msgstr "Watch the streaming of Daum Sports at overseas."
+
+msgid "와일드스타"
+msgstr "Wildstar"
+
+msgid "플래닛사이드 2"
+msgstr "PlanetSide 2"
+
+msgid "디파이언스"
+msgstr "Defiance"
+
+msgid "코즈믹 브레이크"
+msgstr "CosmicBreak"
+
+msgid "에이지 오브 코난"
+msgstr "Age of Conan"
+
+msgid "팡야"
+msgstr "PangYa"
+
+msgid "아프리카TV"
+msgstr "AfreecaTV"
+
+msgid "피파 15"
+msgstr "FIFA 15"
+
+msgid "최강의군단"
+msgstr "HeroWarz"
+
+msgid "미니일레븐"
+msgstr "Mini11"
+
+msgid "네이비필드 2"
+msgstr "NavyField 2"
+
+msgid "이카루스"
+msgstr "Icarus"
+
+msgid "검은사막"
+msgstr "Black Desert"
+
+msgid "거상"
+msgstr "Gersang"
+
+msgid "바람의 나라"
+msgstr "Nexus: The Kingdom of the Winds"
+
+msgid "히어로즈 오브 더 스톰"
+msgstr "Heroes of the Storm"
+
+msgid "이터널시티3"
+msgstr "Eternal City 3"
+
+msgid "파이널 판타지 XI"
+msgstr "Final Fantasy XI"
+
+msgid "하스스톤"
+msgstr "Hearthstone: Heroes of Warcraft"
+
+msgid "벅스"
+msgstr "Bugs"
+
+msgid "워페이스"
+msgstr "Warface"
+
+msgid "대항해시대 온라인"
+msgstr "Uncharted Waters Online"
+
+msgid "월드 오브 워쉽"
+msgstr "World of Warships"
+
+msgid "스페셜포스2"
+msgstr "Special Force 2"
+
+msgid "메이플스토리2"
+msgstr "Maple Story 2"
+
+msgid "티빙"
+msgstr "Tving"
+
+msgid "카카오톡"
+msgstr "KakaoTalk"
+
+msgid "클로저스"
+msgstr "CLOSERS"
+
+msgid "애스커 온라인"
+msgstr "Asker Online"
+
+msgid "드래곤사가"
+msgstr "Dragonica"
+
+msgid "인벤"
+msgstr "Inven"
+
+msgid "페이스북"
+msgstr "Facebook"
+
+msgid "피파 16"
+msgstr "FIFA 16"
+
+msgid "아이템매니아"
+msgstr "Itemmania"
+
+msgid "아르피엘"
+msgstr "Arpiel"
+
+msgid "트리 오브 세이비어"
+msgstr "Tree of Savior"
+
+msgid "컬쳐랜드"
+msgstr "Cultureland"
+
+msgid "SD건담 넥스트 에볼루션"
+msgstr "SD Gundam Next Evolution"
+
+msgid "리그 오브 레전드 (일본)"
+msgstr "League of Legends (Japan Only)"
+
+msgid "드래곤즈 도그마 온라인"
+msgstr "Dragon's Dogma Online (New)"
+
+msgid "크레이지레이싱 카트라이더"
+msgstr "Crazyracing Kartrider"
+
+msgid "피파 온라인 2"
+msgstr "FIFA Online 2"
+
+msgid "네이버 메일"
+msgstr "Naver Mail"
+
+msgid "해피머니"
+msgstr "Happymoney"
+
+msgid "창세기전 4"
+msgstr "The War of Genesis 4"
+
+msgid "서든어택2"
+msgstr "Sudden Attack 2"
+
+msgid "배틀필드 1"
+msgstr "Battlefield 1"
+
+msgid "타르타로스: 리버스"
+msgstr "Tartaros: Rebirth"
+
+msgid "剑网3"
+msgstr "JX Online 3"
+
+msgid "게임조선"
+msgstr "Game Chosun"
+
+msgid "피파 17"
+msgstr "FIFA 17"
+
+msgid "포인트 블랭크"
+msgstr "Point Blank"
+
+msgid "텍사스 홀덤"
+msgstr "Texas Holdem"
+
+msgid "그랑블루 판타지"
+msgstr "Granblue Fantasy"
+
+msgid "다크 에덴"
+msgstr "DarkEden"
+
+msgid "无尽战区"
+msgstr "Wildfire"
+
+msgid "Plants vs. Zombies™ Garden Warfare 2"
+msgstr "Plants vs. Zombies™ Garden Warfare 2"
+
+msgid "테일즈런너"
+msgstr "Tales Runner"
+
+msgid "리그 오브 레전드 (중국)"
+msgstr "League of Legends (China)"
+
+msgid "어둠의 전설"
+msgstr "Legend of Darkness"
+
+msgid "블랙스쿼드"
+msgstr "Black Squad"
+
+msgid "完美世界国际版"
+msgstr "Perfect World"
+
+msgid "스페셜포스"
+msgstr "Special Force"
+
+msgid "리니지M"
+msgstr "Lineage M"
+
+msgid "다크어벤저3"
+msgstr "Dark Avenger 3"
+
+msgid "少女前线"
+msgstr "Girls' Frontline"
+
+msgid "아틀란티카"
+msgstr "Atlantica Online"
+
+msgid "街頭籃球"
+msgstr "FreeStyle Street Basketball"
+
+msgid "스타크래프트: 리마스터"
+msgstr "StarCraft: Remastered"
+
+msgid "이터널시티1"
+msgstr "Eternal City 1"
+
+msgid "피파 18"
+msgstr "FIFA 18"
+
+msgid "씰 온라인"
+msgstr "Seal Online"
+
+msgid "천애명월도"
+msgstr "Moonlight Blade"
+
+msgid "듀랑고"
+msgstr "Durango"
+
+msgid "검은사막M"
+msgstr "Black Desert Mobile"
+
+msgid "배틀필드 하드라인"
+msgstr "Battlefield Hardline"
+
+msgid "리니지 2: 레볼루션"
+msgstr "Lineage 2: Revolution"
+
+msgid "피파 온라인 4"
+msgstr "FIFA Online 4"
+
+msgid "프리스타일2: 플라잉덩크"
+msgstr "Freestyle 2: Flying Dunk"
+
+msgid "라그나로크M"
+msgstr "Ragnarok M"
+
+msgid "배틀필드 V"
+msgstr "Battlefield V"
+
+msgid "피파 19"
+msgstr "FIFA 19"
+
+msgid "에버퀘스트 I"
+msgstr "EverQuest I"
+
+msgid "프리스타일 1"
+msgstr "FreeStyle 1"
+
+msgid "라프텔"
+msgstr "Laftel"
+
+msgid "왓챠"
+msgstr "Watcha"
+
+msgid "무도유협"
+msgstr ""
+
+msgid "Dark Souls Ⅱ: Scholar of the First Sin"
+msgstr "Dark Souls Ⅱ: Scholar of the First Sin"
+
+msgid "피파 20"
+msgstr "FIFA 20"
+
+msgid "열혈강호 온라인"
+msgstr ""
+
+msgid "리니지2M"
+msgstr ""
+
+msgid "古劍奇譚網路版"
+msgstr ""
+
+msgid "아스가르드"
+msgstr ""
+
+msgid "라그하임"
+msgstr "Lagheim"
+
+msgid "프로야구 스피리츠 2019"
+msgstr "Professionelle Baseball-Geister 2019"
+
+msgid "그랑블루 판타지 Versus"
+msgstr "Granblue Fantasy Versus"
+
+msgid "피파 21"
+msgstr "FIFA 21"
+
+msgid "안녕하세요.  미꾸라지팀입니다."
+msgstr "Hallo, hier ist das Mudfish-Team."
+
+msgid "알리페이 결제 요청이 아래의 정보로 접수되었음을 알려드립니다."
+msgstr "Hiermit möchten wir Sie darüber informieren, dass wir Ihre Alipay-Zahlungsanforderung mit den folgenden Informationen erhalten haben."
+
+msgid "요청 날짜"
+msgstr "Anforderungsdatum"
+
+msgid "요청 IP"
+msgstr "IP des Anfordernden"
+
+msgid "입금인 별명"
+msgstr "Alias des Zahlenden"
+
+msgid "입금액"
+msgstr "Einzahlungsbetrag"
+
+msgid "이체하실 때 사용하실 QR 코드는 아래의 링크를 클릭해 주세요."
+msgstr "Bitte klicken Sie auf den Link unten, um den QR-Code für die Überweisungen zu erhalten."
+
+msgid ""
+"\n"
+"이체 발생 후 크레딧 충전까지 최대 24 시간이 소요될 수 있는 점과\n"
+"영업 시간 (한국 표준시 9AM ~ 6PM, 월-금) 내에만 처리를 해드리는 점\n"
+"양해 바랍니다.\n"
+msgstr "\nBitte beachten Sie, dass das Aufladen Ihres Guthabens nach einer Überweisung bis zu 24 Stunden dauern kann. Die Bearbeitung erfolgt nur innerhalb der Geschäftszeiten (9.00 bis 18.00 Uhr KST, Mo-Fr).\n"
+
+msgid "감사합니다."
+msgstr "Vielen Dank."
+
+msgid "미꾸라지팀"
+msgstr "Mudfish-Team"
+
+msgid "WeChat 결제 요청이 아래의 정보로 접수되었음을 알려드립니다."
+msgstr "Hiermit möchten wir Sie darüber informieren, dass wir Ihre WeChat-Zahlungsanforderung mit den folgenden Informationen erhalten haben."
+
+#, python-format
+msgid ""
+"\n"
+"안녕하세요. 미꾸라지팀입니다.\n"
+"\n"
+"등록하신 미꾸라지 ID 정보는 다음과 같습니다.\n"
+"\n"
+"발급 사유:\tID 찾기 이용\n"
+"발급 일자:\t%(date)s\n"
+"발급 요청 IP:\t%(remote_addr)s\n"
+"미꾸라지 ID:\t%(username)s\n"
+"\n"
+"미꾸라지를 이용하여 주셔서 감사합니다.\n"
+"\n"
+"----\n"
+"미꾸라지팀\n"
+msgstr "\nHallo, hier ist das Mudfish-Team.\n\nDie registrierten Mudfish ID-Informationen lauten wie folgt.\n\nGrund für die Ausgabe: \\\"ID vergessen\\\"\nAusgabedatum: %(date)s\nAnfragende IP: %(remote_addr)s\nMudfish ID: %(username)s\n\nVielen Dank, dass Sie Mudfish verwenden.\n\n----\nMudfish-Team\n"
+
+#, python-format
+msgid ""
+"\n"
+"안녕하세요 미꾸라지팀입니다.\n"
+"\n"
+"아래는 등록하신 %(username)s 사용자 ID에 대한 패스워드 인증키입니다.\n"
+"패스워드 찾기를 마무리하기 위해서는 아래의 링크를 방문해 주시기\n"
+"바랍니다.\n"
+"\n"
+"발급 사유:\t비밀번호 찾기 이용\n"
+"발급 일자:\t%(date)s\n"
+"발급 요청 IP:\t%(remote_addr)s\n"
+"찾기 링크:\thttps://mudfish.net/reset_pwd?key=%(tmpkey)s\n"
+"\n"
+"미꾸라지를 이용하여 주셔서 감사합니다.\n"
+"\n"
+"----\n"
+"미꾸라지팀\n"
+msgstr "\nHallo, das ist Loach Team.\n\nUnten finden Sie den Kennwortauthentifizierungsschlüssel für die registrierte Benutzer-ID %(username)s.\nBitte besuchen Sie den unten stehenden Link, um Ihr Passwort zu finden.\n\nAusstellungsgrund: Verwendung zum Abrufen des Kennworts\nAusgabedatum: %(date)s\nIP der Ausgabeanforderung: %(remote_addr)s\nSuchlink: https://mudfish.net/reset_pwd?key=%(tmpkey)s\n\nVielen Dank, dass Sie Mudfish verwendet haben.\n----\nMudfish Team\n"
+
+#, python-format
+msgid ""
+"\n"
+"안녕하세요 미꾸라지팀입니다.\n"
+"\n"
+"등록하신 %(username)s 사용자 ID에 대한 임시 패스워드를 발급해 드립니다.\n"
+"아래의 패스워드를 로그인 즉시 원하시는 패스워드로 변경하시기를 권합니다.\n"
+"\n"
+"발급 사유:\t비밀번호 찾기 이용\n"
+"발급 일자:\t%(date)s\n"
+"발급 요청 IP:\t%(remote_addr)s\n"
+"임시 비밀번호:\t%(tmppwd)s\n"
+"\n"
+"미꾸라지를 이용하여 주셔서 감사합니다.\n"
+"\n"
+"----\n"
+"미꾸라지팀\n"
+msgstr "\nHallo, hier ist das Mudfish Team.\n\nWir stellen ein temporäres Passwort für die Benutzer-ID Ihres registrierten %(username)s Benutzernamens aus.\nWir empfehlen, dass Sie das unten stehende Passwort sofort nach der Anmeldung in Ihr bevorzugtes Passwort ändern.\n\nGrund für die Ausgabe: \\\"Passwort vergessen\\\"\nAusgabedatum: %(date)s\nIP des Anfragenden: %(remote_addr)s\nTemporäres Passwort: %(tmppwd)s\n\nVielen Dank, dass Sie Mudfish verwenden.\n\n----\nMudfish-Team\n"
+
+#, python-format
+msgid ""
+"\n"
+"안녕하세요 미꾸라지팀입니다.\n"
+"\n"
+"이 메일은 가입하신 %(username)s 사용자 ID 의 활성화를 위한 안내 메일\n"
+"입니다.  24 시간내에 아래의 링크를 클릭해 주시거나 접속해 주셔야 요청하신 ID 가\n"
+"활성화 됩니다.  인증 완료가 되면 테스트를 위한 매우 작은 크레딧이 자동\n"
+"충전됩니다.\n"
+"\n"
+"요청 일자: %(date)s\n"
+"요청 IP: %(remote_addr)s\n"
+"\n"
+"확인 링크:\n"
+"\n"
+"https://mudfish.net/signup_confirm?key=%(key)s\n"
+"\n"
+"혹시 미꾸라지 클라이언트 프로그램은 설치하셨는지요? 본격적인 사용을 위해서는\n"
+"아래의 링크에서 미꾸라지를 받으셔서 설치해 주세요.  Windows, Mac OS X 그리고 Linux\n"
+"를 위한 설치판이 있습니다.\n"
+"\n"
+"다운로드:\n"
+"\n"
+"https://mudfish.net/download\n"
+"\n"
+"----\n"
+"미꾸라지팀\n"
+msgstr "\nHallo, hier ist das Mudfish Team.\n\nDies ist eine Anleitung zum Aktivieren der Benutzer-ID Ihres %(username)s Benutzernames. Klicken Sie auf den unten stehenden Link oder melden Sie sich innerhalb von 24 Stunden an, um Ihre angeforderte ID zu aktivieren. Sobald Sie verifiziert wurden, wird Ihnen automatisch ein sehr geringes Guthaben zum Testen gutgeschrieben.\n\nAnforderungsdatum: %(date)s\nIP des Anfordernden: %(remote_addr)s\n\nBestätigungslink:\n\nhttps://mudfish.net/signup_confirm?key=%(key)s\n\nHaben Sie bereits das Mudfish-Client-Programm installiert? Zum loslegen, installieren Sie Mudfish bitte über den folgenden Link. Es gibt eine Version für Windows, Mac OS X und Linux.\n\nDownload:\n\nhttps://mudfish.net/download\n\n----\nMudfish Team\n"
+
+msgid "(포럼 관리자)"
+msgstr "(Forumverwalter)"
+
+msgid "등록하기"
+msgstr "Registrieren"
+
+msgid "취소"
+msgstr "Abbrechen"
+
+msgid "댓글 수정"
+msgstr "Kommentar bearbeiten"
+
+msgid "삭제하기"
+msgstr "Löschen"
+
+msgid "설문 조사"
+msgstr "Umfrage"
+
+msgid "피드백 감사합니다."
+msgstr "Vielen Dank für Ihr Feedback."
+
+msgid "관리자의 답변에 만족하시나요?"
+msgstr "Sind Sie mit der Antwort die Sie erhalten haben zufrieden?"
+
+msgid "예"
+msgstr "Ja"
+
+msgid "비밀글로 저장됨"
+msgstr "Als privater Beitrag gespeichert"
+
+msgid "댓글 작성"
+msgstr "Einen Kommentar schreiben"
+
+msgid "댓글을 입력해 주세요."
+msgstr "Bitte geben Sie Ihren Kommentar ein."
+
+msgid "더 이상 글이 없습니다"
+msgstr "Keine weiteren Beiträge"
+
+msgid "아카이브 됨"
+msgstr "Archiviert"
+
+msgid "문제 해결 안됨"
+msgstr "Problem nicht gelöst"
+
+msgid "비밀글"
+msgstr "Privater Beitrag"
+
+#, python-format
+msgid "%(n_comments)s 개의 이전 답글 보기"
+msgstr "Zeigen Sie die vorherigen Antworten von %(n_comments)s an"
+
+msgid "글 수정"
+msgstr "Beitrag bearbeiten"
+
+msgid "주소 복사"
+msgstr "Adresse kopieren"
+
+msgid "복사되었습니다."
+msgstr "Erfolgreich kopiert."
+
+msgid "이 토픽만 보기"
+msgstr "Nur dieses Thema anzeigen"
+
+msgid "글쓰기"
+msgstr "Einen Beitrag erstellen/schreiben"
+
+msgid "문제가 있으신가요?"
+msgstr "Treten bei Ihnen Probleme auf?"
+
+msgid "전체 보기"
+msgstr "Alle anzeigen"
+
+msgid "헉!!!!!!"
+msgstr "Ups!!!!!!"
+
+msgid "지정하신 파일을 찾지 못하였습니다. OTL....."
+msgstr "Die von Ihnen angegebene Datei wurde nicht gefunden. OTL....."
+
+msgid ""
+"\n"
+"    <a href='mailto:support@loxch.com'>support@loxch.com</a> 으로 알려주시면\n"
+"    미꾸라지 2 주 체험권 혹은 현재 계정 기간 연장을 해드립니다.\n"
+"    "
+msgstr "\nPlease send this issue to <a href='mailto:support@loxch.com'>support@loxch.com</a> with how to repeat.  You'll get a free coupon as compensation.  :-)"
+
+msgid "이런!!!!!!"
+msgstr "Nein!!!!!!"
+
+msgid "미꾸라지가 미쳐 날뛰나 봅니다......"
+msgstr "Mudfish scheint verrückt zu werden..."
+
+msgid ""
+"\n"
+"    자세한 재현 방법과 함께\n"
+"    <a href='mailto:support@loxch.com'>support@loxch.com</a> 으로 알려주시면\n"
+"    미꾸라지 1달 체험권 혹은 현재 계정 기간 연장을 해드리겠습니다!\n"
+"    이용에 불편을 드려 정말 죄송합니다.\n"
+"    "
+msgstr "\nSorry for inconvenience.  Please let <a href='mailto:support@loxch.com'>us</a> know this problem.  You'll get a free coupon as compensation.  Thank you."
+
+msgid "시행일: 2016년 1월 19일"
+msgstr "Datum des Inkrafttretens: 19. Januar 2016"
+
+msgid "이용 약관"
+msgstr "Nutzungsbedingungen"
+
+msgid "시행일: 2013년 3월 22일"
+msgstr "Datum des Inkrafttretens: 22. März 2013"
+
+msgid "모바일"
+msgstr "Mobil"
+
+msgid "Android"
+msgstr "Android"
+
+msgid "직접 APK 다운로드"
+msgstr "Apk direkt herunterladen"
+
+msgid "iPhone"
+msgstr "iPhone"
+
+#, python-format
+msgid "최신 버전은 <strong>v%(CURRENT_VERSTR)s</strong> 입니다."
+msgstr "The latest version is <strong>v%(CURRENT_VERSTR)s</strong>."
+
+msgid ""
+"\n"
+"    이전 버전은\n"
+"    <a href='/releases/'>여기</a>에서 다운로드\n"
+"    가능합니다.\n"
+"    "
+msgstr "\nThe previous releases are available at <a href='/releases/'>here</a>."
+
+msgid "DNS Client"
+msgstr "DNS-Client"
+
+msgid "Windows"
+msgstr "Windows"
+
+msgid "브라우저 확장 기능"
+msgstr "Browsererweiterung"
+
+msgid "Chrome Extension"
+msgstr "Chrome-Erweiterung"
+
+msgid "Firefox Extension"
+msgstr "Firefox-Erweiterung"
+
+msgid "Microsoft Edge"
+msgstr "Microsoft Edge"
+
+msgid "PC 용"
+msgstr "Für PC"
+
+msgid "다운로드 (개발자용)"
+msgstr "Download (für Entwickler)"
+
+#, python-format
+msgid "최신 개발자 버전은 <strong>v%(DEV_VERSTR)s</strong> 입니다."
+msgstr "The latest unstable version is <strong>v%(DEV_VERSTR)s</strong>."
+
+msgid "64 bit 다운로드"
+msgstr "64-Bit-Download"
+
+msgid "32 bit 다운로드"
+msgstr "32-Bit-Download"
+
+msgid "Ubuntu 12.4 LTS 이상 지원"
+msgstr "Unterstützung für Ubuntu 12.4 LTS oder höher"
+
+msgid "다운로드 중입니다!"
+msgstr "Download wird ausgeführt!"
+
+#, python-format
+msgid ""
+"\n"
+"    미꾸라지를 다운로드 해주셔서 감사합니다!<br/>\n"
+"    만약 5 초내에 자동으로 다운로드가 시작되지 않는다면\n"
+"    <a href='https://mudfish.net/releases/%(filename)s'>여기</a>를\n"
+"    클릭하셔서 수동으로 진행하시면 됩니다.\n"
+"    "
+msgstr "\nThank you for downloading Mudfish!<br/>\nIf it's not started automatically within 5 seconds, please click <a href='https://mudfish.net/releases/%(filename)s'>Here</a> to download manually."
+
+msgid "미꾸라지 사용이 처음이신가요?"
+msgstr "Neu bei Mudfish?"
+
+msgid ""
+"\n"
+"\t    사용법과 전반적인 이해에 대한 문서들은\n"
+"\t    <a href='https://docs.mudfish.net'>여기</a>에서 확인하실 수 있으며 가장 먼저\n"
+"\t    아래의 문서를 읽어 보시길 추천합니다."
+msgstr "\nPlease visit <a href='https://docs.mudfish.net'>our official documents</a> to understand how Mudfish works.  The following documents are recommended if you're first to use."
+
+msgid "무작정 따라하기"
+msgstr "Folgen Sie uns"
+
+msgid "설치 방법"
+msgstr "Installationsanleitung"
+
+msgid "언제든지 물어보세요."
+msgstr "Bitte zögern Sie nicht zu fragen."
+
+msgid ""
+"\n"
+"\t    <a href='/forums'>포럼</a> 혹은\n"
+"\t    <a href='mailto:support@loxch.com'>E 메일</a>을\n"
+"\t    통해 지원(support)을 해드리고 있습니다.  설치 혹은 사용에 문의가\n"
+"\t    있다면 언제든지 글을 남겨 주세요.\n"
+"\t    "
+msgstr "\nSupport channels are open through <a href='/forums'>forums</a> or <a href='mailto:support@loxch.com'>E mail</a>.  Please leave any messages if you need a help.\n\t    "
+
+msgid "기술 지원에 대한 전화 상담은 하지 않습니다."
+msgstr "Es gibt keinen telefonischen Support für technische Anfragen."
+
+msgid "ID 찾기"
+msgstr "ID finden"
+
+msgid "E메일 주소"
+msgstr "E-Mail-Adresse"
+
+msgid ""
+"\n"
+"      가입에 사용하셨던 E 메일 주소를 입력하여 주십시오. 등록시\n"
+"      입력하셨던 E-메일 주소로 ID 정보를 보내드립니다.\n"
+"      "
+msgstr "\nBitte geben Sie die E-Mail-Adresse ein, mit der Sie sich registriert haben. Ihre ID wird an die E-Mail-Adresse gesendet, die Sie bei der Registrierung angegeben haben."
+
+msgid "요청하기"
+msgstr "Anfrage senden"
+
+msgid "비밀번호 찾기"
+msgstr "Passwort finden"
+
+msgid ""
+"\n"
+"      가입에 사용하셨던 사용자 ID 을 입력하여 주십시오.\n"
+"      등록시 입력하셨던 E-메일 주소로 <strong>임시 패스워드</strong>를 보내드립니다.\n"
+"      (만약 사용자 ID 가 기억나지 않으신다면\n"
+"      <a href='mailto:support@loxch.com'>support@loxch.com</a> 로 연락바랍니다.)\n"
+"      "
+msgstr "\nPlease type username you used to register.  The <strong>temporary password</strong> would be delivered to your E-Mail inbox.  (Contact <a href='mailto:support@loxch.com'>support@loxch.com</a> directly if you could not remember)\n      "
+
+msgid "인터넷 가속 서비스"
+msgstr "Internet-Beschleunigungsdienst"
+
+msgid "게임 / 동영상"
+msgstr "Spiel / Video"
+
+msgid ""
+"\n"
+"\t  Protocol (TCP 혹은 UDP, SCTP) Acceleration\n"
+"\t  기술이 접목된 프로그램으로써 WAN 최적화를 통해 사용자와\n"
+"\t  목적 서버간의 연결을 가속시켜 좀 더 안정적이고 빠른 응답 속도를\n"
+"\t  보장해 드립니다.\n"
+"\t  "
+msgstr "\nEin Programm mit integrierter Protokollbeschleunigungstechnologie (TCP oder UDP, SCTP); verwendet WAN-Optimierung, um die Verbindung zwischen dem Benutzer und dem Zielserver zu beschleunigen und eine stabilere und schnellere Antwortgeschwindigkeit sicherzustellen."
+
+msgid "사용할 패스워드"
+msgstr "Zu verwendendes Passwort"
+
+msgid ""
+"\n"
+"      \t  패스워드는 최소 6자 이상이여야 합니다.\n"
+"      \t  "
+msgstr "\nPasswörter müssen mindestens sechs Zeichen lang sein."
+
+msgid "계정 생성하기"
+msgstr "Konto erstellen"
+
+msgid ""
+"\n"
+"      \t    <strong>계정 생성</strong>시\n"
+"      \t    <a href='/agreement/tos'>이용약관</a>과\n"
+"      \t    <a href='/agreement/privacy_policy'>개인정보 보호정책</a>\n"
+"      \t    에 동의함을 뜻합니다.\n"
+"      \t    "
+msgstr "\nBy clicking <strong>Sign up for Mudfish</strong>, you agree to our <a href='/agreement/tos'>terms of service</a> and <a href='/agreement/privacy_policy'>privacy policy</a>. We will send you account related emails occasionally."
+
+msgid "왜 미꾸라지일까요?"
+msgstr "Warum Mudfish?"
+
+msgid "일반 VPN"
+msgstr "Allgemeines VPN"
+
+msgid "게임 Lag 및 RTT 감소, 연결 지속 강화 효과"
+msgstr "Reduzierter Lag bei Spielen und RTT, verstärkte Verbindung"
+
+msgid "WAN 최적화 기술"
+msgstr "WAN-Optimierungstechnologie"
+
+msgid "전세계 전용 서버수"
+msgstr "Anzahl der dedizierten Server weltweit"
+
+msgid "무료 공개 서버수"
+msgstr "Anzahl der kostenlosen öffentlichen Server"
+
+msgid "방화벽 우회 기능"
+msgstr "Firewall-Umgehungsfunktion"
+
+msgid "Server Chain 기능"
+msgstr "Serverkettenfunktion"
+
+msgid "Multi Path 모드"
+msgstr "Mehrwegemodus"
+
+msgid "Full VPN 모드 지원"
+msgstr "Volle VPN-Modus-Unterstützung"
+
+msgid "게임 트래픽만 전송 기능"
+msgstr "Funktion um ausschließlich Spiele-Verkehr zu senden"
+
+msgid "웹 브라우저 및 SOCKS proxy 지원"
+msgstr "Unterstützung für Webbrowser und SOCKS-Proxy"
+
+msgid "AppLocale 지원 여부"
+msgstr "AppLocale-Unterstützung"
+
+msgid "모바일 환경 지원"
+msgstr "Unterstützung für mobile Umgebungen"
+
+msgid "Mac OS X / Linux 지원"
+msgstr "Mac OS X / Linux-Unterstützung"
+
+msgid "Chrome 브라우저 지원"
+msgstr "Chrome-Browser-Unterstützung"
+
+msgid "Firefox 브라우저 지원"
+msgstr "Firefox-Browser-Unterstützung"
+
+msgid "최소 서비스 가격"
+msgstr "Minimaler Servicepreis"
+
+msgid "$0.01 USD / 달"
+msgstr "0,01 $ / Monat"
+
+msgid "$9.99 USD / 달"
+msgstr "9,99 $ / Monat"
+
+msgid "$2.99 USD / 달"
+msgstr "2,99 $ / Monat"
+
+msgid "Basic 요금제로는 이용 불가능하며 Advanced 요금제만 가능합니다."
+msgstr "Nicht verfügbar im Basis-Tarif; kann nur im Fortgeschrittenen-Tarif verwendet werden."
+
+msgid "사업자 마다 다를 수 있습니다."
+msgstr "Dies kann je nach Unternehmen/Anbieter variieren."
+
+msgid ""
+"\n"
+"  \t종량제의 경우 트래픽 사용량에 따라 가격은 달라질 수 있으며, 정액제의 최소\n"
+"  \t서비스 가격은 '$0.99 USD / 달' 입니다.\n"
+"  \t"
+msgstr "\nIm Pay-As-You-Go-Tarif kann der Preis je nach Verkehrsnutzung variieren, und der Mindest-Servicepreis für das Abonnement beträgt \\\"0,99 $ USD / Monat\\\"."
+
+msgid "완전 무료 공개 서버입니다.  별도의 크레딧이 필요 없고, 속도 제한 또한 없습니다."
+msgstr "Völlig kostenloser öffentlicher Server. Kein Guthaben erforderlich, keine Geschwindigkeitsbegrenzung."
+
+msgid ""
+"\n"
+"\t\t설정 구성 완료 후 한번 선택된 중계 서버는 중간에 변경되지\n"
+"\t\t않습니다.\n"
+"\t\t"
+msgstr "\nSobald die Setup-Konfiguration abgeschlossen ist, ändert sich der ausgewählte Relay-Server nicht mehr in der Mitte."
+
+msgid ""
+"\n"
+"\t\t두개의 중계 서버들을 경유하여 트래픽이 전달되지만, 첫번째\n"
+"\t\t중계 서버의 선택이 Ping 상태에 따라 자동으로 변경됩니다.\n"
+"\t\t"
+msgstr "\nDer Datenverkehr durchläuft zwei Mudfish-Node. Die Auswahl des ersten Mudfish Nodes ändert sich jedoch automatisch in Abhängigkeit vom Ping-Status."
+
+msgid "지원하는 게임 및 사이트"
+msgstr "Unterstützte Spiele und Webseiten"
+
+msgid ""
+"\n"
+"    현재 다음과 같은 게임 및 사이트들이 미꾸라지를 통해 공식 지원되고 있습니다.\n"
+"    "
+msgstr "\nDerzeit werden die folgenden Spiele und Webseiten offiziell von Mudfish unterstützt."
+
+msgid ""
+"\n"
+"\t\t    이 아이템이 지원하는 게임 / 사이트 / 스트리밍 서버 위치를\n"
+"\t\t    가르킵니다.\n"
+"\t\t    "
+msgstr "\nGibt den Speicherort des Spiels / der Site / des Streaming-Servers an, den dieses Item unterstützt."
+
+msgid ""
+"\n"
+"\t      미꾸라지 사용시 해당 목적지까지 예상되는 핑을 계산해\n"
+"\t      보겠습니까?\n"
+"\t      "
+msgstr "\nMöchten Sie den erwarteten Ping zu diesem Ziel berechnen?"
+
+msgid "예상 핑 계산"
+msgstr "Geschätzte Ping-Berechnung"
+
+msgid "1 단계: 사용자 ↔ 중계 서버 핑 계산"
+msgstr "Schritt 1: Berechnen Sie den Ping des Benutzer-Relay-Servers"
+
+msgid "예상 핑 계산하기"
+msgstr "Berechnen Sie den erwarteten Ping"
+
+msgid ""
+"\n"
+"\t\t약 30 초 정도 기다리신 후 다시 시도해 보시기 바랍니다.\n"
+"\t\t"
+msgstr "\nBitte warten Sie ca. 30 Sekunden und versuchen Sie es erneut."
+
+msgid "2 단계: 사용자 ↔ 목적지 핑 계산"
+msgstr "Schritt 2: Berechnen Sie den Ziel-Ping des Benutzers"
+
+msgid "(완료됨)"
+msgstr "(Abgeschlossen)"
+
+msgid "위치"
+msgstr "Ort"
+
+msgid "핑"
+msgstr "Ping"
+
+msgid "현재 RTT"
+msgstr "Aktuelle RTT"
+
+msgid "RTT 테스트"
+msgstr "RTT-Test"
+
+msgid ""
+"\n"
+"\t\t현재 '사용자 ↔ 미꾸라지 중계 서버' 간 RTT (핑)을 계산 중입니다.  잠시만 기다려\n"
+"\t\t주시기 바랍니다.\n"
+"\t\t"
+msgstr "\nDerzeit wird die RTT (Ping) zwischen \"Benutzer ↔ Mudfish Server\" berechnet. Bitte warte einen Moment."
+
+msgid ""
+"\n"
+"\t\t계산이 완료되었습니다.  다음 단계로 이동해 주세요.\n"
+"\t\t"
+msgstr "\nDie Berechnung ist abgeschlossen. Bitte fahren Sie mit dem nächsten Schritt fort."
+
+msgid ""
+"\n"
+"      중계 서버 이름을 클릭하시면 자세한 서버 정보를 확인하실 수 있습니다.\n"
+"      "
+msgstr "\nKlicken Sie auf den Namen des Relay-Servers, um detaillierte Informationen zum Server zu erhalten."
+
+msgid ""
+"\n"
+"\t      미꾸라지의 모든 기능을 공유기에도 적용해 보세요.\n"
+"\t      "
+msgstr "\nBringen Sie alle Funktionen von Mudfish auch zu Ihrem Router."
+
+msgid ""
+"\n"
+"    미꾸라지 게임 공유기를 사용하시면 편리하게 미꾸라지 서비스를\n"
+"    이용하실 수 있습니다.\n"
+"    "
+msgstr "\nSie können die Mudfish-Dienste ganz bequem durch den Einsatz eines Mudfish Spielerouters nutzen."
+
+msgid "로그인하기"
+msgstr "Anmelden"
+
+msgid "로그인 기억하기"
+msgstr "Mein Login merken"
+
+msgid "계정 생성"
+msgstr "Konto erstellen"
+
+msgid ""
+"\n"
+"          패스워드는 최소 6자 이상이여야 합니다.\n"
+"          "
+msgstr "\nPasswörter müssen mindestens sechs Zeichen lang sein."
+
+msgid ""
+"\n"
+"            <strong>계정 생성</strong>시\n"
+"            <a href='/agreement/tos'>이용약관</a>과\n"
+"            <a href='/agreement/privacy_policy'>개인정보 보호정책</a>\n"
+"            에 동의함을 뜻합니다.\n"
+"            "
+msgstr "\nBy clicking <strong>Sign up for Mudfish</strong>, you agree to our <a href='/agreement/tos'>terms of service</a> and <a href='/agreement/privacy_policy'>privacy policy</a>. We will send you account related emails occasionally."
