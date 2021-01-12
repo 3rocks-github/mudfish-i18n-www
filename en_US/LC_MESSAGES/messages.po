@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: mudfish\n"
 "Report-Msgid-Bugs-To: weongyo@gmail.com\n"
 "POT-Creation-Date: 2021-01-04 23:11+0900\n"
-"PO-Revision-Date: 2021-01-11 12:41+0000\n"
+"PO-Revision-Date: 2021-01-13 01:41+0000\n"
 "Last-Translator: Weongyo Jeong <weongyo@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.mudfish.net/projects/"
 "mudfish/www/en_US/>\n"
@@ -3019,8 +3019,9 @@ msgstr "Laftel"
 msgid "왓챠"
 msgstr "Watcha"
 
+#, fuzzy
 msgid "무도유협"
-msgstr ""
+msgstr "무도유협"
 
 #, fuzzy
 msgid "Dark Souls Ⅱ: Scholar of the First Sin"
